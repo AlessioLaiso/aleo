@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="760"/>
+  <unicode hex="00D0"/>
+  <note>
+    Eth
+  </note>
+  <outline>
+    <contour>
+      <point x="27" y="342" type="line"/>
+      <point x="388" y="342" type="line"/>
+      <point x="388" y="374" type="line"/>
+      <point x="27" y="374" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:36:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="1">
+  <advance width="200"/>
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="123" y="-177"/>
+      <point x="156" y="-167"/>
+      <point x="172" y="-140" type="curve"/>
+      <point x="176" y="-132"/>
+      <point x="179" y="-123"/>
+      <point x="179" y="-113" type="curve" smooth="yes"/>
+      <point x="179" y="-72"/>
+      <point x="145" y="-54"/>
+      <point x="88" y="-45" type="curve"/>
+      <point x="103" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="51" y="-64" type="line"/>
+      <point x="95" y="-71"/>
+      <point x="140" y="-74"/>
+      <point x="140" y="-113" type="curve" smooth="yes"/>
+      <point x="140" y="-142"/>
+      <point x="116" y="-154"/>
+      <point x="86" y="-154" type="curve" smooth="yes"/>
+      <point x="70" y="-154"/>
+      <point x="46" y="-147"/>
+      <point x="34" y="-139" type="curve" smooth="yes"/>
+      <point x="31" y="-137"/>
+      <point x="25" y="-132"/>
+      <point x="20" y="-142" type="curve"/>
+      <point x="14" y="-156" type="line"/>
+      <point x="34" y="-170"/>
+      <point x="56" y="-177"/>
+      <point x="87" y="-177" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="44" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="97" y="-177" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:36:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

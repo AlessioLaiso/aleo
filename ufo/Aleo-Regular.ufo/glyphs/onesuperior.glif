@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="283"/>
+  <unicode hex="00B9"/>
+  <note>
+    onesuperior
+  </note>
+  <outline>
+    <contour>
+      <point x="54" y="492" type="line"/>
+      <point x="54" y="450" type="line"/>
+      <point x="257" y="450" type="line"/>
+      <point x="257" y="492" type="line"/>
+      <point x="192" y="492" type="line"/>
+      <point x="192" y="816" type="line"/>
+      <point x="138" y="816" type="line"/>
+      <point x="27" y="720" type="line"/>
+      <point x="46" y="692" type="line"/>
+      <point x="49" y="688"/>
+      <point x="54" y="686"/>
+      <point x="62" y="686" type="curve" smooth="yes"/>
+      <point x="66" y="686"/>
+      <point x="72" y="687"/>
+      <point x="76" y="690" type="curve"/>
+      <point x="129" y="734" type="line"/>
+      <point x="127" y="712" type="line"/>
+      <point x="127" y="492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:39:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

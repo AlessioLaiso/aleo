@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C9" format="1">
+  <advance width="377"/>
+  <unicode hex="02C9"/>
+  <note>
+    uni02C9
+  </note>
+  <outline>
+    <contour>
+      <point x="46" y="674" type="line"/>
+      <point x="46" y="616" type="line"/>
+      <point x="333" y="616" type="line"/>
+      <point x="333" y="674" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:39:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

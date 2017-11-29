@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="381"/>
+  <unicode hex="00BB"/>
+  <note>
+    guillemotright
+  </note>
+  <outline>
+    <contour>
+      <point x="332" y="263" type="line"/>
+      <point x="211" y="452" type="line"/>
+      <point x="196" y="445" type="line"/>
+      <point x="185" y="438"/>
+      <point x="188" y="430"/>
+      <point x="192" y="421" type="curve"/>
+      <point x="283" y="273" type="line" smooth="yes"/>
+      <point x="287" y="266"/>
+      <point x="291" y="262"/>
+      <point x="294" y="259" type="curve"/>
+      <point x="291" y="256"/>
+      <point x="287" y="252"/>
+      <point x="283" y="245" type="curve"/>
+      <point x="192" y="99" type="line"/>
+      <point x="189" y="92"/>
+      <point x="183" y="83"/>
+      <point x="196" y="75" type="curve"/>
+      <point x="211" y="67" type="line"/>
+      <point x="332" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="263" type="line"/>
+      <point x="84" y="452" type="line"/>
+      <point x="68" y="445" type="line"/>
+      <point x="57" y="439"/>
+      <point x="59" y="430"/>
+      <point x="64" y="420" type="curve"/>
+      <point x="156" y="273" type="line"/>
+      <point x="160" y="266"/>
+      <point x="163" y="262"/>
+      <point x="166" y="259" type="curve"/>
+      <point x="163" y="256"/>
+      <point x="160" y="252"/>
+      <point x="156" y="245" type="curve"/>
+      <point x="64" y="98" type="line"/>
+      <point x="61" y="92"/>
+      <point x="55" y="82"/>
+      <point x="68" y="74" type="curve"/>
+      <point x="84" y="67" type="line"/>
+      <point x="204" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:36:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

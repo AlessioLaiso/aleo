@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb" format="1">
+  <advance width="360"/>
+  <unicode hex="0335"/>
+  <outline>
+    <contour>
+      <point x="15" y="319" type="line"/>
+      <point x="345" y="319" type="line"/>
+      <point x="345" y="407" type="line"/>
+      <point x="15" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="359" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-26 14:27:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

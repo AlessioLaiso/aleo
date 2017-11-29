@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="754"/>
+  <unicode hex="0041"/>
+  <note>
+    A
+  </note>
+  <outline>
+    <contour>
+      <point x="104" y="0" type="line"/>
+      <point x="128" y="46" type="line"/>
+      <point x="225" y="232" type="line"/>
+      <point x="563" y="232" type="line"/>
+      <point x="615" y="46" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="681" y="0" type="line"/>
+      <point x="667" y="46" type="line"/>
+      <point x="478" y="708" type="line"/>
+      <point x="427" y="708" type="line"/>
+      <point x="75" y="46" type="line"/>
+      <point x="49" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="614" type="line" smooth="yes"/>
+      <point x="432" y="624"/>
+      <point x="442" y="644"/>
+      <point x="446" y="656" type="curve"/>
+      <point x="448" y="644"/>
+      <point x="453" y="625"/>
+      <point x="455" y="615" type="curve"/>
+      <point x="552" y="270" type="line"/>
+      <point x="246" y="270" type="line"/>
+    </contour>
+    <component base="serifBottom" xOffset="-58"/>
+    <component base="serifBottom" xOffset="494"/>
+    <contour>
+      <point x="715" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="377" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="446" y="708" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

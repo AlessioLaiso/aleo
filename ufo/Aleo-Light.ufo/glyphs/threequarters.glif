@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="718"/>
+  <unicode hex="00BE"/>
+  <note>
+    threequarters
+  </note>
+  <outline>
+    <contour>
+      <point x="630" y="124" type="line"/>
+      <point x="630" y="358" type="line"/>
+      <point x="597" y="358" type="line"/>
+      <point x="421" y="122" type="line"/>
+      <point x="424" y="106" type="line" smooth="yes"/>
+      <point x="425" y="101"/>
+      <point x="428" y="98"/>
+      <point x="436" y="98" type="curve" smooth="yes"/>
+      <point x="599" y="98" type="line"/>
+      <point x="599" y="0" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="630" y="98" type="line"/>
+      <point x="685" y="98" type="line" smooth="yes"/>
+      <point x="691" y="98"/>
+      <point x="694" y="101"/>
+      <point x="694" y="106" type="curve" smooth="yes"/>
+      <point x="694" y="124" type="line"/>
+    </contour>
+    <contour>
+      <point x="599" y="123" type="line"/>
+      <point x="456" y="123" type="line"/>
+      <point x="600" y="317" type="line"/>
+      <point x="599" y="307"/>
+      <point x="599" y="299"/>
+      <point x="599" y="291" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="606" y="707" type="line"/>
+      <point x="585" y="707" type="line" smooth="yes"/>
+      <point x="575" y="707"/>
+      <point x="565" y="704"/>
+      <point x="558" y="690" type="curve"/>
+      <point x="158" y="0" type="line"/>
+      <point x="178" y="0" type="line" smooth="yes"/>
+      <point x="187" y="0"/>
+      <point x="196" y="2"/>
+      <point x="205" y="15" type="curve"/>
+    </contour>
+    <component base="threesuperior" xOffset="-6" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:36:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

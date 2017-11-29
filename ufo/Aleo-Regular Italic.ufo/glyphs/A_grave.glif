@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="738"/>
+  <unicode hex="00C0"/>
+  <note>
+    Agrave
+  </note>
+  <outline>
+    <contour>
+      <point x="665" y="68" type="line"/>
+      <point x="485" y="716" type="line"/>
+      <point x="387" y="716" type="line"/>
+      <point x="48" y="68" type="line"/>
+      <point x="6" y="56" type="line"/>
+      <point x="-3" y="54"/>
+      <point x="-8" y="49"/>
+      <point x="-9" y="40" type="curve" smooth="yes"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="197" y="40" type="line" smooth="yes"/>
+      <point x="198" y="49"/>
+      <point x="194" y="54"/>
+      <point x="185" y="56" type="curve"/>
+      <point x="146" y="68" type="line"/>
+      <point x="220" y="212" type="line"/>
+      <point x="529" y="212" type="line"/>
+      <point x="567" y="68" type="line"/>
+      <point x="524" y="56" type="line"/>
+      <point x="515" y="54"/>
+      <point x="510" y="49"/>
+      <point x="509" y="40" type="curve" smooth="yes"/>
+      <point x="504" y="0" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="714" y="40" type="line" smooth="yes"/>
+      <point x="715" y="49"/>
+      <point x="711" y="54"/>
+      <point x="703" y="56" type="curve"/>
+    </contour>
+    <contour>
+      <point x="255" y="282" type="line"/>
+      <point x="395" y="557" type="line" smooth="yes"/>
+      <point x="403" y="573"/>
+      <point x="413" y="596"/>
+      <point x="425" y="625" type="curve"/>
+      <point x="429" y="598"/>
+      <point x="433" y="576"/>
+      <point x="438" y="558" type="curve" smooth="yes"/>
+      <point x="510" y="282" type="line"/>
+    </contour>
+    <component base="gravecomb.case"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-12 21:07:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

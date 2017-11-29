@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.case" format="1">
+  <advance width="389"/>
+  <note>
+    macron.case
+  </note>
+  <outline>
+    <component base="macroncomb" yOffset="209"/>
+    <contour>
+      <point x="196" y="824" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="187" y="708" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

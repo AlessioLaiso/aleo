@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="221"/>
+  <unicode hex="0069"/>
+  <note>
+    i
+  </note>
+  <outline>
+    <contour>
+      <point x="116" y="40" type="line"/>
+      <point x="172" y="498" type="line"/>
+      <point x="52" y="498" type="line"/>
+      <point x="50" y="478" type="line" smooth="yes"/>
+      <point x="49" y="467"/>
+      <point x="54" y="461"/>
+      <point x="67" y="460" type="curve"/>
+      <point x="120" y="458" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="185" y="20" type="line" smooth="yes"/>
+      <point x="186" y="31"/>
+      <point x="181" y="37"/>
+      <point x="168" y="38" type="curve"/>
+    </contour>
+    <component base="dotaccentcomb.case" xOffset="35"/>
+    <contour>
+      <point x="125" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

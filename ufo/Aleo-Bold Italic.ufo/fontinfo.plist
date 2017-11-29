@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>805</integer>
+	<key>capHeight</key>
+	<integer>723</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2013-2017 by Alessio Laiso (hello@alessiolaiso.com). Licensed under the SIL Open Font License, Version 1.3</string>
+	<key>descender</key>
+	<integer>-195</integer>
+	<key>familyName</key>
+	<string>Aleo</string>
+	<key>italicAngle</key>
+	<real>-7</real>
+	<key>openTypeHeadCreated</key>
+	<string>2017/11/28 23:34:12</string>
+	<key>openTypeNameDesigner</key>
+	<string>Alessio Laiso</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Aleo</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold Italic</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>805</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-195</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>200</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-168</integer>
+		<integer>-168</integer>
+		<integer>-8</integer>
+		<integer>0</integer>
+		<integer>513</integer>
+		<integer>521</integer>
+		<integer>723</integer>
+		<integer>731</integer>
+		<integer>736</integer>
+		<integer>743</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Aleo-BoldItalic</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>86</integer>
+		<integer>90</integer>
+		<integer>96</integer>
+		<integer>99</integer>
+		<integer>103</integer>
+		<integer>107</integer>
+		<integer>110</integer>
+		<integer>119</integer>
+		<integer>126</integer>
+		<integer>145</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-20</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>80</integer>
+	<key>styleMapStyleName</key>
+	<string>bold italic</string>
+	<key>styleName</key>
+	<string>Bold Italic</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>300</integer>
+	<key>xHeight</key>
+	<integer>513</integer>
+</dict>
+</plist>

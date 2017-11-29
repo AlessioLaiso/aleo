@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="476"/>
+  <unicode hex="2020"/>
+  <note>
+    dagger
+  </note>
+  <outline>
+    <contour>
+      <point x="30" y="446" type="line"/>
+      <point x="220" y="446" type="line"/>
+      <point x="220" y="198" type="line"/>
+      <point x="214" y="-174" type="line"/>
+      <point x="232" y="-183"/>
+      <point x="246" y="-183"/>
+      <point x="264" y="-174" type="curve"/>
+      <point x="258" y="198" type="line"/>
+      <point x="258" y="446" type="line"/>
+      <point x="448" y="446" type="line"/>
+      <point x="448" y="462" type="line" smooth="yes"/>
+      <point x="448" y="473"/>
+      <point x="443" y="484"/>
+      <point x="424" y="484" type="curve"/>
+      <point x="421" y="484"/>
+      <point x="259" y="474"/>
+      <point x="258" y="474" type="curve"/>
+      <point x="264" y="716" type="line"/>
+      <point x="248" y="724"/>
+      <point x="229" y="724"/>
+      <point x="214" y="716" type="curve"/>
+      <point x="220" y="474" type="line"/>
+      <point x="179" y="475"/>
+      <point x="101" y="482"/>
+      <point x="53" y="484" type="curve"/>
+      <point x="37" y="484"/>
+      <point x="30" y="474"/>
+      <point x="30" y="462" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:36:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

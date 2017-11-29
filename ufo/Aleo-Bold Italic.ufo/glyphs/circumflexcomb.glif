@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="1">
+  <advance width="375"/>
+  <unicode hex="0302"/>
+  <outline>
+    <component base="circumflex" xOffset="28"/>
+    <contour>
+      <point x="228" y="723" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="228" y="513" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-26 14:42:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

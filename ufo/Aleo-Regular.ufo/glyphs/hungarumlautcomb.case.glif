@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="396" y="894" type="line"/>
+      <point x="309" y="894" type="line" smooth="yes"/>
+      <point x="292" y="894"/>
+      <point x="277" y="886"/>
+      <point x="270" y="872" type="curve"/>
+      <point x="196" y="750" type="line"/>
+      <point x="249" y="750" type="line" smooth="yes"/>
+      <point x="259" y="750"/>
+      <point x="274" y="757"/>
+      <point x="280" y="764" type="curve"/>
+    </contour>
+    <contour>
+      <point x="546" y="894" type="line"/>
+      <point x="459" y="894" type="line" smooth="yes"/>
+      <point x="442" y="894"/>
+      <point x="427" y="886"/>
+      <point x="420" y="872" type="curve"/>
+      <point x="346" y="750" type="line"/>
+      <point x="399" y="750" type="line" smooth="yes"/>
+      <point x="409" y="750"/>
+      <point x="424" y="757"/>
+      <point x="430" y="764" type="curve"/>
+    </contour>
+    <contour>
+      <point x="371" y="894" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="371" y="716" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:39:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

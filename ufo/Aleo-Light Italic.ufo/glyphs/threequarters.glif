@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="676"/>
+  <unicode hex="00BE"/>
+  <note>
+    threequarters
+  </note>
+  <outline>
+    <contour>
+      <point x="632" y="707" type="line"/>
+      <point x="611" y="707" type="line" smooth="yes"/>
+      <point x="597" y="707"/>
+      <point x="589" y="701"/>
+      <point x="581" y="690" type="curve" smooth="yes"/>
+      <point x="97" y="0" type="line"/>
+      <point x="117" y="0" type="line" smooth="yes"/>
+      <point x="129" y="0"/>
+      <point x="139" y="5"/>
+      <point x="146" y="15" type="curve" smooth="yes"/>
+    </contour>
+    <component base="threesuperior" xOffset="-8" yOffset="-99"/>
+    <component base="foursuperior" xOffset="33"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

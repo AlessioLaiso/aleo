@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="384"/>
+  <unicode hex="02C7"/>
+  <note>
+    caron
+  </note>
+  <outline>
+    <contour>
+      <point x="95" y="716" type="line"/>
+      <point x="190" y="584" type="line"/>
+      <point x="273" y="584" type="line"/>
+      <point x="401" y="716" type="line"/>
+      <point x="341" y="716" type="line" smooth="yes"/>
+      <point x="337" y="716"/>
+      <point x="333" y="716"/>
+      <point x="329" y="714" type="curve" smooth="yes"/>
+      <point x="325" y="712"/>
+      <point x="322" y="711"/>
+      <point x="320" y="709" type="curve"/>
+      <point x="248" y="646" type="line"/>
+      <point x="246" y="645"/>
+      <point x="245" y="644"/>
+      <point x="244" y="642" type="curve" smooth="yes"/>
+      <point x="243" y="640"/>
+      <point x="241" y="639"/>
+      <point x="239" y="637" type="curve"/>
+      <point x="237" y="640"/>
+      <point x="234" y="643"/>
+      <point x="231" y="646" type="curve"/>
+      <point x="175" y="709" type="line"/>
+      <point x="173" y="711"/>
+      <point x="170" y="712"/>
+      <point x="167" y="714" type="curve" smooth="yes"/>
+      <point x="164" y="716"/>
+      <point x="160" y="716"/>
+      <point x="156" y="716" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-26 15:05:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00AD" format="1">
+  <advance width="341"/>
+  <unicode hex="00AD"/>
+  <note>
+    uni00AD
+  </note>
+  <outline>
+    <contour>
+      <point x="48" y="338" type="line"/>
+      <point x="48" y="262" type="line"/>
+      <point x="294" y="262" type="line"/>
+      <point x="294" y="338" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:39:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

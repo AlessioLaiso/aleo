@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="1">
+  <advance width="369"/>
+  <unicode hex="030C"/>
+  <note>
+    caron
+  </note>
+  <outline>
+    <contour>
+      <point x="64" y="708" type="line"/>
+      <point x="157" y="584" type="line"/>
+      <point x="200" y="584" type="line"/>
+      <point x="324" y="708" type="line"/>
+      <point x="291" y="708" type="line" smooth="yes"/>
+      <point x="289" y="708"/>
+      <point x="287" y="707"/>
+      <point x="284" y="706" type="curve" smooth="yes"/>
+      <point x="281" y="705"/>
+      <point x="279" y="704"/>
+      <point x="277" y="702" type="curve"/>
+      <point x="189" y="620" type="line"/>
+      <point x="183" y="614" type="line"/>
+      <point x="178" y="620" type="line"/>
+      <point x="110" y="702" type="line"/>
+      <point x="107" y="706"/>
+      <point x="102" y="708"/>
+      <point x="97" y="708" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="194" y="708" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="194" y="498" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

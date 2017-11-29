@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="642"/>
+  <unicode hex="00BC"/>
+  <note>
+    onequarter
+  </note>
+  <outline>
+    <contour>
+      <point x="595" y="708" type="line"/>
+      <point x="574" y="708" type="line" smooth="yes"/>
+      <point x="562" y="708"/>
+      <point x="551" y="701"/>
+      <point x="544" y="690" type="curve" smooth="yes"/>
+      <point x="59" y="0" type="line"/>
+      <point x="79" y="0" type="line" smooth="yes"/>
+      <point x="93" y="0"/>
+      <point x="101" y="5"/>
+      <point x="109" y="16" type="curve" smooth="yes"/>
+    </contour>
+    <component base="onesuperior" xOffset="-12" yOffset="-99"/>
+    <component base="foursuperior"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

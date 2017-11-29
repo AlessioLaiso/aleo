@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="771"/>
+  <unicode hex="0041"/>
+  <note>
+    A
+  </note>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="216" y="232" type="line"/>
+      <point x="558" y="232" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="414" y="708" type="line"/>
+      <point x="387" y="708" type="line"/>
+      <point x="360" y="708" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="614" type="line"/>
+      <point x="387" y="659" type="line"/>
+      <point x="403" y="614" type="line"/>
+      <point x="542" y="270" type="line"/>
+      <point x="232" y="270" type="line"/>
+    </contour>
+    <component base="SerfiBottomSymmetrical" xOffset="91"/>
+    <component base="SerfiBottomSymmetrical" xOffset="639"/>
+    <contour>
+      <point x="759" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="386" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="386" y="708" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:36:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

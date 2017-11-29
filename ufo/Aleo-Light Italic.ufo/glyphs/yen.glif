@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="569"/>
+  <unicode hex="00A5"/>
+  <note>
+    yen
+  </note>
+  <outline>
+    <contour>
+      <point x="46" y="308" type="line"/>
+      <point x="43" y="279" type="line"/>
+      <point x="226" y="279" type="line"/>
+      <point x="219" y="220" type="line"/>
+      <point x="36" y="220" type="line"/>
+      <point x="32" y="191" type="line"/>
+      <point x="215" y="191" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="262" y="191" type="line"/>
+      <point x="446" y="191" type="line"/>
+      <point x="449" y="220" type="line"/>
+      <point x="266" y="220" type="line"/>
+      <point x="273" y="279" type="line"/>
+      <point x="456" y="279" type="line"/>
+      <point x="460" y="308" type="line"/>
+      <point x="286" y="308" type="line"/>
+      <point x="547" y="708" type="line"/>
+      <point x="507" y="708" type="line" smooth="yes"/>
+      <point x="499" y="708"/>
+      <point x="489" y="701"/>
+      <point x="486" y="695" type="curve"/>
+      <point x="273" y="362" type="line"/>
+      <point x="266" y="349"/>
+      <point x="260" y="335"/>
+      <point x="256" y="326" type="curve"/>
+      <point x="255" y="335"/>
+      <point x="251" y="349"/>
+      <point x="247" y="362" type="curve"/>
+      <point x="115" y="695" type="line" smooth="yes"/>
+      <point x="112" y="703"/>
+      <point x="106" y="708"/>
+      <point x="97" y="708" type="curve" smooth="yes"/>
+      <point x="57" y="708" type="line"/>
+      <point x="219" y="308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1012"/>
+  <unicode hex="00C6"/>
+  <note>
+    AE
+  </note>
+  <outline>
+    <contour>
+      <point x="542" y="257" type="line"/>
+      <point x="270" y="257" type="line"/>
+      <point x="515" y="621" type="line" smooth="yes"/>
+      <point x="522" y="632"/>
+      <point x="536" y="657"/>
+      <point x="540" y="668" type="curve"/>
+    </contour>
+    <contour>
+      <point x="915" y="0" type="line"/>
+      <point x="933" y="147" type="line"/>
+      <point x="908" y="147" type="line" smooth="yes"/>
+      <point x="894" y="147"/>
+      <point x="887" y="138"/>
+      <point x="884" y="122" type="curve"/>
+      <point x="870" y="43" type="line"/>
+      <point x="591" y="43" type="line"/>
+      <point x="590" y="338" type="line"/>
+      <point x="865" y="338" type="line"/>
+      <point x="870" y="379" type="line"/>
+      <point x="590" y="379" type="line"/>
+      <point x="589" y="665" type="line"/>
+      <point x="947" y="665" type="line"/>
+      <point x="941" y="585" type="line"/>
+      <point x="940" y="569"/>
+      <point x="945" y="561"/>
+      <point x="959" y="561" type="curve" smooth="yes"/>
+      <point x="984" y="561" type="line"/>
+      <point x="1002" y="707" type="line"/>
+      <point x="440" y="707" type="line"/>
+      <point x="437" y="688" type="line"/>
+      <point x="436" y="677"/>
+      <point x="442" y="671"/>
+      <point x="455" y="670" type="curve"/>
+      <point x="495" y="669" type="line"/>
+      <point x="75" y="46" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="129" y="46" type="line"/>
+      <point x="245" y="219" type="line"/>
+      <point x="543" y="219" type="line"/>
+      <point x="544" y="0" type="line"/>
+    </contour>
+    <component base="serifBottom" xOffset="-55"/>
+    <component base="serifBottom" xOffset="431"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:37:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

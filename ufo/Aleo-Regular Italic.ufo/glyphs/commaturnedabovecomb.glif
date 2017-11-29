@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="1">
+  <advance width="229"/>
+  <unicode hex="0312"/>
+  <outline>
+    <component base="comma" xOffset="272" yOffset="688" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="184" y="824" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="146" y="506" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-26 15:06:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

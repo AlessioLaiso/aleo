@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="492"/>
+  <unicode hex="2021"/>
+  <note>
+    daggerdbl
+  </note>
+  <outline>
+    <contour>
+      <point x="38" y="95" type="line"/>
+      <point x="38" y="79" type="line" smooth="yes"/>
+      <point x="38" y="66"/>
+      <point x="49" y="57"/>
+      <point x="62" y="57" type="curve"/>
+      <point x="88" y="58"/>
+      <point x="200" y="66"/>
+      <point x="228" y="67" type="curve"/>
+      <point x="222" y="-174" type="line"/>
+      <point x="240" y="-183"/>
+      <point x="254" y="-183"/>
+      <point x="272" y="-174" type="curve"/>
+      <point x="266" y="67" type="line"/>
+      <point x="293" y="66"/>
+      <point x="409" y="58"/>
+      <point x="433" y="57" type="curve"/>
+      <point x="446" y="57"/>
+      <point x="456" y="66"/>
+      <point x="456" y="79" type="curve" smooth="yes"/>
+      <point x="456" y="95" type="line"/>
+      <point x="266" y="95" type="line"/>
+      <point x="266" y="446" type="line"/>
+      <point x="456" y="446" type="line"/>
+      <point x="456" y="462" type="line" smooth="yes"/>
+      <point x="456" y="472"/>
+      <point x="451" y="484"/>
+      <point x="433" y="484" type="curve"/>
+      <point x="430" y="484"/>
+      <point x="267" y="474"/>
+      <point x="266" y="474" type="curve"/>
+      <point x="272" y="716" type="line"/>
+      <point x="256" y="724"/>
+      <point x="238" y="724"/>
+      <point x="222" y="716" type="curve"/>
+      <point x="228" y="474" type="line"/>
+      <point x="189" y="475"/>
+      <point x="107" y="482"/>
+      <point x="62" y="484" type="curve"/>
+      <point x="45" y="484"/>
+      <point x="38" y="475"/>
+      <point x="38" y="462" type="curve" smooth="yes"/>
+      <point x="38" y="446" type="line"/>
+      <point x="228" y="446" type="line"/>
+      <point x="228" y="95" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-28 23:36:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>
