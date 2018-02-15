@@ -12,3 +12,6 @@ Aleo is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OF
 
 ## Author
 [Alessio Laiso](https://alessiolaiso.com) ([hello@alessiolaiso.com](mailto:hello@alessiolaiso.com))
+
+### Note
+[Kevin Conroy](https://github.com/kevinconroy/) helped setup the open source GitHub repository for Aleo for submission to Google Fonts.
