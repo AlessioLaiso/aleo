@@ -3,9 +3,9 @@ Aleo is a contemporary typeface designed by Alessio Laiso as the slab serif comp
 
 
 ## Samples
-![Sample](documentation/sample.png?raw=true "Aleo comes in six styles") {:max-width="100%"}
+![Sample](documentation/sample.png?raw=true "Aleo comes in six styles")
 
-![Sample #2](documentation/sample-1.png?raw=true "Supports italics and multiple languages") {:max-width="100%"}
+![Sample #2](documentation/sample-1.png?raw=true "Supports italics and multiple languages")
 
 ## License
 Aleo is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
