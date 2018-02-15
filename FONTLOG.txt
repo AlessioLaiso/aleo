@@ -1,0 +1,39 @@
+FONTLOG for the Aleo font
+
+This file provides detailed information on the Aleo Font Software.
+This information should be distributed along with the Aleo fonts
+and any derivative works.
+
+Basic Font Information
+
+Aleo is a Unicode typeface family that supports all languages that
+use the Latin script and its variants, and could be expanded to support other
+scripts.
+
+This release contains an OFL release of Aleo intended for inclusion in Google
+Fonts and other web projects.
+
+Documentation can be found at https://github.com/AlessioLaiso/aleo/
+
+ChangeLog
+
+29 November 2017 (Alessio Laiso) Aleo Version 1.3
+- Released Aleo under OFL license on GitHub
+
+April 2013 (Alessio Laiso) GlobalFontFamily Version 1.0
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Alessio Laiso
+E: hello@alessiolaiso.com
+W: https://alessiolaiso.com/aleo-font
+D: Designer
+
+N: Kevin Conroy
+E: kconroy@globalgiving.org
+W: https://www.globalgiving.org
+D: GitHub Contributor - Assisted with GitHub and open sourcing Aleo files
