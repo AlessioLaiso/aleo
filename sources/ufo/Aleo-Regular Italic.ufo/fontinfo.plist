@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>716</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2013-2017 by Alessio Laiso (hello@alessiolaiso.com). Licensed under the SIL Open Font License, Version 1.3</string>
+	<string>Copyright (c) 2013-2017 by Alessio Laiso (hello@alessiolaiso.com). Licensed under the SIL Open Font License, Version 1.1</string>
 	<key>descender</key>
 	<integer>-195</integer>
 	<key>familyName</key>
@@ -15,7 +15,7 @@
 	<key>italicAngle</key>
 	<real>-6.8499999999999996</real>
 	<key>openTypeHeadCreated</key>
-	<string>2017/11/28 23:40:38</string>
+	<string>2017/11/28 18:40:38</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alessio Laiso</string>
 	<key>openTypeNamePreferredFamilyName</key>
