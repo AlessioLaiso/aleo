@@ -285,7 +285,7 @@
 		<string>caron.salt</string>
 	</array>
 	<key>com.schriftgestaltung.font.license</key>
-	<string><![CDATA[Copyright (c) 2013-2017, by Alessio Laiso (hello@alessiolaiso.com),
+	<string><![CDATA[Copyright (c) 2013-2018, by Alessio Laiso (hello@alessiolaiso.com),
 with Reserved Font Name Aleo.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -381,6 +381,8 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.]]></string>
 	<key>com.schriftgestaltung.font.licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.vendorID</key>
+	<string>AL</string>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>A0CD44AA-8F44-4864-B482-F84B7650FD25</string>
 	<key>com.schriftgestaltung.glyphOrder</key>

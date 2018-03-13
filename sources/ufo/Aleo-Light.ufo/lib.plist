@@ -380,6 +380,8 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.]]></string>
 	<key>com.schriftgestaltung.font.licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.vendorID</key>
+	<string>AL</string>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>3F211455-7DB7-4737-9D97-BF0B219628E9</string>
 	<key>com.schriftgestaltung.glyphOrder</key>

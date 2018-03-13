@@ -1,6 +1,6 @@
 {
 .appVersion = "1075";
-copyright = "Copyright (c) 2013-2017 by Alessio Laiso (hello@alessiolaiso.com). Licensed under the SIL Open Font License, Version 1.1";
+copyright = "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com). Licensed under the SIL Open Font License, Version 1.1";
 customParameters = (
 {
 name = license;
@@ -290,10 +290,15 @@ tilde.case,
 hungarumlaut.case,
 caron.salt
 );
+},
+{
+name = vendorID;
+value = AL;
 }
 );
-date = "2017-11-28 23:36:15 +0000";
+date = "2018-03-13 15:05:19 +0000";
 designer = "Alessio Laiso";
+designerURL = "https://alessiolaiso.com";
 disablesNiceNames = 1;
 familyName = Aleo;
 featurePrefixes = (
@@ -19898,5 +19903,5 @@ t = 8;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 300;
+versionMinor = 301;
 }
