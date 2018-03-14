@@ -1,3 +1,11 @@
+cd ../fonts
+mv *.eot eot/
+mv *.ttf ttf/
+mv *.woff woff/
+mv *.woff2 woff2/
+mv *.otf otf/
+
+
 cd ..
 
 ##### OTS
@@ -21,3 +29,6 @@ ots-sanitize fonts/otf/Aleo-Light.otf
 ots-sanitize fonts/otf/Aleo-LightItalic.otf
 ots-sanitize fonts/otf/Aleo-Regular.otf
 ots-sanitize fonts/otf/Aleo-RegularItalic.otf
+
+
+fontbakery check-googlefonts fonts/ttf/Aleo-Regular.ttf
