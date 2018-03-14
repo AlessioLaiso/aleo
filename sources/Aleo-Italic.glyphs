@@ -316,6 +316,7 @@ value = 1;
 );
 date = "2018-03-13 22:40:38 +0000";
 designer = "Alessio Laiso";
+designerURL = "http://alessiolaiso.com/aleo-font";
 disablesNiceNames = 1;
 familyName = Aleo;
 featurePrefixes = (
@@ -83590,6 +83591,8 @@ y = 40;
 };
 };
 };
+manufacturer = "Alessio Laiso";
+manufacturerURL = "http://alessiolaiso.com/aleo-font";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 301;
