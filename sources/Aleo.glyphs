@@ -1,6 +1,6 @@
 {
 .appVersion = "1075";
-copyright = "Copyright (c) 2013-2018, by Alessio Laiso (hello@alessiolaiso.com).";
+copyright = "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com).";
 customParameters = (
 {
 name = license;
