@@ -393,56 +393,6 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{727, 9}",
-"{716, 8}",
-"{506, 8}",
-"{0, -8}",
-"{-170, -2}"
-);
-ascender = 805;
-capHeight = 716;
-customParameters = (
-{
-name = typoAscender;
-value = 805;
-},
-{
-name = typoDescender;
-value = -195;
-},
-{
-name = typoLineGap;
-value = 200;
-},
-{
-name = underlinePosition;
-value = -40;
-},
-{
-name = underlineThickness;
-value = 60;
-}
-);
-descender = -195;
-horizontalStems = (
-62,
-112,
-126
-);
-id = "C87851D2-2817-4F36-A784-A5AE84D7BDA8";
-italicAngle = 6.85;
-verticalStems = (
-88,
-89,
-112,
-127
-);
-weightValue = 400;
-widthValue = 5;
-xHeight = 506;
-},
-{
-alignmentZones = (
 "{708, 8}",
 "{498, 8}",
 "{0, -8}",
@@ -490,6 +440,56 @@ weight = Light;
 weightValue = 300;
 widthValue = 5;
 xHeight = 498;
+},
+{
+alignmentZones = (
+"{727, 9}",
+"{716, 8}",
+"{506, 8}",
+"{0, -8}",
+"{-170, -2}"
+);
+ascender = 805;
+capHeight = 716;
+customParameters = (
+{
+name = typoAscender;
+value = 805;
+},
+{
+name = typoDescender;
+value = -195;
+},
+{
+name = typoLineGap;
+value = 200;
+},
+{
+name = underlinePosition;
+value = -40;
+},
+{
+name = underlineThickness;
+value = 60;
+}
+);
+descender = -195;
+horizontalStems = (
+62,
+112,
+126
+);
+id = "C87851D2-2817-4F36-A784-A5AE84D7BDA8";
+italicAngle = 6.85;
+verticalStems = (
+88,
+89,
+112,
+127
+);
+weightValue = 400;
+widthValue = 5;
+xHeight = 506;
 },
 {
 alignmentZones = (
