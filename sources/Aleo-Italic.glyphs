@@ -1,6 +1,6 @@
 {
 .appVersion = "1075";
-copyright = "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com).";
+copyright = "Copyright 2018 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)";
 customParameters = (
 {
 name = license;
@@ -295,7 +295,8 @@ caron.salt
 },
 {
 name = fsType;
-value = "New Value";
+value = (
+);
 },
 {
 name = vendorID;
@@ -314,7 +315,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-03-13 22:40:38 +0000";
+date = "2018-03-19 22:40:38 +0000";
 designer = "Alessio Laiso";
 designerURL = "http://alessiolaiso.com/aleo-font";
 disablesNiceNames = 1;
@@ -421,6 +422,26 @@ value = -66;
 {
 name = underlineThickness;
 value = 34;
+},
+{
+name = winAscent;
+value = 1005;
+},
+{
+name = winDescent;
+value = 374;
+},
+{
+name = hheaAscender;
+value = 805;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 200;
 }
 );
 descender = -195;
@@ -472,6 +493,26 @@ value = -40;
 {
 name = underlineThickness;
 value = 60;
+},
+{
+name = winAscent;
+value = 1005;
+},
+{
+name = winDescent;
+value = 374;
+},
+{
+name = hheaAscender;
+value = 805;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 200;
 }
 );
 descender = -195;
@@ -522,6 +563,26 @@ value = -20;
 {
 name = underlineThickness;
 value = 80;
+},
+{
+name = winAscent;
+value = 1005;
+},
+{
+name = winDescent;
+value = 374;
+},
+{
+name = hheaAscender;
+value = 805;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 200;
 }
 );
 descender = -195;
@@ -78296,58 +78357,14 @@ width = 600;
 );
 instances = (
 {
-customParameters = (
-{
-name = typoAscender;
-value = 805;
-},
-{
-name = typoDescender;
-value = -195;
-},
-{
-name = typoLineGap;
-value = 200;
-},
-{
-name = underlinePosition;
-value = -40;
-},
-{
-name = underlineThickness;
-value = 60;
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "C87851D2-2817-4F36-A784-A5AE84D7BDA8" = 1;
 };
 isItalic = 1;
-name = "Regular Italic";
+name = Italic;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 805;
-},
-{
-name = typoDescender;
-value = -195;
-},
-{
-name = typoLineGap;
-value = 200;
-},
-{
-name = underlinePosition;
-value = -66;
-},
-{
-name = underlineThickness;
-value = 34;
-}
-);
 interpolationWeight = 300;
 instanceInterpolations = {
 "18B4A443-2C69-4DCB-9619-77A7DD6AC8EC" = 1;
@@ -78358,28 +78375,6 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 805;
-},
-{
-name = typoDescender;
-value = -195;
-},
-{
-name = typoLineGap;
-value = 200;
-},
-{
-name = underlinePosition;
-value = -20;
-},
-{
-name = underlineThickness;
-value = 80;
-}
-);
 interpolationWeight = 700;
 instanceInterpolations = {
 "A0CD44AA-8F44-4864-B482-F84B7650FD25" = 1;

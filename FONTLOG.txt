@@ -17,6 +17,10 @@ Documentation can be found at https://github.com/AlessioLaiso/aleo/
 
 ChangeLog
 
+19 March 2018 (Alessio Laiso) Aleo Version 1.31
+- Released Aleo for Google Fonts
+- Minor tweaks to ascent/decent metrics
+
 29 November 2017 (Alessio Laiso) Aleo Version 1.3
 - Released Aleo under OFL license on GitHub
 
