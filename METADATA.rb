@@ -12,7 +12,7 @@
       "style": "normal",
       "weight": 400,
       "filename": "Aleo-Regular.ttf",
-      "copyright": "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com)"
+      "copyright": "Copyright 2018 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)"
     },
     {
       "name": "Aleo",
@@ -21,7 +21,7 @@
       "style": "normal",
       "weight": 700,
       "filename": "Aleo-Bold.ttf",
-      "copyright": "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com)"
+      "copyright": "Copyright 2018 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)"
     },    
     {
       "name": "Aleo",
@@ -30,16 +30,16 @@
       "style": "normal",
       "weight": 300,
       "filename": "Aleo-Light.ttf",
-      "copyright": "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com)"
+      "copyright": "Copyright 2018 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)"
     },    
     {
       "name": "Aleo",
-      "postScriptName": "Aleo-RegularItalic",
+      "postScriptName": "Aleo-Italic",
       "fullName": "Aleo",
       "style": "italic",
       "weight": 400,
-      "filename": "Aleo-Regular.ttf",
-      "copyright": "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com)"
+      "filename": "Aleo-Italic.ttf",
+      "copyright": "Copyright 2018 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)"
     },
     {
       "name": "Aleo",
@@ -48,7 +48,7 @@
       "style": "italic",
       "weight": 700,
       "filename": "Aleo-BoldItalic.ttf",
-      "copyright": "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com)"
+      "copyright": "Copyright 2018 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)"
     },    
     {
       "name": "Aleo",
@@ -57,12 +57,12 @@
       "style": "italic",
       "weight": 300,
       "filename": "Aleo-LightItalic.ttf",
-      "copyright": "Copyright (c) 2013-2018 by Alessio Laiso (hello@alessiolaiso.com)"
+      "copyright": "Copyright 2018 The Aleo Project Authors (https://github.com/AlessioLaiso/aleo)"
     },    
   ],
   "subsets": [
     "latin",
     "menu"
   ],
-  "dateAdded": "2018-03-13"
+  "dateAdded": "2018-03-19"
 }
