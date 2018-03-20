@@ -66,10 +66,10 @@
       <point x="217" y="-8" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="182" y="0" type="move" name="bottom"/>
+      <point x="202" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="182" y="506" type="move" name="top"/>
+      <point x="182" y="616" type="move" name="top"/>
     </contour>
     <contour>
       <point x="343" y="506" type="move" name="topright"/>
@@ -78,10 +78,4 @@
       <point x="182" y="253" type="move" name="center"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:39:02 +0000</string>
-    </dict>
-  </lib>
 </glyph>

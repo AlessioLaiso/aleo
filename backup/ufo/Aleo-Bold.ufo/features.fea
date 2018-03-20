@@ -43,8 +43,8 @@ sub dotaccent by dotaccent.case;
 sub ring by ring.case;
 sub tilde by tilde.case;
 sub hungarumlaut by hungarumlaut.case;
-sub gravecomb by gravecomb.case;
-sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub caroncomb by caroncomb.case;
 } case;
 
 feature liga {

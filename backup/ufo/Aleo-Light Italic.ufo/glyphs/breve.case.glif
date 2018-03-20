@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve.case" format="1">
+  <advance width="365"/>
+  <note>
+    breve.case
+  </note>
+  <outline>
+    <component base="breve"/>
+  </outline>
+</glyph>

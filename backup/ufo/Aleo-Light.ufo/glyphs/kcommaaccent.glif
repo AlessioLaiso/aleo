@@ -6,10 +6,4 @@
     <component base="k"/>
     <component base="undercommaaccent" xOffset="148" yOffset="-2"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

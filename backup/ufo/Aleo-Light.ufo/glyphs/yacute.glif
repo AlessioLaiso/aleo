@@ -2,14 +2,11 @@
 <glyph name="yacute" format="1">
   <advance width="578"/>
   <unicode hex="00FD"/>
+  <note>
+    yacute
+  </note>
   <outline>
     <component base="y"/>
     <component base="acutecomb" xOffset="189"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

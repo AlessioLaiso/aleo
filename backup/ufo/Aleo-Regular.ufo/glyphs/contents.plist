@@ -164,6 +164,18 @@
 	<string>S_caron.glif</string>
 	<key>Scedilla</key>
 	<string>S_cedilla.glif</string>
+	<key>SerfiBottomSymmetrical</key>
+	<string>S_erfiB_ottomS_ymmetrical.glif</string>
+	<key>SerifBottomLeft</key>
+	<string>S_erifB_ottomL_eft.glif</string>
+	<key>SerifBottomRight</key>
+	<string>S_erifB_ottomR_ight.glif</string>
+	<key>SerifSpur</key>
+	<string>S_erifS_pur.glif</string>
+	<key>SerifUpLeft</key>
+	<string>S_erifU_pL_eft.glif</string>
+	<key>SerifUpRight</key>
+	<string>S_erifU_pR_ight.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>Tbar</key>
@@ -238,6 +250,8 @@
 	<string>acute.case.glif</string>
 	<key>acutecomb</key>
 	<string>acutecomb.glif</string>
+	<key>acutecomb.case</key>
+	<string>acutecomb.case.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
 	<key>ae</key>
@@ -284,6 +298,8 @@
 	<string>breve.case.glif</string>
 	<key>brevecomb</key>
 	<string>brevecomb.glif</string>
+	<key>brevecomb.case</key>
+	<string>brevecomb.case.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
@@ -318,6 +334,8 @@
 	<string>circumflex.case.glif</string>
 	<key>circumflexcomb</key>
 	<string>circumflexcomb.glif</string>
+	<key>circumflexcomb.case</key>
+	<string>circumflexcomb.case.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -348,6 +366,8 @@
 	<string>dieresis.case.glif</string>
 	<key>dieresiscomb</key>
 	<string>dieresiscomb.glif</string>
+	<key>dieresiscomb.case</key>
+	<string>dieresiscomb.case.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>dollar</key>
@@ -358,6 +378,8 @@
 	<string>dotaccent.case.glif</string>
 	<key>dotaccentcomb</key>
 	<string>dotaccentcomb.glif</string>
+	<key>dotaccentcomb.case</key>
+	<string>dotaccentcomb.case.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
 	<key>e</key>
@@ -398,6 +420,8 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>fTopEnd</key>
+	<string>fT_opE_nd.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
 	<key>five</key>
@@ -422,6 +446,8 @@
 	<string>grave.case.glif</string>
 	<key>gravecomb</key>
 	<string>gravecomb.glif</string>
+	<key>gravecomb.case</key>
+	<string>gravecomb.case.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>greaterequal</key>
@@ -496,6 +522,8 @@
 	<string>macron.case.glif</string>
 	<key>macroncomb</key>
 	<string>macroncomb.glif</string>
+	<key>macroncomb.case</key>
+	<string>macroncomb.case.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>mu</key>
@@ -622,6 +650,8 @@
 	<string>ring.case.glif</string>
 	<key>ringcomb</key>
 	<string>ringcomb.glif</string>
+	<key>ringcomb.case</key>
+	<string>ringcomb.case.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>
@@ -674,6 +704,8 @@
 	<string>tilde.case.glif</string>
 	<key>tildecomb</key>
 	<string>tildecomb.glif</string>
+	<key>tildecomb.case</key>
+	<string>tildecomb.case.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>

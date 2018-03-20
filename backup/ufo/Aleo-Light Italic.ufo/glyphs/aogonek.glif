@@ -2,9 +2,6 @@
 <glyph name="aogonek" format="1">
   <advance width="502"/>
   <unicode hex="0105"/>
-  <note>
-    aogonek
-  </note>
   <outline>
     <contour>
       <point x="422" y="38" type="line"/>
@@ -194,10 +191,4 @@
       <point x="388" y="459" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

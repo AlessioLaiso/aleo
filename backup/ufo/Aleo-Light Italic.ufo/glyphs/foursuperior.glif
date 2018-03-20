@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="1">
   <advance width="642"/>
-  <unicode hex="2074"/>
   <outline>
     <contour>
       <point x="552" y="124" type="line"/>
@@ -31,10 +30,4 @@
       <point x="541" y="291" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

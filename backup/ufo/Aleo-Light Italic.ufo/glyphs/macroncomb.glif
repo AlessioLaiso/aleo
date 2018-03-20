@@ -2,9 +2,6 @@
 <glyph name="macroncomb" format="1">
   <advance width="398"/>
   <unicode hex="0304"/>
-  <note>
-    macron
-  </note>
   <outline>
     <contour>
       <point x="71" y="643" type="line"/>
@@ -19,10 +16,4 @@
       <point x="195" y="498" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

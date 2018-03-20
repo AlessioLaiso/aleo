@@ -4,12 +4,6 @@
   <unicode hex="0166"/>
   <outline>
     <component base="T"/>
-    <component base="strokeshortcomb" xOffset="46"/>
+    <component base="strokeshortcomb" xOffset="16"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

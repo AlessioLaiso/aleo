@@ -2,14 +2,11 @@
 <glyph name="Odieresis" format="1">
   <advance width="747"/>
   <unicode hex="00D6"/>
+  <note>
+    Odieresis
+  </note>
   <outline>
     <component base="O"/>
     <component base="dieresiscomb.case" xOffset="266" yOffset="210"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

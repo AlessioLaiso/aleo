@@ -2,14 +2,11 @@
 <glyph name="ccedilla" format="1">
   <advance width="459"/>
   <unicode hex="00E7"/>
+  <note>
+    ccedilla
+  </note>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="186"/>
+    <component base="cedillacomb" xOffset="175"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

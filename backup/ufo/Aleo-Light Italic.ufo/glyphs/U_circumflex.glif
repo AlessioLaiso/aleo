@@ -2,14 +2,11 @@
 <glyph name="Ucircumflex" format="1">
   <advance width="754"/>
   <unicode hex="00DB"/>
+  <note>
+    Ucircumflex
+  </note>
   <outline>
     <component base="U"/>
     <component base="circumflexcomb.case" xOffset="264" yOffset="210"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case" format="1">
+  <advance width="389"/>
+  <outline>
+    <component base="caron"/>
+    <contour>
+      <point x="197" y="708" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="202" y="497" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

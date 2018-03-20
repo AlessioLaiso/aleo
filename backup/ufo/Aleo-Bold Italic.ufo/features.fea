@@ -42,7 +42,14 @@ sub breve by breve.case;
 sub dotaccent by dotaccent.case;
 sub ring by ring.case;
 sub tilde by tilde.case;
-sub hungarumlaut by hungarumlaut.case;
+sub dieresiscomb by dieresiscomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub cedillacomb by cedillacomb.case;
 } case;
 
 feature liga {

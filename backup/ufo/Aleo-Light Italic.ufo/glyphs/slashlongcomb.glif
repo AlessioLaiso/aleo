@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slashlongcomb" format="1">
-  <advance width="600"/>
+  <advance width="650"/>
   <unicode hex="0338"/>
   <outline>
+    <contour>
+      <point x="-5" y="-52" type="line" smooth="yes"/>
+      <point x="9" y="-52"/>
+      <point x="18" y="-47"/>
+      <point x="27" y="-36" type="curve" smooth="yes"/>
+      <point x="700" y="740" type="line"/>
+      <point x="672" y="740" type="line" smooth="yes"/>
+      <point x="660" y="740"/>
+      <point x="655" y="735"/>
+      <point x="645" y="725" type="curve" smooth="yes"/>
+      <point x="-27" y="-52" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

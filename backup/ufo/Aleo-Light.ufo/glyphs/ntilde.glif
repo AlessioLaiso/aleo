@@ -2,14 +2,11 @@
 <glyph name="ntilde" format="1">
   <advance width="629"/>
   <unicode hex="00F1"/>
+  <note>
+    ntilde
+  </note>
   <outline>
     <component base="n"/>
     <component base="tildecomb" xOffset="-61" yOffset="-210"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

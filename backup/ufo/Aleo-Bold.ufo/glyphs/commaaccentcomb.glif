@@ -3,7 +3,7 @@
   <advance width="198"/>
   <unicode hex="0326"/>
   <outline>
-    <component base="comma" yOffset="-224"/>
+    <component base="comma" yOffset="-194"/>
     <contour>
       <point x="100" y="0" type="move" name="_bottom"/>
     </contour>
@@ -11,10 +11,4 @@
       <point x="100" y="-366" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-26 14:21:11 +0000</string>
-    </dict>
-  </lib>
 </glyph>

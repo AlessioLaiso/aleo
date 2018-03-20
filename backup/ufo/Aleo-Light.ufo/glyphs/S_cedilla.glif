@@ -4,12 +4,6 @@
   <unicode hex="015E"/>
   <outline>
     <component base="S"/>
-    <component base="cedillacomb" xOffset="213"/>
+    <component base="cedillacomb" xOffset="175"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

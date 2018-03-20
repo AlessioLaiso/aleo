@@ -4,6 +4,8 @@
 <dict>
 	<key>.notdef</key>
 	<string>_notdef.glif</string>
+	<key>.null</key>
+	<string>_null.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -28,8 +30,6 @@
 	<string>A_tilde.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
-	<key>Bottom_original_serifs</key>
-	<string>B_ottom_original_serifs.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
 	<key>Cacute</key>
@@ -238,12 +238,8 @@
 	<string>Z_dotaccent.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
-	<key>a.sc</key>
-	<string>a.sc.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
-	<key>aacute.sc</key>
-	<string>aacute.sc.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
 	<key>acircumflex</key>

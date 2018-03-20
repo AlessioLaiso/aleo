@@ -6,10 +6,4 @@
     <component base="l"/>
     <component base="commaaccentcomb" xOffset="56"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-26 14:21:15 +0000</string>
-    </dict>
-  </lib>
 </glyph>

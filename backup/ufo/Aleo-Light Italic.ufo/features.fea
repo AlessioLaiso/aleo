@@ -7,8 +7,6 @@ feature aalt {
 feature sups;
 feature frac;
 feature ordn;
-feature c2sc;
-feature smcp;
 feature case;
 } aalt;
 
@@ -17,7 +15,6 @@ feature sups {
 sub two by twosuperior;
 sub three by threesuperior;
 sub one by onesuperior;
-sub four by foursuperior;
 } sups;
 
 feature frac {
@@ -33,35 +30,25 @@ sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 } ordn;
 
-feature c2sc {
-# automatic
-sub A by a.sc;
-} c2sc;
-
-feature smcp {
-# automatic
-sub a by a.sc;
-} smcp;
-
 feature case {
 # automatic
 sub grave by grave.case;
 sub dieresis by dieresis.case;
+sub macron by macron.case;
 sub acute by acute.case;
 sub circumflex by circumflex.case;
+sub caron by caron.case;
+sub breve by breve.case;
+sub dotaccent by dotaccent.case;
 sub ring by ring.case;
 sub tilde by tilde.case;
 sub dieresiscomb by dieresiscomb.case;
-sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
 sub acutecomb by acutecomb.case;
 sub hungarumlautcomb by hungarumlautcomb.case;
 sub circumflexcomb by circumflexcomb.case;
-sub caroncomb by caroncomb.case;
-sub brevecomb by brevecomb.case;
 sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
-sub macroncomb by macroncomb.case;
 sub cedillacomb by cedillacomb.case;
 } case;
 

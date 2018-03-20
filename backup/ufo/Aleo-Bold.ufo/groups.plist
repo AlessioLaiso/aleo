@@ -98,7 +98,9 @@
 	</array>
 	<key>@MMK_L_b</key>
 	<array>
+		<string>b</string>
 		<string>o</string>
+		<string>p</string>
 		<string>ograve</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
@@ -107,6 +109,11 @@
 		<string>oslash</string>
 		<string>ohungarumlaut</string>
 		<string>omacron</string>
+	</array>
+	<key>@MMK_L_c</key>
+	<array>
+		<string>c</string>
+		<string>ccedilla</string>
 	</array>
 	<key>@MMK_L_comma</key>
 	<array>
@@ -186,6 +193,10 @@
 		<string>racute</string>
 		<string>rcaron</string>
 		<string>rcommaaccent</string>
+	</array>
+	<key>@MMK_L_s</key>
+	<array>
+		<string>s</string>
 	</array>
 	<key>@MMK_L_uni01F1</key>
 	<array>

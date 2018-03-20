@@ -2,14 +2,11 @@
 <glyph name="zacute" format="1">
   <advance width="499"/>
   <unicode hex="017A"/>
+  <note>
+    zacute
+  </note>
   <outline>
     <component base="z"/>
     <component base="acutecomb" xOffset="158"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

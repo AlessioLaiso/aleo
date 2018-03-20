@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="1">
+  <advance width="292"/>
+  <note>
+    macron.case
+  </note>
+  <outline>
+    <component base="macroncomb" xOffset="12" yOffset="200"/>
+  </outline>
+</glyph>

@@ -2,14 +2,11 @@
 <glyph name="Ydieresis" format="1">
   <advance width="680"/>
   <unicode hex="0178"/>
+  <note>
+    Ydieresis
+  </note>
   <outline>
     <component base="Y"/>
     <component base="dieresiscomb.case" xOffset="187" yOffset="210"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

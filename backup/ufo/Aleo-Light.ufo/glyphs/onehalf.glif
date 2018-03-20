@@ -21,10 +21,4 @@
     <component base="onesuperior" xOffset="-12" yOffset="-99"/>
     <component base="twosuperior" xOffset="358" yOffset="-450"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

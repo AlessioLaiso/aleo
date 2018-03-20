@@ -9,14 +9,4 @@
     <component base="A"/>
     <component base="acutecomb.case" xOffset="311" yOffset="210"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>A</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>A</string>
-    </dict>
-  </lib>
 </glyph>

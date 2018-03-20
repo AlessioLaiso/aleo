@@ -9,10 +9,4 @@
     <component base="comma" xOffset="-12"/>
     <component base="period" xOffset="46" yOffset="399"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

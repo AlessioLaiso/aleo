@@ -15,16 +15,7 @@
       <point x="333" y="896" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="340" y="896" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="429" y="723" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-10-12 21:20:42 +0000</string>
-    </dict>
-  </lib>
 </glyph>

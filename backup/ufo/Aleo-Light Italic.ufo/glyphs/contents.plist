@@ -224,8 +224,6 @@
 	<string>Z_dotaccent.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
-	<key>a.sc</key>
-	<string>a.sc.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
 	<key>abreve</key>
@@ -282,6 +280,8 @@
 	<string>bracketright.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
+	<key>breve.case</key>
+	<string>breve.case.glif</string>
 	<key>brevecomb</key>
 	<string>brevecomb.glif</string>
 	<key>brevecomb.case</key>
@@ -294,6 +294,12 @@
 	<string>c.glif</string>
 	<key>cacute</key>
 	<string>cacute.glif</string>
+	<key>caron</key>
+	<string>caron.glif</string>
+	<key>caron.case</key>
+	<string>caron.case.glif</string>
+	<key>caron.salt</key>
+	<string>caron.salt.glif</string>
 	<key>caroncomb</key>
 	<string>caroncomb.glif</string>
 	<key>caroncomb.case</key>
@@ -358,6 +364,8 @@
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
+	<key>dotaccent.case</key>
+	<string>dotaccent.case.glif</string>
 	<key>dotaccentcomb</key>
 	<string>dotaccentcomb.glif</string>
 	<key>dotaccentcomb.case</key>
@@ -444,6 +452,8 @@
 	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>hungarumlaut</key>
+	<string>hungarumlaut.glif</string>
 	<key>hungarumlautcomb</key>
 	<string>hungarumlautcomb.glif</string>
 	<key>hungarumlautcomb.case</key>
@@ -494,6 +504,10 @@
 	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>macron</key>
+	<string>macron.glif</string>
+	<key>macron.case</key>
+	<string>macron.case.glif</string>
 	<key>macroncomb</key>
 	<string>macroncomb.glif</string>
 	<key>macroncomb.case</key>
@@ -512,6 +526,8 @@
 	<string>ncaron.glif</string>
 	<key>ncommaaccent</key>
 	<string>ncommaaccent.glif</string>
+	<key>newGlyph</key>
+	<string>newG_lyph.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>nonmarkingreturn</key>
@@ -532,6 +548,8 @@
 	<string>odieresis.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
+	<key>ogonek</key>
+	<string>ogonek.glif</string>
 	<key>ogonekcomb</key>
 	<string>ogonekcomb.glif</string>
 	<key>ograve</key>

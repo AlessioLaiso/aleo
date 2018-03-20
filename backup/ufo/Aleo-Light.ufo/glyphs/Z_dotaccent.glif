@@ -2,14 +2,11 @@
 <glyph name="Zdotaccent" format="1">
   <advance width="633"/>
   <unicode hex="017B"/>
+  <note>
+    Zdotaccent
+  </note>
   <outline>
     <component base="Z"/>
     <component base="dotaccentcomb.case" xOffset="181"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

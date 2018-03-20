@@ -96,10 +96,6 @@
 		<string>Ycircumflex</string>
 		<string>Ygrave</string>
 	</array>
-	<key>@MMK_L_a.sc</key>
-	<array>
-		<string>a.sc</string>
-	</array>
 	<key>@MMK_L_b</key>
 	<array>
 		<string>o</string>
@@ -246,8 +242,8 @@
 		<string>Otilde</string>
 		<string>Odieresis</string>
 		<string>Oslash</string>
-		<string>OE</string>
 		<string>Cacute</string>
+		<string>OE</string>
 		<string>Ccaron</string>
 		<string>Gcommaaccent</string>
 		<string>Ohungarumlaut</string>
@@ -330,10 +326,6 @@
 		<string>aogonek</string>
 		<string>abreve</string>
 		<string>amacron</string>
-	</array>
-	<key>@MMK_R_a.sc</key>
-	<array>
-		<string>a.sc</string>
 	</array>
 	<key>@MMK_R_c</key>
 	<array>

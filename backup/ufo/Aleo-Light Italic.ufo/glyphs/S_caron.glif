@@ -2,14 +2,11 @@
 <glyph name="Scaron" format="1">
   <advance width="518"/>
   <unicode hex="0160"/>
+  <note>
+    Scaron
+  </note>
   <outline>
     <component base="S"/>
     <component base="caroncomb.case" xOffset="99"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

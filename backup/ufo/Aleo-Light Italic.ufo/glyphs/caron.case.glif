@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.case" format="1">
+  <advance width="454"/>
+  <note>
+    caron.case
+  </note>
+  <outline>
+    <component base="caroncomb.case"/>
+  </outline>
+</glyph>

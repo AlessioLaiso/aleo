@@ -2,18 +2,11 @@
 <glyph name="Egrave" format="1">
   <advance width="622"/>
   <unicode hex="00C8"/>
+  <note>
+    Egrave
+  </note>
   <outline>
     <component base="E"/>
     <component base="gravecomb.case" xOffset="182"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>E</string>
-    </dict>
-  </lib>
 </glyph>

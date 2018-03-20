@@ -6,10 +6,4 @@
     <component base="dotlessi"/>
     <component base="macron" xOffset="-18"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-26 14:47:45 +0000</string>
-    </dict>
-  </lib>
 </glyph>

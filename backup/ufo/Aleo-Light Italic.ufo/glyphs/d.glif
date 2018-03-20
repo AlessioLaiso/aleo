@@ -63,13 +63,7 @@
       <point x="488" y="498" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="267" y="249" type="move" name="center"/>
+      <point x="410" y="582" type="move" name="center"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>

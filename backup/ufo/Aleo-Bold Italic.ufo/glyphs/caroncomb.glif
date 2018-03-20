@@ -3,7 +3,34 @@
   <advance width="375"/>
   <unicode hex="030C"/>
   <outline>
-    <component base="caron" xOffset="43"/>
+    <contour>
+      <point x="285" y="584" type="line"/>
+      <point x="417" y="723" type="line"/>
+      <point x="335" y="723" type="line" smooth="yes"/>
+      <point x="330" y="723"/>
+      <point x="325" y="722"/>
+      <point x="320" y="720" type="curve" smooth="yes"/>
+      <point x="315" y="718"/>
+      <point x="311" y="716"/>
+      <point x="308" y="714" type="curve"/>
+      <point x="250" y="666" type="line"/>
+      <point x="248" y="664"/>
+      <point x="246" y="663"/>
+      <point x="244" y="661" type="curve" smooth="yes"/>
+      <point x="238" y="655" type="line"/>
+      <point x="235" y="660"/>
+      <point x="232" y="663"/>
+      <point x="229" y="666" type="curve" smooth="yes"/>
+      <point x="181" y="714" type="line" smooth="yes"/>
+      <point x="179" y="716"/>
+      <point x="175" y="718"/>
+      <point x="171" y="720" type="curve" smooth="yes"/>
+      <point x="167" y="722"/>
+      <point x="162" y="723"/>
+      <point x="157" y="723" type="curve" smooth="yes"/>
+      <point x="72" y="723" type="line"/>
+      <point x="169" y="584" type="line"/>
+    </contour>
     <contour>
       <point x="245" y="723" type="move" name="top"/>
     </contour>
@@ -11,10 +38,4 @@
       <point x="245" y="513" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-26 14:42:03 +0000</string>
-    </dict>
-  </lib>
 </glyph>

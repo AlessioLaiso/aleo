@@ -125,10 +125,4 @@
       <point x="390" y="362" type="move" name="center"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-26 15:47:16 +0000</string>
-    </dict>
-  </lib>
 </glyph>

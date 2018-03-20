@@ -9,10 +9,4 @@
     <component base="z"/>
     <component base="caroncomb.case" xOffset="-55" yOffset="1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

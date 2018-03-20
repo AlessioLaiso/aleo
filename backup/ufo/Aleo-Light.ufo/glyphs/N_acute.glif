@@ -2,14 +2,11 @@
 <glyph name="Nacute" format="1">
   <advance width="789"/>
   <unicode hex="0143"/>
+  <note>
+    Nacute
+  </note>
   <outline>
     <component base="N"/>
     <component base="acutecomb.case" xOffset="320" yOffset="210"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

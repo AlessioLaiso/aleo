@@ -49,7 +49,7 @@
       <point x="536" y="38" type="curve"/>
     </contour>
     <contour>
-      <point x="538" y="10" type="move" name="ogonek"/>
+      <point x="559" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="270" y="498" type="move" name="top"/>
@@ -61,10 +61,4 @@
       <point x="299" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:36:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

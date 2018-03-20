@@ -72,19 +72,13 @@
       <point x="372" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="207" y="723" type="move" name="top"/>
+      <point x="242" y="723" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="20" y="723" type="move" name="topleft"/>
+      <point x="55" y="723" type="move" name="topleft"/>
     </contour>
     <contour>
       <point x="207" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-26 14:38:56 +0000</string>
-    </dict>
-  </lib>
 </glyph>

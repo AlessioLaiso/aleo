@@ -19,12 +19,6 @@
 	<array>
 		<string>OE</string>
 	</array>
-	<key>@MMK_L_C</key>
-	<array>
-		<string>Ccedilla</string>
-		<string>Cacute</string>
-		<string>Ccaron</string>
-	</array>
 	<key>@MMK_L_D</key>
 	<array>
 		<string>O</string>
@@ -34,26 +28,12 @@
 		<string>Otilde</string>
 		<string>Odieresis</string>
 		<string>Oslash</string>
-		<string>Delta</string>
-		<string>Dcaron</string>
 		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
 		<string>AE</string>
-		<string>Egrave</string>
-		<string>Eacute</string>
-		<string>Ecircumflex</string>
-		<string>Edieresis</string>
-		<string>Eogonek</string>
-		<string>Ecaron</string>
-		<string>Edotaccent</string>
-		<string>Emacron</string>
-	</array>
-	<key>@MMK_L_G</key>
-	<array>
-		<string>Gcommaaccent</string>
 	</array>
 	<key>@MMK_L_IJ</key>
 	<array>
@@ -116,14 +96,11 @@
 		<string>Ycircumflex</string>
 		<string>Ygrave</string>
 	</array>
-	<key>@MMK_L_a.sc</key>
-	<array>
-		<string>a.sc</string>
-		<string>aacute.sc</string>
-	</array>
 	<key>@MMK_L_b</key>
 	<array>
+		<string>b</string>
 		<string>o</string>
+		<string>p</string>
 		<string>ograve</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
@@ -132,6 +109,11 @@
 		<string>oslash</string>
 		<string>ohungarumlaut</string>
 		<string>omacron</string>
+	</array>
+	<key>@MMK_L_c</key>
+	<array>
+		<string>c</string>
+		<string>ccedilla</string>
 	</array>
 	<key>@MMK_L_comma</key>
 	<array>
@@ -212,6 +194,10 @@
 		<string>rcaron</string>
 		<string>rcommaaccent</string>
 	</array>
+	<key>@MMK_L_s</key>
+	<array>
+		<string>s</string>
+	</array>
 	<key>@MMK_L_uni01F1</key>
 	<array>
 		<string>Z</string>
@@ -267,28 +253,12 @@
 		<string>Otilde</string>
 		<string>Odieresis</string>
 		<string>Oslash</string>
-		<string>OE</string>
 		<string>Cacute</string>
+		<string>OE</string>
 		<string>Ccaron</string>
 		<string>Gcommaaccent</string>
 		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
-	</array>
-	<key>@MMK_R_D</key>
-	<array>
-		<string>Delta</string>
-		<string>Dcaron</string>
-	</array>
-	<key>@MMK_R_E</key>
-	<array>
-		<string>Egrave</string>
-		<string>Eacute</string>
-		<string>Ecircumflex</string>
-		<string>Edieresis</string>
-		<string>Eogonek</string>
-		<string>Ecaron</string>
-		<string>Edotaccent</string>
-		<string>Emacron</string>
 	</array>
 	<key>@MMK_R_J</key>
 	<array>
@@ -367,11 +337,6 @@
 		<string>aogonek</string>
 		<string>abreve</string>
 		<string>amacron</string>
-	</array>
-	<key>@MMK_R_a.sc</key>
-	<array>
-		<string>a.sc</string>
-		<string>aacute.sc</string>
 	</array>
 	<key>@MMK_R_c</key>
 	<array>

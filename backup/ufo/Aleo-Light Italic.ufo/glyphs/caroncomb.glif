@@ -2,9 +2,6 @@
 <glyph name="caroncomb" format="1">
   <advance width="369"/>
   <unicode hex="030C"/>
-  <note>
-    caron
-  </note>
   <outline>
     <contour>
       <point x="64" y="708" type="line"/>
@@ -33,10 +30,4 @@
       <point x="194" y="498" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-28 23:37:23 +0000</string>
-    </dict>
-  </lib>
 </glyph>
