@@ -21,14 +21,19 @@ ots-sanitize fonts/ttf/Aleo-BoldItalic.ttf
 ots-sanitize fonts/ttf/Aleo-Light.ttf
 ots-sanitize fonts/ttf/Aleo-LightItalic.ttf
 ots-sanitize fonts/ttf/Aleo-Regular.ttf
-ots-sanitize fonts/ttf/Aleo-RegularItalic.ttf
+ots-sanitize fonts/ttf/Aleo-Italic.ttf
 
 ots-sanitize fonts/otf/Aleo-Bold.otf
 ots-sanitize fonts/otf/Aleo-BoldItalic.otf
 ots-sanitize fonts/otf/Aleo-Light.otf
 ots-sanitize fonts/otf/Aleo-LightItalic.otf
 ots-sanitize fonts/otf/Aleo-Regular.otf
-ots-sanitize fonts/otf/Aleo-RegularItalic.otf
+ots-sanitize fonts/otf/Aleo-Italic.otf
 
 
+fontbakery check-googlefonts fonts/ttf/Aleo-Bold.ttf
+fontbakery check-googlefonts fonts/ttf/Aleo-BoldItalic.ttf
+fontbakery check-googlefonts fonts/ttf/Aleo-Light.ttf
+fontbakery check-googlefonts fonts/ttf/Aleo-LightItalic.ttf
 fontbakery check-googlefonts fonts/ttf/Aleo-Regular.ttf
+fontbakery check-googlefonts fonts/ttf/Aleo-Italic.ttf
