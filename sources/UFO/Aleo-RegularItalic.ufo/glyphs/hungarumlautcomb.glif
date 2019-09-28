@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="1">
+  <advance width="422"/>
+  <unicode hex="030B"/>
+  <outline>
+    <component base="hungarumlaut" xOffset="-43"/>
+    <contour>
+      <point x="193" y="506" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="220" y="724" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

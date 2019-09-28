@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="1">
+  <advance width="253"/>
+  <unicode hex="0327"/>
+  <outline>
+    <component base="cedilla" xOffset="-68"/>
+    <contour>
+      <point x="97" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="57" y="-174" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

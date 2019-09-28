@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="1">
+  <advance width="730"/>
+  <unicode hex="00C5"/>
+  <note>
+    Aring
+  </note>
+  <outline>
+    <contour>
+      <point x="718" y="56" type="curve"/>
+      <point x="680" y="68" type="line"/>
+      <point x="500" y="716" type="line"/>
+      <point x="402" y="716" type="line"/>
+      <point x="63" y="68" type="line"/>
+      <point x="21" y="56" type="line"/>
+      <point x="12" y="54"/>
+      <point x="7" y="49"/>
+      <point x="6" y="40" type="curve" smooth="yes"/>
+      <point x="1" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="212" y="40" type="line" smooth="yes"/>
+      <point x="213" y="49"/>
+      <point x="209" y="54"/>
+      <point x="200" y="56" type="curve"/>
+      <point x="161" y="68" type="line"/>
+      <point x="235" y="212" type="line"/>
+      <point x="544" y="212" type="line"/>
+      <point x="582" y="68" type="line"/>
+      <point x="539" y="56" type="line"/>
+      <point x="530" y="54"/>
+      <point x="525" y="49"/>
+      <point x="524" y="40" type="curve" smooth="yes"/>
+      <point x="519" y="0" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="729" y="40" type="line" smooth="yes"/>
+      <point x="730" y="49"/>
+      <point x="726" y="54"/>
+    </contour>
+    <contour>
+      <point x="525" y="282" type="line"/>
+      <point x="270" y="282" type="line"/>
+      <point x="410" y="557" type="line" smooth="yes"/>
+      <point x="418" y="573"/>
+      <point x="428" y="596"/>
+      <point x="440" y="625" type="curve"/>
+      <point x="444" y="598"/>
+      <point x="448" y="576"/>
+      <point x="453" y="558" type="curve" smooth="yes"/>
+    </contour>
+    <component base="ringcomb.case" xOffset="15"/>
+  </outline>
+</glyph>

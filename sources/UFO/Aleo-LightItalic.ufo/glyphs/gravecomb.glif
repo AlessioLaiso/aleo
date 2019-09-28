@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="1">
+  <advance width="238"/>
+  <unicode hex="0300"/>
+  <outline>
+    <component base="grave" xOffset="-56"/>
+    <contour>
+      <point x="101" y="498" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="127" y="716" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.case" format="1">
+  <advance width="379"/>
+  <note>
+    acute.case
+  </note>
+  <outline>
+    <component base="acutecomb.case"/>
+  </outline>
+</glyph>

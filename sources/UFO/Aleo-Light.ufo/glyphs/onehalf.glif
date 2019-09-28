@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="797"/>
+  <unicode hex="00BD"/>
+  <note>
+    onehalf
+  </note>
+  <outline>
+    <contour>
+      <point x="198" y="16" type="curve"/>
+      <point x="599" y="708" type="line"/>
+      <point x="578" y="708" type="line" smooth="yes"/>
+      <point x="566" y="708"/>
+      <point x="556" y="701"/>
+      <point x="551" y="690" type="curve"/>
+      <point x="151" y="0" type="line"/>
+      <point x="171" y="0" type="line" smooth="yes"/>
+      <point x="185" y="0"/>
+      <point x="190" y="4"/>
+    </contour>
+    <component base="onesuperior" xOffset="41" yOffset="-99"/>
+    <component base="twosuperior" xOffset="411" yOffset="-450"/>
+  </outline>
+</glyph>

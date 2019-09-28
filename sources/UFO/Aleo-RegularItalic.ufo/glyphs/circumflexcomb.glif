@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="1">
+  <advance width="386"/>
+  <unicode hex="0302"/>
+  <outline>
+    <component base="circumflex" xOffset="-34"/>
+    <contour>
+      <point x="176" y="506" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="201" y="716" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

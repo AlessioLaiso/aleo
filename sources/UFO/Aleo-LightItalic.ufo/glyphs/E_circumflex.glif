@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="702"/>
+  <unicode hex="00CA"/>
+  <note>
+    Ecircumflex
+  </note>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="274" yOffset="210"/>
+  </outline>
+</glyph>
