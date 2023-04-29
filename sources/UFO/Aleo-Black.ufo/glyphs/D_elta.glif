@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+	<advance width="767"/>
+	<unicode hex="2206"/>
+	<note>
+		Delta
+	</note>
+	<outline>
+		<contour>
+			<point x="5" y="0" type="line"/>
+			<point x="762" y="0" type="line"/>
+			<point x="460" y="729" type="line"/>
+			<point x="307" y="729" type="line"/>
+		</contour>
+		<contour>
+			<point x="227" y="129" type="line"/>
+			<point x="356" y="477" type="line"/>
+			<point x="365.333" y="499.667"/>
+			<point x="374.667" y="528.667"/>
+			<point x="384" y="562" type="curve"/>
+			<point x="394" y="528"/>
+			<point x="404" y="500"/>
+			<point x="412" y="478" type="curve" smooth="yes"/>
+			<point x="541" y="129" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 8 values pushed */
+5 4 3 2 1 0 3 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+9 1 2 0 1 30 0 0 0 11 31 0 2 2 1 0 2 36 0 1 1 12 1 32 4 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 34 values pushed */
+9 1 2 0 1 30 0 0 2 0 52 0 2 1 1 2 0 0 35 0 2 2 1 0 2 36 0 1 2 1 0 2 33 5 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

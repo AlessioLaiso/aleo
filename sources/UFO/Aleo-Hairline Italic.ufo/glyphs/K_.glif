@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+	<advance width="698"/>
+	<unicode hex="004B"/>
+	<anchor x="399.867" y="700" name="top"/>
+	<anchor x="313.918" y="0" name="bottom"/>
+	<note>
+		K
+	</note>
+	<outline>
+		<contour>
+			<point x="93.918" y="0" type="line"/>
+			<point x="105.918" y="0" type="line"/>
+			<point x="149.138" y="352" type="line"/>
+			<point x="196.138" y="352" type="line" smooth="yes"/>
+			<point x="220.138" y="352"/>
+			<point x="229.77" y="349"/>
+			<point x="245.682" y="332" type="curve" smooth="yes"/>
+			<point x="549.777" y="7" type="line" smooth="yes"/>
+			<point x="554.163" y="2"/>
+			<point x="557.918" y="0"/>
+			<point x="566.918" y="0" type="curve" smooth="yes"/>
+			<point x="571.918" y="0" type="line"/>
+			<point x="252.787" y="341" type="line"/>
+			<point x="245.892" y="350"/>
+			<point x="237.629" y="356"/>
+			<point x="225.752" y="357" type="curve"/>
+			<point x="239.12" y="360"/>
+			<point x="246.611" y="364"/>
+			<point x="257.839" y="374" type="curve" smooth="yes"/>
+			<point x="637.867" y="700" type="line"/>
+			<point x="631.867" y="700" type="line" smooth="yes"/>
+			<point x="624.867" y="700"/>
+			<point x="621.744" y="699"/>
+			<point x="612.885" y="692" type="curve" smooth="yes"/>
+			<point x="248.453" y="379" type="line"/>
+			<point x="229.611" y="364"/>
+			<point x="222.366" y="362"/>
+			<point x="197.366" y="362" type="curve" smooth="yes"/>
+			<point x="150.366" y="362" type="line"/>
+			<point x="191.867" y="700" type="line"/>
+			<point x="179.867" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="609.271" y="687" type="line"/>
+			<point x="631.394" y="688" type="line"/>
+			<point x="655.867" y="700" type="line"/>
+			<point x="631.867" y="700" type="line"/>
+			<point x="618.885" y="692" type="line"/>
+		</contour>
+		<contour>
+			<point x="566.918" y="0" type="line"/>
+			<point x="569.391" y="12" type="line"/>
+			<point x="545.514" y="13" type="line"/>
+		</contour>
+		<contour>
+			<point x="11.918" y="0" type="line"/>
+			<point x="96.918" y="0" type="line"/>
+			<point x="97.391" y="12" type="line"/>
+			<point x="20.146" y="10" type="line" smooth="yes"/>
+			<point x="17.146" y="10"/>
+			<point x="12.9" y="8"/>
+			<point x="12.532" y="5" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="102.918" y="0" type="line"/>
+			<point x="187.918" y="0" type="line"/>
+			<point x="188.532" y="5" type="line" smooth="yes"/>
+			<point x="188.9" y="8"/>
+			<point x="185.146" y="10"/>
+			<point x="182.146" y="10" type="curve" smooth="yes"/>
+			<point x="105.391" y="12" type="line"/>
+		</contour>
+		<contour>
+			<point x="182.867" y="700" type="line"/>
+			<point x="97.867" y="700" type="line"/>
+			<point x="97.253" y="695" type="line" smooth="yes"/>
+			<point x="96.885" y="692"/>
+			<point x="100.639" y="690"/>
+			<point x="103.639" y="690" type="curve" smooth="yes"/>
+			<point x="180.394" y="688" type="line"/>
+		</contour>
+		<contour>
+			<point x="273.867" y="700" type="line"/>
+			<point x="188.867" y="700" type="line"/>
+			<point x="188.394" y="688" type="line"/>
+			<point x="265.639" y="690" type="line" smooth="yes"/>
+			<point x="268.639" y="690"/>
+			<point x="272.885" y="692"/>
+			<point x="273.253" y="695" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="566.918" y="0" type="line"/>
+			<point x="651.918" y="0" type="line"/>
+			<point x="652.532" y="5" type="line" smooth="yes"/>
+			<point x="652.9" y="8"/>
+			<point x="649.146" y="10"/>
+			<point x="646.146" y="10" type="curve" smooth="yes"/>
+			<point x="569.391" y="12" type="line"/>
+		</contour>
+		<contour>
+			<point x="716.867" y="700" type="line"/>
+			<point x="631.867" y="700" type="line"/>
+			<point x="631.394" y="688" type="line"/>
+			<point x="708.639" y="690" type="line" smooth="yes"/>
+			<point x="711.639" y="690"/>
+			<point x="715.885" y="692"/>
+			<point x="716.253" y="695" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="632.867" y="700" type="line"/>
+			<point x="547.867" y="700" type="line"/>
+			<point x="547.253" y="695" type="line" smooth="yes"/>
+			<point x="546.885" y="692"/>
+			<point x="550.639" y="690"/>
+			<point x="553.639" y="690" type="curve" smooth="yes"/>
+			<point x="630.394" y="688" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 4 values pushed */
+31 3 32 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+31 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDRP[10000]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+33 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+33 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+10 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+10 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+19 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+19 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+31 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+31 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+1 1 29 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>X</string>
+		</dict>
+	</lib>
+</glyph>

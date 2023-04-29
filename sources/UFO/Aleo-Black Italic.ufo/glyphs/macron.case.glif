@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="2">
+	<advance width="330"/>
+	<note>
+		macron.case
+	</note>
+	<outline>
+		<contour>
+			<point x="83.541" y="777" type="line"/>
+			<point x="373.541" y="777" type="line"/>
+			<point x="384.1" y="863" type="line"/>
+			<point x="94.1" y="863" type="line"/>
+			<point x="83.541" y="777" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+3 2 1 0 2 7 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 23 values pushed */
+0 0 1 1 0 0 0 35 0 0 0 1 0 0 36 0 1 0 1 0 0 33 3 
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

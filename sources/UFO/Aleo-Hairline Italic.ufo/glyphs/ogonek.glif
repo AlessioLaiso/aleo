@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+	<advance width="250"/>
+	<unicode hex="02DB"/>
+	<note>
+		ogonek
+	</note>
+	<outline>
+		<contour>
+			<point x="146.342" y="-135" type="curve"/>
+			<point x="146.342" y="-135" type="line" smooth="yes"/>
+			<point x="142.342" y="-135"/>
+			<point x="104.641" y="-157"/>
+			<point x="78.641" y="-157" type="curve" smooth="yes"/>
+			<point x="41.641" y="-157"/>
+			<point x="14.342" y="-135"/>
+			<point x="18.885" y="-98" type="curve" smooth="yes"/>
+			<point x="24.533" y="-52"/>
+			<point x="70.708" y="-18"/>
+			<point x="103.918" y="0" type="curve"/>
+			<point x="98.777" y="7" type="line"/>
+			<point x="63.444" y="-12"/>
+			<point x="13.41" y="-53"/>
+			<point x="7.885" y="-98" type="curve" smooth="yes"/>
+			<point x="2.36" y="-143"/>
+			<point x="32.413" y="-167"/>
+			<point x="76.413" y="-167" type="curve" smooth="yes"/>
+			<point x="104.413" y="-167"/>
+			<point x="133.641" y="-157"/>
+			<point x="152.728" y="-140" type="curve"/>
+			<point x="150.096" y="-137" type="line" smooth="yes"/>
+			<point x="149.219" y="-136"/>
+			<point x="147.342" y="-135"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 4 values pushed */
+20 3 9 4 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+15 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+15 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+23 1 6 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+0 2 3 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

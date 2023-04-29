@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.case" format="2">
+	<advance width="280"/>
+	<note>
+		grave.case
+	</note>
+	<outline>
+		<contour>
+			<point x="22" y="880" type="line"/>
+			<point x="167" y="772" type="line" smooth="yes"/>
+			<point x="170.333" y="770"/>
+			<point x="173.333" y="769"/>
+			<point x="176" y="769" type="curve" smooth="yes"/>
+			<point x="182" y="769" type="line"/>
+			<point x="61" y="873" type="line" smooth="yes"/>
+			<point x="55.667" y="878.333"/>
+			<point x="52" y="880"/>
+			<point x="40" y="880" type="curve" smooth="yes"/>
+			<point x="22" y="880" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+4 8 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+0 5 3 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

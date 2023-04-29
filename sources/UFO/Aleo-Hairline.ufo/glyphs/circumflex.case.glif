@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="2">
+	<advance width="280"/>
+	<note>
+		circumflex.case
+	</note>
+	<outline>
+		<contour>
+			<point x="20" y="769" type="line"/>
+			<point x="30" y="769" type="line" smooth="yes"/>
+			<point x="33" y="769"/>
+			<point x="37" y="770"/>
+			<point x="40" y="773" type="curve"/>
+			<point x="140" y="856" type="line"/>
+			<point x="240" y="773" type="line" smooth="yes"/>
+			<point x="244" y="770"/>
+			<point x="247.333" y="769"/>
+			<point x="250" y="769" type="curve" smooth="yes"/>
+			<point x="260" y="769" type="line"/>
+			<point x="144" y="864" type="line"/>
+			<point x="136" y="864" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+0 14 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+15 1 7 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,124 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="OE" format="1">
-  <advance width="1085"/>
-  <unicode hex="0152"/>
-  <note>
-    OE
-  </note>
-  <outline>
-    <contour>
-      <point x="696" y="636" type="line"/>
-      <point x="963" y="638" type="line"/>
-      <point x="967" y="590"/>
-      <point x="971" y="564"/>
-      <point x="971" y="561" type="curve"/>
-      <point x="973" y="549"/>
-      <point x="979" y="544"/>
-      <point x="991" y="544" type="curve" smooth="yes"/>
-      <point x="1040" y="544" type="line"/>
-      <point x="1040" y="638" type="line"/>
-      <point x="1040" y="716" type="line"/>
-      <point x="610" y="716" type="line"/>
-      <point x="610" y="596" type="line"/>
-      <point x="582" y="636"/>
-      <point x="547" y="669"/>
-      <point x="505" y="691" type="curve" smooth="yes"/>
-      <point x="463" y="713"/>
-      <point x="415" y="724"/>
-      <point x="361" y="724" type="curve" smooth="yes"/>
-      <point x="267" y="724"/>
-      <point x="190" y="690"/>
-      <point x="131" y="622" type="curve" smooth="yes"/>
-      <point x="103" y="590"/>
-      <point x="81" y="551"/>
-      <point x="65" y="506" type="curve" smooth="yes"/>
-      <point x="49" y="461"/>
-      <point x="43" y="412"/>
-      <point x="43" y="358" type="curve" smooth="yes"/>
-      <point x="43" y="304"/>
-      <point x="49" y="255"/>
-      <point x="65" y="210" type="curve" smooth="yes"/>
-      <point x="81" y="165"/>
-      <point x="103" y="126"/>
-      <point x="131" y="94" type="curve" smooth="yes"/>
-      <point x="159" y="62"/>
-      <point x="192" y="37"/>
-      <point x="231" y="19" type="curve" smooth="yes"/>
-      <point x="270" y="1"/>
-      <point x="315" y="-8"/>
-      <point x="365" y="-8" type="curve" smooth="yes"/>
-      <point x="415" y="-8"/>
-      <point x="463" y="4"/>
-      <point x="505" y="26" type="curve" smooth="yes"/>
-      <point x="547" y="48"/>
-      <point x="582" y="79"/>
-      <point x="610" y="119" type="curve"/>
-      <point x="610" y="-1" type="line"/>
-      <point x="1040" y="-1" type="line"/>
-      <point x="1040" y="166" type="line"/>
-      <point x="991" y="166" type="line" smooth="yes"/>
-      <point x="979" y="166"/>
-      <point x="973" y="161"/>
-      <point x="971" y="149" type="curve"/>
-      <point x="971" y="146"/>
-      <point x="969" y="122"/>
-      <point x="965" y="78" type="curve"/>
-      <point x="696" y="78" type="line"/>
-      <point x="696" y="322" type="line"/>
-      <point x="960" y="322" type="line"/>
-      <point x="960" y="398" type="line"/>
-      <point x="696" y="398" type="line"/>
-    </contour>
-    <contour>
-      <point x="582" y="238" type="curve"/>
-      <point x="583" y="238" type="line"/>
-      <point x="573" y="203"/>
-      <point x="557" y="172"/>
-      <point x="537" y="148" type="curve" smooth="yes"/>
-      <point x="517" y="124"/>
-      <point x="493" y="105"/>
-      <point x="465" y="92" type="curve" smooth="yes"/>
-      <point x="437" y="79"/>
-      <point x="405" y="72"/>
-      <point x="371" y="72" type="curve" smooth="yes"/>
-      <point x="337" y="72"/>
-      <point x="305" y="79"/>
-      <point x="277" y="92" type="curve" smooth="yes"/>
-      <point x="249" y="105"/>
-      <point x="225" y="124"/>
-      <point x="205" y="148" type="curve" smooth="yes"/>
-      <point x="185" y="172"/>
-      <point x="169" y="203"/>
-      <point x="158" y="238" type="curve" smooth="yes"/>
-      <point x="147" y="273"/>
-      <point x="141" y="312"/>
-      <point x="141" y="356" type="curve" smooth="yes"/>
-      <point x="141" y="400"/>
-      <point x="147" y="439"/>
-      <point x="158" y="474" type="curve" smooth="yes"/>
-      <point x="169" y="509"/>
-      <point x="185" y="540"/>
-      <point x="205" y="564" type="curve" smooth="yes"/>
-      <point x="225" y="588"/>
-      <point x="249" y="607"/>
-      <point x="277" y="620" type="curve" smooth="yes"/>
-      <point x="305" y="633"/>
-      <point x="337" y="640"/>
-      <point x="371" y="640" type="curve" smooth="yes"/>
-      <point x="405" y="640"/>
-      <point x="437" y="633"/>
-      <point x="465" y="620" type="curve" smooth="yes"/>
-      <point x="493" y="607"/>
-      <point x="517" y="588"/>
-      <point x="537" y="564" type="curve" smooth="yes"/>
-      <point x="557" y="540"/>
-      <point x="572" y="509"/>
-      <point x="582" y="474" type="curve" smooth="yes"/>
-      <point x="592" y="439"/>
-      <point x="598" y="400"/>
-      <point x="598" y="356" type="curve" smooth="yes"/>
-      <point x="598" y="312"/>
-      <point x="592" y="273"/>
-    </contour>
-  </outline>
+<glyph name="OE" format="2">
+	<advance width="1073"/>
+	<unicode hex="0152"/>
+	<note>
+		OE
+	</note>
+	<outline>
+		<contour>
+			<point x="348" y="-7" type="curve" smooth="yes"/>
+			<point x="456" y="-7"/>
+			<point x="542" y="40"/>
+			<point x="598" y="120" type="curve"/>
+			<point x="598" y="0" type="line"/>
+			<point x="1028" y="0" type="line"/>
+			<point x="1028" y="79" type="line"/>
+			<point x="684" y="79" type="line"/>
+			<point x="684" y="323" type="line"/>
+			<point x="949" y="323" type="line"/>
+			<point x="949" y="399" type="line"/>
+			<point x="684" y="399" type="line"/>
+			<point x="684" y="638" type="line"/>
+			<point x="1028" y="638" type="line"/>
+			<point x="1028" y="717" type="line"/>
+			<point x="598" y="717" type="line"/>
+			<point x="598" y="597" type="line"/>
+			<point x="542" y="677"/>
+			<point x="456" y="725"/>
+			<point x="348" y="725" type="curve" smooth="yes"/>
+			<point x="253" y="725"/>
+			<point x="174" y="687"/>
+			<point x="118" y="622" type="curve" smooth="yes"/>
+			<point x="62" y="557"/>
+			<point x="30" y="466"/>
+			<point x="30" y="358" type="curve" smooth="yes"/>
+			<point x="30" y="251"/>
+			<point x="62" y="159"/>
+			<point x="118" y="95" type="curve" smooth="yes"/>
+			<point x="174" y="31"/>
+			<point x="253" y="-7"/>
+		</contour>
+		<contour>
+			<point x="358" y="74" type="curve" smooth="yes"/>
+			<point x="215" y="74"/>
+			<point x="129" y="189"/>
+			<point x="129" y="358" type="curve" smooth="yes"/>
+			<point x="129" y="528"/>
+			<point x="215" y="643"/>
+			<point x="358" y="643" type="curve" smooth="yes"/>
+			<point x="503" y="643"/>
+			<point x="586" y="529"/>
+			<point x="586" y="358" type="curve" smooth="yes"/>
+			<point x="586" y="188"/>
+			<point x="502" y="74"/>
+		</contour>
+		<component base="SerifUpLeftCaps" xOffset="1028" yOffset="79"/>
+		<component base="SerifUpRightCaps" xScale="-1" yScale="-1" xOffset="1028" yOffset="638"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 26 values pushed */
+0 0 45 43 35 33 0 28 0 28 25 23 15 13 10 9 8 7 6 5 4 3 2 1 11 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+30 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 51 values pushed */
+27 1 1 0 11 1 3 2 2 30 0 1 0 2 3 1 2 0 0 38 8 1 0 0 6 1 0 36 10 7 2 6 6 17 31 9 1 3 3 4 1 0 36 5 1 4 4 12 4 32 6 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+34 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 63 values pushed */
+27 1 1 0 11 1 3 2 2 30 0 1 0 2 3 1 2 0 0 38 8 1 0 0 6 1 0 36 0 6 6 17 31 8 1 0 0 7 0 0 36 10 1 7 7 11 31 9 1 3 3 4 1 0 36 5 1 4 4 12 4 32 8 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+44 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 75 values pushed */
+27 1 1 0 11 1 3 2 2 30 0 1 0 2 3 1 2 0 0 38 8 1 0 0 6 1 0 36 0 6 6 17 31 8 1 0 0 7 0 0 36 10 1 7 7 11 31 9 1 3 3 4 0 0 36 0 4 4 12 31 9 1 3 3 5 1 0 36 0 5 5 21 5 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+48 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 73 values pushed */
+27 1 1 0 11 1 3 2 2 30 0 1 0 2 3 1 2 0 0 38 0 8 8 6 1 0 36 0 6 6 17 31 0 0 0 7 0 0 36 10 1 7 7 11 31 9 1 3 3 4 0 0 36 0 4 4 12 31 9 1 3 3 5 1 0 36 0 5 5 21 5 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 71 values pushed */
+27 1 1 0 11 1 3 2 2 30 0 1 0 2 3 1 2 0 0 38 0 8 8 6 1 0 36 0 6 6 17 31 0 0 0 7 0 0 36 10 1 7 7 11 31 0 3 3 4 0 0 36 0 4 4 12 31 0 9 9 5 1 0 36 0 5 5 21 5 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 67 values pushed */
+27 1 1 0 11 1 3 2 2 30 0 6 0 8 0 6 8 1 0 38 10 1 7 0 0 1 7 0 0 0 38 0 1 0 2 3 1 2 0 0 38 0 3 3 4 0 0 36 0 4 4 15 31 0 9 9 5 1 0 36 0 5 5 21 5 32 8 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 74 values pushed */
+27 1 1 0 11 1 3 2 2 30 0 6 0 8 0 6 8 1 0 38 10 1 7 0 0 1 7 0 0 0 38 0 1 0 2 3 1 2 0 0 38 0 9 4 5 9 1 0 35 0 3 0 4 5 3 4 0 0 38 0 9 9 5 1 0 36 0 5 9 5 1 0 33 8 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+		</dict>
+	</lib>
 </glyph>

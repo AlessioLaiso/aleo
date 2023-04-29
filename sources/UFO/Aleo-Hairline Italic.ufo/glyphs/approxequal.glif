@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="approxequal" format="2">
+	<advance width="502"/>
+	<unicode hex="2248"/>
+	<note>
+		approxequal
+	</note>
+	<outline>
+		<contour>
+			<point x="366.067" y="384" type="curve"/>
+			<point x="366.067" y="384" type="line"/>
+			<point x="304.067" y="384"/>
+			<point x="245.68" y="446"/>
+			<point x="177.68" y="446" type="curve" smooth="yes"/>
+			<point x="141.68" y="446"/>
+			<point x="109.715" y="430"/>
+			<point x="89.4" y="403" type="curve"/>
+			<point x="95.786" y="398" type="line"/>
+			<point x="114.61" y="421"/>
+			<point x="143.452" y="436"/>
+			<point x="176.452" y="436" type="curve" smooth="yes"/>
+			<point x="236.452" y="436"/>
+			<point x="302.839" y="374"/>
+			<point x="364.839" y="374" type="curve" smooth="yes"/>
+			<point x="399.839" y="374"/>
+			<point x="433.049" y="392"/>
+			<point x="453.119" y="417" type="curve"/>
+			<point x="446.733" y="422" type="line"/>
+			<point x="428.154" y="401"/>
+			<point x="398.067" y="384"/>
+		</contour>
+		<contour>
+			<point x="347.895" y="236" type="curve"/>
+			<point x="347.895" y="236" type="line"/>
+			<point x="285.895" y="236"/>
+			<point x="227.508" y="298"/>
+			<point x="159.508" y="298" type="curve" smooth="yes"/>
+			<point x="123.508" y="298"/>
+			<point x="91.543" y="282"/>
+			<point x="71.228" y="255" type="curve"/>
+			<point x="77.614" y="250" type="line"/>
+			<point x="96.438" y="273"/>
+			<point x="125.28" y="288"/>
+			<point x="158.28" y="288" type="curve" smooth="yes"/>
+			<point x="218.28" y="288"/>
+			<point x="284.667" y="226"/>
+			<point x="346.667" y="226" type="curve" smooth="yes"/>
+			<point x="381.667" y="226"/>
+			<point x="414.877" y="244"/>
+			<point x="434.947" y="269" type="curve"/>
+			<point x="428.561" y="274" type="line"/>
+			<point x="409.982" y="253"/>
+			<point x="379.895" y="236"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+4 16 3 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+4 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+49 
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+19 31 3 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

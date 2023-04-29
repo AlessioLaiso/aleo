@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+	<advance width="330"/>
+	<anchor x="165" y="916" name="top"/>
+	<anchor x="165" y="519" name="_top"/>
+	<outline>
+		<component base="brevecomb"/>
+		<component base="hookabovecomb" xOffset="-32" yOffset="153"/>
+	</outline>
+</glyph>

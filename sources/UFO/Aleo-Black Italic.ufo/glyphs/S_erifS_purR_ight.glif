@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SerifSpurRight" format="2">
+	<advance width="200"/>
+	<outline>
+		<contour>
+			<point x="45.137" y="0" type="line"/>
+			<point x="-51.863" y="0" type="line"/>
+			<point x="-52.351" y="-118" type="line"/>
+			<point x="-7.246" y="-109" type="line" smooth="yes"/>
+			<point x="17.368" y="-104"/>
+			<point x="33.596" y="-94"/>
+			<point x="36.42" y="-71" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

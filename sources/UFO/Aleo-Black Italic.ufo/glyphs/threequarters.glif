@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+	<advance width="789"/>
+	<unicode hex="00BE"/>
+	<note>
+		threequarters
+	</note>
+	<outline>
+		<contour>
+			<point x="206.112" y="350" type="curve" smooth="yes"/>
+			<point x="278.112" y="350"/>
+			<point x="348.146" y="391"/>
+			<point x="358.337" y="474" type="curve" smooth="yes"/>
+			<point x="363.126" y="513"/>
+			<point x="347.827" y="535"/>
+			<point x="310.301" y="547" type="curve"/>
+			<point x="349.388" y="564"/>
+			<point x="367.071" y="594"/>
+			<point x="372.106" y="635" type="curve" smooth="yes"/>
+			<point x="378.613" y="688"/>
+			<point x="334.138" y="733"/>
+			<point x="258.138" y="733" type="curve" smooth="yes"/>
+			<point x="184.138" y="733"/>
+			<point x="125.473" y="695"/>
+			<point x="102.773" y="616" type="curve"/>
+			<point x="175.422" y="605" type="line" smooth="yes"/>
+			<point x="191.176" y="603"/>
+			<point x="200.282" y="612"/>
+			<point x="210.246" y="628" type="curve" smooth="yes"/>
+			<point x="218.72" y="640"/>
+			<point x="225.456" y="646"/>
+			<point x="241.456" y="646" type="curve" smooth="yes"/>
+			<point x="262.456" y="646"/>
+			<point x="265.737" y="632"/>
+			<point x="263.65" y="615" type="curve" smooth="yes"/>
+			<point x="260.212" y="587"/>
+			<point x="245.107" y="578"/>
+			<point x="197.107" y="578" type="curve"/>
+			<point x="188.512" y="508" type="line"/>
+			<point x="236.512" y="508"/>
+			<point x="251.266" y="506"/>
+			<point x="246.846" y="470" type="curve" smooth="yes"/>
+			<point x="244.513" y="451"/>
+			<point x="230.917" y="438"/>
+			<point x="210.917" y="438" type="curve" smooth="yes"/>
+			<point x="198.917" y="438"/>
+			<point x="185.654" y="444"/>
+			<point x="178.741" y="461" type="curve" smooth="yes"/>
+			<point x="175.092" y="472"/>
+			<point x="164.706" y="477"/>
+			<point x="148.706" y="477" type="curve" smooth="yes"/>
+			<point x="141.706" y="477"/>
+			<point x="132.583" y="476"/>
+			<point x="124.215" y="473" type="curve" smooth="yes"/>
+			<point x="73.882" y="454" type="line"/>
+			<point x="91.059" y="374"/>
+			<point x="134.112" y="350"/>
+		</contour>
+		<contour>
+			<point x="575.137" y="0" type="line"/>
+			<point x="667.137" y="0" type="line"/>
+			<point x="676.346" y="75" type="line"/>
+			<point x="696.346" y="75" type="line" smooth="yes"/>
+			<point x="708.346" y="75"/>
+			<point x="717.574" y="85"/>
+			<point x="718.679" y="94" type="curve" smooth="yes"/>
+			<point x="725.31" y="148" type="line"/>
+			<point x="685.31" y="148" type="line"/>
+			<point x="713.182" y="375" type="line"/>
+			<point x="606.182" y="375" type="line"/>
+			<point x="413.696" y="143" type="line"/>
+			<point x="417.048" y="97" type="line" smooth="yes"/>
+			<point x="418.451" y="84"/>
+			<point x="428.346" y="75"/>
+			<point x="447.346" y="75" type="curve" smooth="yes"/>
+			<point x="584.346" y="75" type="line"/>
+		</contour>
+		<contour>
+			<point x="514.31" y="148" type="line"/>
+			<point x="611.43" y="263" type="line"/>
+			<point x="605.606" y="240"/>
+			<point x="602.027" y="219"/>
+			<point x="599.94" y="202" type="curve" smooth="yes"/>
+			<point x="593.31" y="148" type="line"/>
+		</contour>
+		<contour>
+			<point x="112.137" y="0" type="line"/>
+			<point x="178.137" y="0" type="line" smooth="yes"/>
+			<point x="211.137" y="0"/>
+			<point x="235.488" y="11"/>
+			<point x="259.417" y="43" type="curve" smooth="yes"/>
+			<point x="771.647" y="729" type="line"/>
+			<point x="705.647" y="729" type="line" smooth="yes"/>
+			<point x="669.647" y="729"/>
+			<point x="643.437" y="711"/>
+			<point x="619.631" y="680" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 38 values pushed */
+18 17 94 92 89 87 82 81 70 68 64 62 56 55 54 53 47 45 42 40 34 32 17 76 18 76 16 15 11 9 8 7 6 4 1 0 17 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+9 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 94 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 12 11 10 11 12 10 50 0 7 9 8 8 7 42 0 10 0 9 7 10 9 1 0 38 0 8 0 6 0 8 6 1 2 38 13 1 0 3 1 1 2 0 1 1 0 38 0 11 11 5 1 0 36 15 16 2 5 5 11 31 0 4 4 2 1 2 36 14 1 2 2 12 2 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+11 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 94 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 12 11 10 11 12 10 50 0 7 9 8 8 7 42 0 10 0 9 7 10 9 1 0 38 0 8 0 6 0 8 6 1 2 38 13 1 0 3 1 1 2 0 1 1 0 38 0 11 11 5 1 0 36 15 16 2 5 5 17 31 0 4 4 2 1 2 36 14 1 2 2 12 2 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+13 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 94 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 12 11 10 11 12 10 50 0 7 9 8 8 7 42 0 10 0 9 7 10 9 1 0 38 0 8 0 6 0 8 6 1 2 38 13 1 0 3 1 1 2 0 1 1 0 38 0 11 11 5 1 0 36 15 16 2 5 5 11 31 0 4 4 2 1 2 36 14 1 2 2 12 2 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+32 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 94 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 12 11 10 11 12 10 50 0 7 9 8 8 7 42 0 10 0 9 7 10 9 1 0 38 0 8 0 6 0 8 6 1 2 38 13 1 0 3 1 1 2 0 1 1 0 38 0 11 11 5 1 0 36 15 16 2 5 5 17 31 0 4 4 2 1 2 36 14 1 2 2 12 2 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+52 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 95 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 12 11 10 11 12 10 50 0 7 9 8 9 7 8 50 0 10 0 9 7 10 9 1 0 38 0 8 0 6 0 8 6 1 2 38 13 1 0 3 1 1 2 0 1 1 0 38 0 11 11 5 1 0 36 15 16 2 5 5 17 31 0 4 4 2 1 2 36 14 1 2 2 12 2 32 10 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 99 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 12 11 10 11 12 10 50 0 7 9 8 9 7 8 50 0 10 0 9 7 10 9 1 0 38 0 8 0 6 0 8 6 1 2 38 13 1 0 3 1 1 2 0 1 1 0 38 0 15 15 11 31 0 11 11 5 1 0 36 16 1 5 5 17 31 0 4 4 2 1 2 36 14 1 2 2 12 2 32 11 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 109 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 15 5 11 5 15 11 50 0 12 11 10 11 12 10 50 0 7 9 8 9 7 8 50 16 1 5 0 11 12 5 11 1 0 38 0 10 0 9 7 10 9 1 0 38 0 4 6 2 4 0 0 35 0 8 0 6 0 8 6 1 2 38 13 1 0 3 1 1 2 0 1 1 0 38 0 4 4 2 1 2 36 14 1 2 4 2 1 2 33 11 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 124 values pushed */
+72 1 12 11 25 1 9 10 38 1 8 7 80 1 0 6 4 30 0 15 5 11 5 15 11 50 0 12 11 10 11 12 10 50 0 7 9 8 9 7 8 50 0 14 1 2 1 14 2 50 16 1 5 0 11 12 5 11 1 0 38 0 10 0 9 7 10 9 1 0 38 0 4 6 2 4 0 0 35 0 8 0 6 0 8 6 1 2 38 0 13 0 3 1 13 3 1 0 38 0 0 0 1 14 0 1 1 0 38 0 4 4 2 0 2 36 0 2 4 2 0 2 33 13 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

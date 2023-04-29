@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+	<advance width="603"/>
+	<unicode hex="0141"/>
+	<note>
+		Lslash
+	</note>
+	<outline>
+		<contour>
+			<point x="46" y="210" type="line"/>
+			<point x="449" y="403" type="line" smooth="yes"/>
+			<point x="462" y="408"/>
+			<point x="469" y="418"/>
+			<point x="469" y="434" type="curve" smooth="yes"/>
+			<point x="469" y="544" type="line"/>
+			<point x="64" y="351" type="line"/>
+			<point x="52" y="346"/>
+			<point x="46" y="337"/>
+			<point x="46" y="324" type="curve" smooth="yes"/>
+		</contour>
+		<component base="L" xOffset="46"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 8 values pushed */
+17 16 9 8 7 6 3 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 30 values pushed */
+15 11 10 5 1 0 6 0 2 1 30 0 2 2 11 31 0 0 0 1 0 2 36 0 1 1 12 1 32 4 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 39 values pushed */
+15 11 10 5 1 0 6 0 2 1 30 0 2 0 2 52 0 0 1 1 0 0 0 35 0 0 0 1 0 2 36 0 1 0 1 0 2 33 5 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>L</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="2">
+	<advance width="580"/>
+	<unicode hex="25CA"/>
+	<note>
+		lozenge
+	</note>
+	<outline>
+		<contour>
+			<point x="199.84" y="-35" type="line"/>
+			<point x="307.84" y="-35" type="line"/>
+			<point x="543.199" y="367" type="line"/>
+			<point x="406.559" y="769" type="line"/>
+			<point x="298.559" y="769" type="line"/>
+			<point x="63.199" y="367" type="line"/>
+		</contour>
+		<contour>
+			<point x="269.802" y="95" type="curve"/>
+			<point x="266.597" y="112.333"/>
+			<point x="263.31" y="129"/>
+			<point x="256.432" y="149" type="curve" smooth="yes"/>
+			<point x="189.199" y="367" type="line"/>
+			<point x="310.089" y="586" type="line" smooth="yes"/>
+			<point x="320.545" y="606"/>
+			<point x="329.299" y="623"/>
+			<point x="336.597" y="639" type="curve"/>
+			<point x="339.883" y="622.333"/>
+			<point x="344.381" y="604.667"/>
+			<point x="350.089" y="586" type="curve" smooth="yes"/>
+			<point x="420.199" y="367" type="line"/>
+			<point x="296.432" y="149" type="line" smooth="yes"/>
+			<point x="284.644" y="129"/>
+			<point x="277.263" y="112.333"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+5 4 2 1 2 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+24 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+17 14 10 6 3 0 6 1 0 1 30 0 1 1 0 0 0 36 0 0 0 13 1 32 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 34 values pushed */
+17 14 10 6 3 0 6 1 0 1 30 0 0 1 1 0 0 0 35 0 0 0 1 0 0 36 0 1 0 1 0 0 33 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

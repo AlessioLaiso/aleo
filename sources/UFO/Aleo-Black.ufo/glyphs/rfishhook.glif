@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rfishhook" format="2">
+	<advance width="413"/>
+	<unicode hex="027E"/>
+	<outline>
+		<contour>
+			<point x="103" y="0" type="line"/>
+			<point x="258" y="0" type="line"/>
+			<point x="258" y="334" type="line" smooth="yes"/>
+			<point x="258" y="391"/>
+			<point x="279" y="417"/>
+			<point x="323" y="417" type="curve" smooth="yes"/>
+			<point x="336" y="417"/>
+			<point x="350" y="412"/>
+			<point x="359" y="412" type="curve" smooth="yes"/>
+			<point x="374" y="412"/>
+			<point x="387" y="417"/>
+			<point x="393" y="440" type="curve" smooth="yes"/>
+			<point x="410" y="506" type="line"/>
+			<point x="374" y="521"/>
+			<point x="347" y="527"/>
+			<point x="308" y="527" type="curve" smooth="yes"/>
+			<point x="167" y="527"/>
+			<point x="103" y="442"/>
+			<point x="103" y="317" type="curve" smooth="yes"/>
+		</contour>
+		<component base="SerifBottomRight" xOffset="258"/>
+		<component base="SerifBottomLeft" xOffset="103"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>r</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>r</string>
+		</dict>
+	</lib>
+</glyph>

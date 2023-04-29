@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="2">
+	<advance width="229"/>
+	<unicode hex="012D"/>
+	<anchor x="85.163" y="2" name="ogonek"/>
+	<anchor x="88.918" y="0" name="bottom"/>
+	<anchor x="149.082" y="490" name="top"/>
+	<outline>
+		<contour>
+			<point x="82.918" y="0" type="line"/>
+			<point x="94.918" y="0" type="line"/>
+			<point x="155.082" y="490" type="line"/>
+			<point x="143.082" y="490" type="line"/>
+		</contour>
+		<contour>
+			<point x="91.918" y="0" type="line"/>
+			<point x="176.918" y="0" type="line"/>
+			<point x="177.532" y="5" type="line" smooth="yes"/>
+			<point x="177.9" y="8"/>
+			<point x="174.146" y="10"/>
+			<point x="171.146" y="10" type="curve" smooth="yes"/>
+			<point x="94.391" y="12" type="line"/>
+		</contour>
+		<contour>
+			<point x="146.082" y="490" type="line"/>
+			<point x="61.082" y="490" type="line"/>
+			<point x="60.468" y="485" type="line" smooth="yes"/>
+			<point x="60.1" y="482"/>
+			<point x="63.854" y="480"/>
+			<point x="66.854" y="480" type="curve" smooth="yes"/>
+			<point x="143.609" y="478" type="line"/>
+		</contour>
+		<contour>
+			<point x="160.87" y="586" type="curve"/>
+			<point x="160.87" y="586" type="line"/>
+			<point x="233.87" y="586"/>
+			<point x="271.886" y="635"/>
+			<point x="279.867" y="700" type="curve"/>
+			<point x="269.867" y="700" type="line"/>
+			<point x="262.868" y="643"/>
+			<point x="229.097" y="596"/>
+			<point x="162.097" y="596" type="curve" smooth="yes"/>
+			<point x="95.097" y="596"/>
+			<point x="72.991" y="644"/>
+			<point x="79.867" y="700" type="curve"/>
+			<point x="69.867" y="700" type="line"/>
+			<point x="61.886" y="635"/>
+			<point x="89.87" y="586"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.case" format="2">
+	<advance width="330"/>
+	<note>
+		hungarumlaut.case
+	</note>
+	<outline>
+		<contour>
+			<point x="219.416" y="890" type="line"/>
+			<point x="188.749" y="890"/>
+			<point x="169.193" y="877.333"/>
+			<point x="153.732" y="860" type="curve" smooth="yes"/>
+			<point x="81.418" y="776" type="line"/>
+			<point x="154.418" y="776" type="line" smooth="yes"/>
+			<point x="178.418" y="776"/>
+			<point x="190.693" y="783.667"/>
+			<point x="206.997" y="797" type="curve" smooth="yes"/>
+			<point x="319.416" y="890" type="line"/>
+			<point x="219.416" y="890" type="line"/>
+		</contour>
+		<contour>
+			<point x="399.416" y="890" type="line"/>
+			<point x="368.749" y="890"/>
+			<point x="349.03" y="876"/>
+			<point x="329.732" y="860" type="curve" smooth="yes"/>
+			<point x="231.418" y="776" type="line"/>
+			<point x="314.418" y="776" type="line" smooth="yes"/>
+			<point x="338.418" y="776"/>
+			<point x="353.19" y="785"/>
+			<point x="371.997" y="797" type="curve" smooth="yes"/>
+			<point x="514.416" y="890" type="line"/>
+			<point x="399.416" y="890" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+10 10 0 0 10 19 10 18 15 13 0 9 0 8 5 3 6 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 30 values pushed */
+5 3 4 3 1 0 0 1 1 0 35 5 3 4 3 1 1 0 1 0 36 2 1 0 1 0 1 0 33 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 39 values pushed */
+5 1 3 1 2 1 3 2 50 0 0 2 0 53 4 1 1 3 2 1 1 0 35 4 1 1 1 2 1 0 36 0 2 1 2 1 0 33 5 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

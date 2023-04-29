@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="2">
+	<advance width="422"/>
+	<unicode hex="0072"/>
+	<anchor x="260.126" y="507" name="top"/>
+	<anchor x="115.874" y="0" name="bottom"/>
+	<note>
+		r
+	</note>
+	<outline>
+		<contour>
+			<point x="68.874" y="0" type="line"/>
+			<point x="157.874" y="0" type="line"/>
+			<point x="197.534" y="323" type="line"/>
+			<point x="233.883" y="391"/>
+			<point x="279.426" y="428"/>
+			<point x="340.426" y="428" type="curve" smooth="yes"/>
+			<point x="360.426" y="428"/>
+			<point x="391.321" y="419"/>
+			<point x="401.321" y="419" type="curve" smooth="yes"/>
+			<point x="409.321" y="419"/>
+			<point x="416.812" y="423"/>
+			<point x="418.794" y="431" type="curve" smooth="yes"/>
+			<point x="438.021" y="498" type="line"/>
+			<point x="420.371" y="509"/>
+			<point x="399.231" y="516"/>
+			<point x="371.231" y="516" type="curve" smooth="yes"/>
+			<point x="302.231" y="516"/>
+			<point x="247.074" y="474"/>
+			<point x="203.356" y="403" type="curve"/>
+			<point x="207.056" y="482" type="line" smooth="yes"/>
+			<point x="208.389" y="501"/>
+			<point x="202.126" y="507"/>
+			<point x="182.126" y="507" type="curve" smooth="yes"/>
+			<point x="131.126" y="507" type="line"/>
+		</contour>
+		<contour>
+			<point x="161.126" y="507" type="line"/>
+			<point x="59.126" y="507" type="line"/>
+			<point x="54.092" y="466" type="line" smooth="yes"/>
+			<point x="52.618" y="454"/>
+			<point x="56.759" y="447"/>
+			<point x="67.513" y="445" type="curve" smooth="yes"/>
+			<point x="140.549" y="429" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 16 values pushed */
+0 0 0 22 0 22 19 17 16 14 10 8 3 1 6 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+26 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 33 values pushed */
+12 1 2 0 21 6 2 4 2 2 30 3 1 2 2 0 1 0 36 1 1 0 0 14 31 5 1 4 4 12 4 32 4 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 44 values pushed */
+12 1 3 0 21 6 2 4 2 2 30 0 2 3 4 3 2 4 50 0 0 0 14 31 0 3 3 1 1 0 36 0 1 1 20 31 5 1 4 4 12 4 32 6 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 44 values pushed */
+12 1 3 0 21 6 2 4 2 2 30 0 2 3 4 3 2 4 50 0 1 0 3 2 1 3 1 0 38 0 0 0 4 0 0 36 5 1 4 4 15 4 32 5 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 53 values pushed */
+12 1 3 0 21 6 2 4 2 2 30 0 2 3 4 3 2 4 50 0 0 3 4 0 1 0 35 0 1 0 3 2 1 3 1 0 38 0 0 0 4 0 0 36 5 1 4 0 4 0 0 33 6 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

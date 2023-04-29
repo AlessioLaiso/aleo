@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave.case" format="1">
-  <advance width="367"/>
-  <note>
-    grave.case
-  </note>
-  <outline>
-    <contour>
-      <point x="160" y="891" type="curve" smooth="yes"/>
-      <point x="60" y="891" type="line"/>
-      <point x="207" y="782" type="line"/>
-      <point x="213" y="778"/>
-      <point x="218" y="776"/>
-      <point x="222" y="775" type="curve" smooth="yes"/>
-      <point x="226" y="774"/>
-      <point x="231" y="774"/>
-      <point x="238" y="774" type="curve" smooth="yes"/>
-      <point x="308" y="774" type="line"/>
-      <point x="202" y="875" type="line" smooth="yes"/>
-      <point x="196" y="881"/>
-      <point x="190" y="886"/>
-      <point x="184" y="888" type="curve" smooth="yes"/>
-      <point x="178" y="890"/>
-      <point x="170" y="891"/>
-    </contour>
-  </outline>
+<glyph name="grave.case" format="2">
+	<advance width="307"/>
+	<note>
+		grave.case
+	</note>
+	<outline>
+		<contour>
+			<point x="-22" y="891" type="line"/>
+			<point x="126" y="783" type="line" smooth="yes"/>
+			<point x="136.667" y="775"/>
+			<point x="142.333" y="773"/>
+			<point x="157" y="773" type="curve" smooth="yes"/>
+			<point x="226" y="773" type="line"/>
+			<point x="121" y="875" type="line" smooth="yes"/>
+			<point x="107.667" y="888.333"/>
+			<point x="100.333" y="891"/>
+			<point x="79" y="891" type="curve" smooth="yes"/>
+			<point x="-22" y="891" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+1 0 6 4 0 9 1 9 3 7 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 11 values pushed */
+2 1 0 1 0 52 0 1 1 43 2 
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb" format="2">
+	<advance width="330"/>
+	<unicode hex="0335"/>
+	<anchor x="212.825" y="649" name="_center"/>
+	<outline>
+		<contour>
+			<point x="52.422" y="605" type="line"/>
+			<point x="362.422" y="605" type="line"/>
+			<point x="372.736" y="689" type="line"/>
+			<point x="62.736" y="689" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresiscaron" format="2">
+	<advance width="585"/>
+	<unicode hex="01DA"/>
+	<outline>
+		<component base="u"/>
+		<component base="dieresiscomb" xOffset="120"/>
+		<component base="caroncomb" xOffset="120" yOffset="151"/>
+	</outline>
+</glyph>

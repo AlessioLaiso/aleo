@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+	<advance width="356.6"/>
+	<unicode hex="00BA"/>
+	<note>
+		ordmasculine
+	</note>
+	<outline>
+		<contour>
+			<point x="236.693" y="725" type="curve"/>
+			<point x="236.693" y="725" type="line"/>
+			<point x="142.693" y="725"/>
+			<point x="74.203" y="664"/>
+			<point x="62.661" y="570" type="curve" smooth="yes"/>
+			<point x="50.997" y="475"/>
+			<point x="104.507" y="414"/>
+			<point x="198.507" y="414" type="curve" smooth="yes"/>
+			<point x="292.507" y="414"/>
+			<point x="359.997" y="475"/>
+			<point x="371.661" y="570" type="curve" smooth="yes"/>
+			<point x="383.203" y="664"/>
+			<point x="329.693" y="725"/>
+		</contour>
+		<contour>
+			<point x="205.015" y="467" type="curve"/>
+			<point x="205.015" y="467" type="line"/>
+			<point x="147.015" y="467"/>
+			<point x="124.435" y="503"/>
+			<point x="132.661" y="570" type="curve" smooth="yes"/>
+			<point x="140.888" y="637"/>
+			<point x="172.185" y="672"/>
+			<point x="230.185" y="672" type="curve" smooth="yes"/>
+			<point x="286.185" y="672"/>
+			<point x="309.888" y="637"/>
+			<point x="301.661" y="570" type="curve" smooth="yes"/>
+			<point x="293.435" y="503"/>
+			<point x="261.015" y="467"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+21 20 1 0 27 25 20 31 21 31 11 9 0 19 1 19 6 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 25 values pushed */
+5 1 2 0 1 2 1 1 0 37 0 3 3 0 1 0 36 4 1 0 0 17 3 32 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 36 values pushed */
+4 1 0 0 3 2 0 3 1 0 38 5 1 2 1 1 2 1 0 35 5 1 2 2 1 1 0 36 0 1 2 1 1 0 33 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=o*0.7</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=o*0.7</string>
+		</dict>
+	</lib>
+</glyph>

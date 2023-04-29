@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongcomb" format="2">
+	<advance width="665"/>
+	<unicode hex="0338"/>
+	<anchor x="361.182" y="369" name="_center"/>
+	<outline>
+		<contour>
+			<point x="-36.879" y="-55" type="line"/>
+			<point x="2.121" y="-55" type="line" smooth="yes"/>
+			<point x="22.121" y="-55"/>
+			<point x="43.103" y="-47"/>
+			<point x="60.559" y="-27" type="curve" smooth="yes"/>
+			<point x="724.84" y="749" type="line"/>
+			<point x="674.84" y="749" type="line" smooth="yes"/>
+			<point x="653.84" y="749"/>
+			<point x="646.103" y="743"/>
+			<point x="629.77" y="724" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

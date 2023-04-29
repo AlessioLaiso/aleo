@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="2">
+	<advance width="409"/>
+	<unicode hex="201C"/>
+	<note>
+		quotedblleft
+	</note>
+	<outline>
+		<contour>
+			<point x="185.704" y="528" type="line"/>
+			<point x="195.073" y="531"/>
+			<point x="199.809" y="537"/>
+			<point x="200.792" y="545" type="curve" smooth="yes"/>
+			<point x="201.283" y="549"/>
+			<point x="200.774" y="553"/>
+			<point x="199.265" y="557" type="curve" smooth="yes"/>
+			<point x="186.335" y="582"/>
+			<point x="184.159" y="605"/>
+			<point x="186.737" y="626" type="curve" smooth="yes"/>
+			<point x="191.403" y="664"/>
+			<point x="215.455" y="697"/>
+			<point x="240.77" y="724" type="curve" smooth="yes"/>
+			<point x="244.138" y="727"/>
+			<point x="246.63" y="731"/>
+			<point x="247.244" y="736" type="curve" smooth="yes"/>
+			<point x="247.735" y="740"/>
+			<point x="246.226" y="744"/>
+			<point x="241.717" y="748" type="curve" smooth="yes"/>
+			<point x="216.804" y="765" type="line"/>
+			<point x="158.033" y="718"/>
+			<point x="119.28" y="663"/>
+			<point x="111.913" y="603" type="curve" smooth="yes"/>
+			<point x="107.984" y="571"/>
+			<point x="112.932" y="538"/>
+			<point x="128.003" y="506" type="curve"/>
+			<point x="185.704" y="528" type="line"/>
+		</contour>
+		<contour>
+			<point x="337.704" y="528" type="line"/>
+			<point x="347.073" y="531"/>
+			<point x="351.809" y="537"/>
+			<point x="352.792" y="545" type="curve" smooth="yes"/>
+			<point x="353.283" y="549"/>
+			<point x="352.774" y="553"/>
+			<point x="351.265" y="557" type="curve" smooth="yes"/>
+			<point x="338.335" y="582"/>
+			<point x="336.159" y="605"/>
+			<point x="338.737" y="626" type="curve" smooth="yes"/>
+			<point x="343.403" y="664"/>
+			<point x="367.455" y="697"/>
+			<point x="392.77" y="724" type="curve" smooth="yes"/>
+			<point x="396.138" y="727"/>
+			<point x="398.63" y="731"/>
+			<point x="399.244" y="736" type="curve" smooth="yes"/>
+			<point x="399.735" y="740"/>
+			<point x="398.226" y="744"/>
+			<point x="393.717" y="748" type="curve" smooth="yes"/>
+			<point x="368.804" y="765" type="line"/>
+			<point x="310.033" y="718"/>
+			<point x="271.28" y="663"/>
+			<point x="263.913" y="603" type="curve" smooth="yes"/>
+			<point x="259.984" y="571"/>
+			<point x="264.932" y="538"/>
+			<point x="280.003" y="506" type="curve"/>
+			<point x="337.704" y="528" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+31 25 6 0 2 11 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>quotesingle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>quotesingle</string>
+		</dict>
+	</lib>
+</glyph>

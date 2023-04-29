@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yhook" format="2">
+	<advance width="730"/>
+	<unicode hex="01B3"/>
+	<anchor x="359" y="700" name="top"/>
+	<anchor x="359" y="0" name="bottom"/>
+	<anchor x="92" y="700" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="353" y="0" type="line"/>
+			<point x="365" y="0" type="line"/>
+			<point x="365" y="298" type="line"/>
+			<point x="572" y="629" type="line" smooth="yes"/>
+			<point x="598" y="670"/>
+			<point x="627.333" y="697"/>
+			<point x="666" y="697" type="curve" smooth="yes"/>
+			<point x="683.333" y="697"/>
+			<point x="698.333" y="693.333"/>
+			<point x="717" y="688" type="curve" smooth="yes"/>
+			<point x="722.333" y="686.667"/>
+			<point x="727" y="686"/>
+			<point x="728" y="690" type="curve" smooth="yes"/>
+			<point x="729" y="694" type="line"/>
+			<point x="705" y="703.333"/>
+			<point x="688.333" y="707"/>
+			<point x="667" y="707" type="curve" smooth="yes"/>
+			<point x="621.667" y="707"/>
+			<point x="591" y="679"/>
+			<point x="563" y="635" type="curve" smooth="yes"/>
+			<point x="374" y="331" type="line" smooth="yes"/>
+			<point x="371" y="327"/>
+			<point x="368.667" y="323"/>
+			<point x="366" y="319" type="curve" smooth="yes"/>
+			<point x="363.333" y="315"/>
+			<point x="361" y="311"/>
+			<point x="359" y="307" type="curve"/>
+			<point x="358" y="311"/>
+			<point x="356" y="315"/>
+			<point x="353" y="319" type="curve" smooth="yes"/>
+			<point x="350" y="323"/>
+			<point x="348" y="327"/>
+			<point x="345" y="331" type="curve" smooth="yes"/>
+			<point x="109" y="696" type="line" smooth="yes"/>
+			<point x="107" y="699"/>
+			<point x="105.333" y="700"/>
+			<point x="102" y="700" type="curve" smooth="yes"/>
+			<point x="92" y="700" type="line"/>
+			<point x="353" y="298" type="line"/>
+		</contour>
+		<contour>
+			<point x="99" y="691" type="line"/>
+			<point x="114" y="691" type="line"/>
+			<point x="114" y="700" type="line"/>
+			<point x="99" y="700" type="line"/>
+		</contour>
+		<component base="SerifSpurLeft" xOffset="107" yOffset="700"/>
+		<component base="SerifSpurRight" xOffset="103" yOffset="700"/>
+		<component base="SerifBottomLeft" xOffset="353"/>
+		<component base="SerifBottomRight" xOffset="365"/>
+	</outline>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="2">
+	<advance width="513"/>
+	<unicode hex="2265"/>
+	<note>
+		greaterequal
+	</note>
+	<outline>
+		<contour>
+			<point x="105.58" y="584" type="line"/>
+			<point x="98.09" y="523" type="line" smooth="yes"/>
+			<point x="96.74" y="512"/>
+			<point x="100.635" y="503"/>
+			<point x="116.775" y="496" type="curve"/>
+			<point x="325.006" y="392" type="line" smooth="yes"/>
+			<point x="337.146" y="385"/>
+			<point x="354.655" y="381"/>
+			<point x="371.164" y="377" type="curve"/>
+			<point x="351.796" y="374"/>
+			<point x="335.182" y="369"/>
+			<point x="321.322" y="362" type="curve" smooth="yes"/>
+			<point x="87.553" y="258" type="line" smooth="yes"/>
+			<point x="70.57" y="250"/>
+			<point x="63.465" y="241"/>
+			<point x="62.115" y="230" type="curve" smooth="yes"/>
+			<point x="54.625" y="169" type="line"/>
+			<point x="464.954" y="359" type="line"/>
+			<point x="469.497" y="396" type="line"/>
+			<point x="105.58" y="584" type="line"/>
+		</contour>
+		<contour>
+			<point x="434.135" y="108" type="line"/>
+			<point x="47.135" y="108" type="line"/>
+			<point x="38.785" y="40" type="line"/>
+			<point x="425.785" y="40" type="line"/>
+			<point x="434.135" y="108" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+21 20 19 18 2 7 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 31 values pushed */
+17 9 2 1 0 5 1 28 0 1 0 0 1 0 0 35 0 1 1 0 0 0 36 0 0 1 0 0 0 33 4 
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+	<advance width="600"/>
+	<unicode hex="0042"/>
+	<anchor x="355.867" y="700" name="top"/>
+	<anchor x="269.918" y="0" name="bottom"/>
+	<note>
+		B
+	</note>
+	<outline>
+		<contour>
+			<point x="93.918" y="0" type="line"/>
+			<point x="302.918" y="0" type="line" smooth="yes"/>
+			<point x="442.918" y="0"/>
+			<point x="537.53" y="62"/>
+			<point x="552.51" y="184" type="curve" smooth="yes"/>
+			<point x="565.034" y="286"/>
+			<point x="494.77" y="349"/>
+			<point x="380.752" y="357" type="curve"/>
+			<point x="472.103" y="368"/>
+			<point x="551.066" y="441"/>
+			<point x="561.502" y="526" type="curve" smooth="yes"/>
+			<point x="575.377" y="639"/>
+			<point x="510.867" y="700"/>
+			<point x="361.867" y="700" type="curve" smooth="yes"/>
+			<point x="179.867" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="107.146" y="10" type="line"/>
+			<point x="148.892" y="350" type="line"/>
+			<point x="346.892" y="350" type="line" smooth="yes"/>
+			<point x="472.892" y="350"/>
+			<point x="553.525" y="290"/>
+			<point x="540.51" y="184" type="curve" smooth="yes"/>
+			<point x="526.144" y="67"/>
+			<point x="436.146" y="10"/>
+			<point x="304.146" y="10" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="150.12" y="360" type="line"/>
+			<point x="190.639" y="690" type="line"/>
+			<point x="360.639" y="690" type="line" smooth="yes"/>
+			<point x="503.639" y="690"/>
+			<point x="563.272" y="630"/>
+			<point x="550.502" y="526" type="curve" smooth="yes"/>
+			<point x="539.697" y="438"/>
+			<point x="459.12" y="360"/>
+			<point x="325.12" y="360" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="11.918" y="0" type="line"/>
+			<point x="96.918" y="0" type="line"/>
+			<point x="97.391" y="12" type="line"/>
+			<point x="20.146" y="10" type="line" smooth="yes"/>
+			<point x="17.146" y="10"/>
+			<point x="12.9" y="8"/>
+			<point x="12.532" y="5" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="182.867" y="700" type="line"/>
+			<point x="97.867" y="700" type="line"/>
+			<point x="97.253" y="695" type="line" smooth="yes"/>
+			<point x="96.885" y="692"/>
+			<point x="100.639" y="690"/>
+			<point x="103.639" y="690" type="curve" smooth="yes"/>
+			<point x="180.394" y="688" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 4 values pushed */
+22 3 0 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+5 3 40 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+15 3 28 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+10 0 15 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+22 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+34 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+15 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+46 
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+1 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+1 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+34 1 21 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+0 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+22 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+1 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+43 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

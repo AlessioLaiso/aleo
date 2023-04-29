@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+	<advance width="502"/>
+	<unicode hex="003C"/>
+	<note>
+		less
+	</note>
+	<outline>
+		<contour>
+			<point x="31" y="307" type="line"/>
+			<point x="436" y="96" type="line"/>
+			<point x="436" y="203" type="line" smooth="yes"/>
+			<point x="436" y="219"/>
+			<point x="428" y="232"/>
+			<point x="411" y="241" type="curve" smooth="yes"/>
+			<point x="269" y="318" type="line" smooth="yes"/>
+			<point x="252" y="327"/>
+			<point x="232" y="332"/>
+			<point x="211" y="337" type="curve"/>
+			<point x="232" y="342"/>
+			<point x="252" y="349"/>
+			<point x="269" y="358" type="curve" smooth="yes"/>
+			<point x="411" y="434" type="line" smooth="yes"/>
+			<point x="428" y="443"/>
+			<point x="436" y="457"/>
+			<point x="436" y="472" type="curve" smooth="yes"/>
+			<point x="436" y="580" type="line"/>
+			<point x="31" y="368" type="line"/>
+			<point x="31" y="307" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 4 values pushed */
+1 17 1 11 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

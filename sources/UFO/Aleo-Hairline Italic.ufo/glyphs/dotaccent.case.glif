@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent.case" format="2">
+	<advance width="280"/>
+	<note>
+		dotaccent.case
+	</note>
+	<outline>
+		<contour>
+			<point x="240.32" y="834" type="curve"/>
+			<point x="240.32" y="834" type="line"/>
+			<point x="242.285" y="850"/>
+			<point x="230.425" y="862"/>
+			<point x="215.758" y="862" type="curve" smooth="yes"/>
+			<point x="201.091" y="862"/>
+			<point x="186.285" y="850"/>
+			<point x="184.32" y="834" type="curve" smooth="yes"/>
+			<point x="182.683" y="820.667"/>
+			<point x="194.338" y="807"/>
+			<point x="209.005" y="807" type="curve" smooth="yes"/>
+			<point x="223.672" y="807"/>
+			<point x="238.683" y="820.667"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+0 6 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+9 3 3 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

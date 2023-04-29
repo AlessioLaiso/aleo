@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thook" format="2">
+	<advance width="706"/>
+	<unicode hex="01AC"/>
+	<anchor x="405" y="365" name="center"/>
+	<anchor x="405" y="0" name="bottom"/>
+	<anchor x="405" y="729" name="top"/>
+	<outline>
+		<contour>
+			<point x="320" y="0" type="line"/>
+			<point x="489" y="0" type="line"/>
+			<point x="489" y="595" type="line"/>
+			<point x="694" y="595" type="line"/>
+			<point x="694" y="729" type="line"/>
+			<point x="258" y="729" type="line" smooth="yes"/>
+			<point x="114.423" y="729"/>
+			<point x="24" y="656.864"/>
+			<point x="24" y="536" type="curve" smooth="yes"/>
+			<point x="24" y="494.667"/>
+			<point x="32.667" y="465"/>
+			<point x="46" y="429" type="curve"/>
+			<point x="145" y="450" type="line" smooth="yes"/>
+			<point x="171.095" y="457.117"/>
+			<point x="179.148" y="475.481"/>
+			<point x="173" y="497" type="curve" smooth="yes"/>
+			<point x="171.667" y="502.333"/>
+			<point x="167" y="517"/>
+			<point x="167" y="533" type="curve" smooth="yes"/>
+			<point x="167" y="582.278"/>
+			<point x="189.17" y="595"/>
+			<point x="258" y="595" type="curve" smooth="yes"/>
+			<point x="320" y="595" type="line"/>
+		</contour>
+		<component base="SerifBottomLeft" xOffset="320"/>
+		<component base="SerifBottomRight" xOffset="489"/>
+		<component base="SerifUpRightCaps" xScale="-1" yScale="-1" xOffset="694" yOffset="595"/>
+	</outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SerifUpLeftCaps" format="2">
+	<advance width="200"/>
+	<outline>
+		<contour>
+			<point x="-116.196" y="-25" type="line"/>
+			<point x="-31.126" y="0" type="line"/>
+			<point x="-19.952" y="91" type="line"/>
+			<point x="-65.952" y="91" type="line" smooth="yes"/>
+			<point x="-76.952" y="91"/>
+			<point x="-85.444" y="87"/>
+			<point x="-88.917" y="75" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

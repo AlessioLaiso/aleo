@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+	<advance width="424"/>
+	<unicode hex="005E"/>
+	<note>
+		asciicircum
+	</note>
+	<outline>
+		<contour>
+			<point x="46" y="406" type="line"/>
+			<point x="53" y="406" type="line" smooth="yes"/>
+			<point x="58" y="406"/>
+			<point x="62" y="410"/>
+			<point x="63" y="413" type="curve" smooth="yes"/>
+			<point x="203" y="666" type="line" smooth="yes"/>
+			<point x="207" y="673"/>
+			<point x="210" y="679"/>
+			<point x="212" y="686" type="curve"/>
+			<point x="213" y="684"/>
+			<point x="221" y="667"/>
+			<point x="221" y="666" type="curve" smooth="yes"/>
+			<point x="361" y="413" type="line" smooth="yes"/>
+			<point x="364" y="408"/>
+			<point x="367" y="406"/>
+			<point x="371" y="406" type="curve" smooth="yes"/>
+			<point x="378" y="406" type="line"/>
+			<point x="215" y="700" type="line"/>
+			<point x="209" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+0 14 3 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+7 14 0 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+15 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+15 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDRP[11100]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+13 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+14 
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

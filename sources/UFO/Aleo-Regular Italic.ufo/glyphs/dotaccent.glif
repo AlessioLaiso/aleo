@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+	<advance width="192"/>
+	<unicode hex="02D9"/>
+	<note>
+		dotaccent
+	</note>
+	<outline>
+		<contour>
+			<point x="137.913" y="603" type="curve" smooth="yes"/>
+			<point x="172.913" y="603"/>
+			<point x="205.474" y="632"/>
+			<point x="209.649" y="666" type="curve" smooth="yes"/>
+			<point x="213.946" y="701"/>
+			<point x="188.507" y="730"/>
+			<point x="153.507" y="730" type="curve" smooth="yes"/>
+			<point x="119.507" y="730"/>
+			<point x="86.823" y="700"/>
+			<point x="82.649" y="666" type="curve" smooth="yes"/>
+			<point x="78.474" y="632"/>
+			<point x="103.913" y="603"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+16 14 6 4 2 7 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 1 1 0 36 0 1 1 13 0 32 2 
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

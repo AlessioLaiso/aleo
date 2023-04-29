@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="2">
+	<advance width="124"/>
+	<unicode hex="2044"/>
+	<note>
+		fraction
+	</note>
+	<outline>
+		<contour>
+			<point x="-217.126" y="0" type="line"/>
+			<point x="-179.126" y="0" type="line" smooth="yes"/>
+			<point x="-160.126" y="0"/>
+			<point x="-145.389" y="6"/>
+			<point x="-129.811" y="27" type="curve" smooth="yes"/>
+			<point x="366.911" y="717" type="line"/>
+			<point x="327.911" y="717" type="line" smooth="yes"/>
+			<point x="306.911" y="717"/>
+			<point x="290.56" y="706"/>
+			<point x="276.104" y="686" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+9 7 4 2 2 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+0 1 1 11 31 0 0 0 12 0 32 2 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+0 1 0 1 52 0 0 0 15 0 32 2 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 10 values pushed */
+0 1 0 1 52 0 0 0 43 2 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+	<advance width="330"/>
+	<unicode hex="0326"/>
+	<anchor x="133.137" y="0" name="_bottom"/>
+	<anchor x="109.194" y="-195" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="48.462" y="-372" type="line"/>
+			<point x="132.46" y="-315"/>
+			<point x="191.265" y="-227"/>
+			<point x="200.106" y="-155" type="curve" smooth="yes"/>
+			<point x="206.613" y="-102"/>
+			<point x="182.77" y="-60"/>
+			<point x="123.77" y="-60" type="curve" smooth="yes"/>
+			<point x="74.77" y="-60"/>
+			<point x="35.718" y="-93"/>
+			<point x="30.439" y="-136" type="curve" smooth="yes"/>
+			<point x="24.913" y="-181"/>
+			<point x="51.493" y="-217"/>
+			<point x="95.002" y="-221" type="curve" smooth="yes"/>
+			<point x="95.002" y="-221"/>
+			<point x="96.002" y="-221"/>
+			<point x="96.002" y="-221" type="curve"/>
+			<point x="84.827" y="-255"/>
+			<point x="48.653" y="-289"/>
+			<point x="30.688" y="-305" type="curve" smooth="yes"/>
+			<point x="23.074" y="-310"/>
+			<point x="16.969" y="-319"/>
+			<point x="16.11" y="-326" type="curve" smooth="yes"/>
+			<point x="15.005" y="-335"/>
+			<point x="18.391" y="-340"/>
+			<point x="24.408" y="-348" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

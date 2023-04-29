@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.case" format="2">
+	<advance width="330"/>
+	<note>
+		dieresis.case
+	</note>
+	<outline>
+		<contour>
+			<point x="203.54" y="834" type="curve"/>
+			<point x="203.54" y="834" type="line"/>
+			<point x="208.791" y="876.769"/>
+			<point x="177.947" y="911"/>
+			<point x="132.994" y="911" type="curve" smooth="yes"/>
+			<point x="92.156" y="911"/>
+			<point x="52.644" y="875.568"/>
+			<point x="47.54" y="834" type="curve" smooth="yes"/>
+			<point x="42.526" y="793.167"/>
+			<point x="73.775" y="759"/>
+			<point x="114.331" y="759" type="curve" smooth="yes"/>
+			<point x="159.264" y="759"/>
+			<point x="198.431" y="792.391"/>
+		</contour>
+		<contour>
+			<point x="423.54" y="834" type="curve"/>
+			<point x="423.54" y="834" type="line"/>
+			<point x="428.819" y="876.996"/>
+			<point x="398.326" y="911"/>
+			<point x="354.994" y="911" type="curve" smooth="yes"/>
+			<point x="313.618" y="911"/>
+			<point x="272.758" y="876.5"/>
+			<point x="267.54" y="834" type="curve" smooth="yes"/>
+			<point x="262.467" y="792.686"/>
+			<point x="294.979" y="759"/>
+			<point x="336.331" y="759" type="curve" smooth="yes"/>
+			<point x="379.642" y="759"/>
+			<point x="418.41" y="792.218"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+36 34 26 24 16 14 6 4 4 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 26 values pushed */
+3 1 1 0 0 1 1 0 35 3 1 1 1 0 1 0 36 2 1 0 1 0 1 0 33 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 33 values pushed */
+0 1 3 0 1 1 0 35 0 3 0 2 0 3 2 1 0 38 0 1 1 0 1 0 36 0 0 1 0 1 0 33 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

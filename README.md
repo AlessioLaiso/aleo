@@ -1,11 +1,13 @@
 # Aleo
-Aleo is a contemporary typeface designed by Alessio Laiso as the slab serif companion to the [Lato](http://www.latofonts.com/) font by Łukasz Dziedzic. Aleo has semi-rounded details and a sleek structure, giving it a strong personality while still keeping readability high. The family comprises six styles:  three weights (light, regular and bold) with corresponding true italics. [Learn more about Aleo](http://alessiolaiso.com/aleo-font).
+Aleo is a slab serif typeface designed by Alessio Laiso. Aleo has semi-rounded details and a sleek structure, giving it a strong personality while keeping readability high. Originally launched in 2013, the update for the 10-year anniversary expands Aleo from 6 to 18 styles and adds variable font versions. The update also greatly improves language support, now including characters for Vietnamese and Pan-African Latin, and boasts many spacing and design improvements. [Learn more about Aleo](http://alessiolaiso.com/aleo-font).
 
 
 ## Samples
-![Sample](documentation/sample.png?raw=true "Aleo comes in six styles")
+![Sample](documentation/sample.png?raw=true "Aleo has been updated for its 10-year anniversary")
 
-![Sample #2](documentation/sample-1.png?raw=true "Supports italics and multiple languages")
+![Sample #2](documentation/sample-1.png?raw=true "Supports comes in 18 styles")
+
+![Sample #3](documentation/sample-2.gif?raw=true "Also also has variable font versions")
 
 ## License
 Aleo is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)

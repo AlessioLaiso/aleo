@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+	<advance width="637"/>
+	<unicode hex="0149"/>
+	<outline>
+		<component base="apostrophemod" xOffset="-96"/>
+		<component base="n" xOffset="30"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

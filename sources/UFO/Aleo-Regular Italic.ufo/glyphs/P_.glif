@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="2">
+	<advance width="610"/>
+	<unicode hex="0050"/>
+	<note>
+		P
+	</note>
+	<outline>
+		<contour>
+			<point x="73.874" y="0" type="line"/>
+			<point x="171.874" y="0" type="line"/>
+			<point x="204.78" y="268" type="line"/>
+			<point x="319.78" y="268" type="line" smooth="yes"/>
+			<point x="483.78" y="268"/>
+			<point x="597.585" y="356"/>
+			<point x="614.652" y="495" type="curve" smooth="yes"/>
+			<point x="631.965" y="636"/>
+			<point x="545.911" y="717"/>
+			<point x="374.911" y="717" type="curve" smooth="yes"/>
+			<point x="161.911" y="717" type="line"/>
+		</contour>
+		<contour>
+			<point x="214.235" y="345" type="line"/>
+			<point x="250.456" y="640" type="line"/>
+			<point x="365.456" y="640" type="line" smooth="yes"/>
+			<point x="478.456" y="640"/>
+			<point x="528.826" y="586"/>
+			<point x="517.652" y="495" type="curve" smooth="yes"/>
+			<point x="506.356" y="403"/>
+			<point x="435.235" y="345"/>
+			<point x="329.235" y="345" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="1.874" y="0" type="line"/>
+			<point x="103.874" y="0" type="line"/>
+			<point x="102.451" y="78" type="line"/>
+			<point x="25.487" y="62" type="line" smooth="yes"/>
+			<point x="14.241" y="60"/>
+			<point x="8.382" y="53"/>
+			<point x="6.908" y="41" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="191.911" y="717" type="line"/>
+			<point x="89.911" y="717" type="line"/>
+			<point x="84.876" y="676" type="line" smooth="yes"/>
+			<point x="83.403" y="664"/>
+			<point x="87.544" y="657"/>
+			<point x="98.298" y="655" type="curve" smooth="yes"/>
+			<point x="171.333" y="639" type="line"/>
+		</contour>
+		<contour>
+			<point x="141.874" y="0" type="line"/>
+			<point x="243.874" y="0" type="line"/>
+			<point x="248.908" y="41" type="line" smooth="yes"/>
+			<point x="250.382" y="53"/>
+			<point x="246.241" y="60"/>
+			<point x="235.487" y="62" type="curve" smooth="yes"/>
+			<point x="162.451" y="78" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 16 values pushed */
+0 0 25 23 17 15 0 14 0 13 5 3 2 1 6 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 30 values pushed */
+0 3 5 1 2 0 3 2 1 0 38 0 4 4 1 1 0 36 0 1 1 11 31 0 0 0 12 0 32 4 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 28 values pushed */
+0 1 0 4 3 1 4 1 0 38 0 3 5 1 2 0 3 2 1 0 38 0 0 0 15 0 32 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 39 values pushed */
+0 0 2 0 53 0 1 0 4 3 1 4 1 0 38 0 3 2 2 3 1 0 35 0 3 3 2 1 0 36 5 1 2 3 2 1 0 33 5 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

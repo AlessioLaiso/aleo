@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hhook" format="2">
+	<advance width="928"/>
+	<unicode hex="A7AA"/>
+	<anchor x="545.199" y="361" name="center"/>
+	<anchor x="588.911" y="717" name="top"/>
+	<anchor x="239.911" y="717" name="topleft"/>
+	<anchor x="500.874" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="209.874" y="0" type="line"/>
+			<point x="307.874" y="0" type="line"/>
+			<point x="347.902" y="326" type="line"/>
+			<point x="733.902" y="326" type="line"/>
+			<point x="693.874" y="0" type="line"/>
+			<point x="791.874" y="0" type="line"/>
+			<point x="879.911" y="717" type="line"/>
+			<point x="781.911" y="717" type="line"/>
+			<point x="742.62" y="397" type="line"/>
+			<point x="356.62" y="397" type="line"/>
+			<point x="395.911" y="717" type="line"/>
+			<point x="297.911" y="717" type="line"/>
+		</contour>
+		<contour>
+			<point x="137.874" y="0" type="line"/>
+			<point x="239.874" y="0" type="line"/>
+			<point x="238.451" y="78" type="line"/>
+			<point x="161.487" y="62" type="line" smooth="yes"/>
+			<point x="150.241" y="60"/>
+			<point x="144.382" y="53"/>
+			<point x="142.908" y="41" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="277.874" y="0" type="line"/>
+			<point x="379.874" y="0" type="line"/>
+			<point x="384.908" y="41" type="line" smooth="yes"/>
+			<point x="386.382" y="53"/>
+			<point x="382.241" y="60"/>
+			<point x="371.487" y="62" type="curve" smooth="yes"/>
+			<point x="298.451" y="78" type="line"/>
+		</contour>
+		<contour>
+			<point x="467.911" y="717" type="line"/>
+			<point x="365.911" y="717" type="line"/>
+			<point x="367.333" y="639" type="line"/>
+			<point x="444.298" y="655" type="line" smooth="yes"/>
+			<point x="455.544" y="657"/>
+			<point x="461.403" y="664"/>
+			<point x="462.876" y="676" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="620.874" y="0" type="line"/>
+			<point x="722.874" y="0" type="line"/>
+			<point x="721.451" y="78" type="line"/>
+			<point x="644.487" y="62" type="line" smooth="yes"/>
+			<point x="633.241" y="60"/>
+			<point x="627.382" y="53"/>
+			<point x="625.908" y="41" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="761.874" y="0" type="line"/>
+			<point x="863.874" y="0" type="line"/>
+			<point x="868.908" y="41" type="line" smooth="yes"/>
+			<point x="870.382" y="53"/>
+			<point x="866.241" y="60"/>
+			<point x="855.487" y="62" type="curve" smooth="yes"/>
+			<point x="782.451" y="78" type="line"/>
+		</contour>
+		<contour>
+			<point x="810.911" y="717" type="line"/>
+			<point x="708.911" y="717" type="line"/>
+			<point x="703.876" y="676" type="line" smooth="yes"/>
+			<point x="702.403" y="664"/>
+			<point x="706.544" y="657"/>
+			<point x="717.298" y="655" type="curve" smooth="yes"/>
+			<point x="790.333" y="639" type="line"/>
+		</contour>
+		<contour>
+			<point x="951.911" y="717" type="line"/>
+			<point x="849.911" y="717" type="line"/>
+			<point x="851.333" y="639" type="line"/>
+			<point x="928.298" y="655" type="line" smooth="yes"/>
+			<point x="939.544" y="657"/>
+			<point x="945.403" y="664"/>
+			<point x="946.876" y="676" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="66.355" y="460" type="curve"/>
+			<point x="122.828" y="472" type="line" smooth="yes"/>
+			<point x="140.32" y="476"/>
+			<point x="146.916" y="489"/>
+			<point x="143.758" y="504" type="curve" smooth="yes"/>
+			<point x="141.108" y="515"/>
+			<point x="139.196" y="532"/>
+			<point x="141.283" y="549" type="curve" smooth="yes"/>
+			<point x="148.773" y="610"/>
+			<point x="190.07" y="645"/>
+			<point x="275.07" y="645" type="curve" smooth="yes"/>
+			<point x="289.07" y="645" type="line"/>
+			<point x="297.911" y="717" type="line"/>
+			<point x="283.911" y="717" type="line" smooth="yes"/>
+			<point x="158.911" y="717"/>
+			<point x="72.298" y="655"/>
+			<point x="59.406" y="550" type="curve" smooth="yes"/>
+			<point x="55.354" y="517"/>
+			<point x="60.161" y="491"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Bhook</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

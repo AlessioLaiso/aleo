@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Esh" format="2">
+	<advance width="608"/>
+	<unicode hex="01A9"/>
+	<outline>
+		<contour>
+			<point x="33" y="0" type="line"/>
+			<point x="570" y="0" type="line"/>
+			<point x="570" y="76" type="line"/>
+			<point x="204" y="76" type="line" smooth="yes"/>
+			<point x="184" y="76"/>
+			<point x="163" y="74.667"/>
+			<point x="139" y="72" type="curve"/>
+			<point x="152.333" y="80"/>
+			<point x="165" y="92"/>
+			<point x="184" y="115" type="curve" smooth="yes"/>
+			<point x="347" y="315" type="line" smooth="yes"/>
+			<point x="367" y="340"/>
+			<point x="372" y="352.333"/>
+			<point x="372" y="367" type="curve" smooth="yes"/>
+			<point x="370" y="382"/>
+			<point x="359" y="398"/>
+			<point x="347" y="413" type="curve" smooth="yes"/>
+			<point x="202" y="594" type="line" smooth="yes"/>
+			<point x="184" y="617"/>
+			<point x="164" y="632.333"/>
+			<point x="136" y="647" type="curve"/>
+			<point x="161.333" y="643"/>
+			<point x="184.333" y="640"/>
+			<point x="215" y="640" type="curve" smooth="yes"/>
+			<point x="570" y="640" type="line"/>
+			<point x="570" y="717" type="line"/>
+			<point x="33" y="717" type="line"/>
+			<point x="33" y="675" type="line" smooth="yes"/>
+			<point x="33" y="664.333"/>
+			<point x="39" y="654"/>
+			<point x="45" y="647" type="curve" smooth="yes"/>
+			<point x="287" y="358" type="line"/>
+			<point x="51" y="77" type="line" smooth="yes"/>
+			<point x="42" y="66"/>
+			<point x="33" y="51.667"/>
+			<point x="33" y="37" type="curve" smooth="yes"/>
+		</contour>
+		<component base="SerifUpLeftCaps" xOffset="570" yOffset="76"/>
+		<component base="SerifUpRightCaps" xScale="-1" yScale="-1" xOffset="570" yOffset="640"/>
+	</outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+	<advance width="611"/>
+	<unicode hex="0111"/>
+	<outline>
+		<component base="d"/>
+		<component base="strokeshortcomb" xOffset="276" yOffset="-75"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>strokeshortcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

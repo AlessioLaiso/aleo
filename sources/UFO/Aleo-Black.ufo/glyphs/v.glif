@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+	<advance width="605"/>
+	<unicode hex="0076"/>
+	<anchor x="303" y="519" name="top"/>
+	<anchor x="303" y="0" name="bottom"/>
+	<note>
+		v
+	</note>
+	<outline>
+		<contour>
+			<point x="232" y="0" type="line"/>
+			<point x="373" y="0" type="line"/>
+			<point x="574" y="519" type="line"/>
+			<point x="451" y="519" type="line" smooth="yes"/>
+			<point x="431" y="519"/>
+			<point x="415" y="507"/>
+			<point x="410" y="492" type="curve" smooth="yes"/>
+			<point x="335" y="259" type="line" smooth="yes"/>
+			<point x="323" y="222"/>
+			<point x="312" y="186"/>
+			<point x="305" y="150" type="curve"/>
+			<point x="297" y="186"/>
+			<point x="286" y="222"/>
+			<point x="275" y="259" type="curve" smooth="yes"/>
+			<point x="203" y="492" type="line" smooth="yes"/>
+			<point x="198" y="507"/>
+			<point x="183" y="519"/>
+			<point x="160" y="519" type="curve" smooth="yes"/>
+			<point x="31" y="519" type="line"/>
+		</contour>
+		<contour>
+			<point x="141" y="481" type="line"/>
+			<point x="215" y="481" type="line"/>
+			<point x="215" y="519" type="line"/>
+			<point x="141" y="519" type="line"/>
+		</contour>
+		<contour>
+			<point x="398" y="481" type="line"/>
+			<point x="472" y="481" type="line"/>
+			<point x="472" y="519" type="line"/>
+			<point x="398" y="519" type="line"/>
+		</contour>
+		<component base="SerifSpurLeft" xOffset="117" yOffset="519"/>
+		<component base="SerifSpurRight" xOffset="191" yOffset="519"/>
+		<component base="SerifSpurLeft" xOffset="444" yOffset="519"/>
+		<component base="SerifSpurRight" xOffset="518" yOffset="519"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 8 values pushed */
+18 16 4 2 1 0 3 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+10 1 0 1 1 30 2 1 1 1 14 31 0 0 0 12 0 32 3 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 17 values pushed */
+10 1 0 1 1 30 2 1 1 0 1 52 0 0 0 43 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 21 values pushed */
+10 1 0 2 1 30 0 1 2 1 52 0 2 0 2 52 0 0 0 43 4 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

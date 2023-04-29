@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="2">
+	<advance width="573"/>
+	<unicode hex="00D7"/>
+	<note>
+		multiply
+	</note>
+	<outline>
+		<contour>
+			<point x="440" y="570" type="line"/>
+			<point x="287" y="416" type="line"/>
+			<point x="132" y="571" type="line"/>
+			<point x="51" y="492" type="line"/>
+			<point x="207" y="336" type="line"/>
+			<point x="41" y="171" type="line"/>
+			<point x="123" y="92" type="line"/>
+			<point x="287" y="256" type="line"/>
+			<point x="450" y="93" type="line"/>
+			<point x="532" y="172" type="line"/>
+			<point x="367" y="336" type="line"/>
+			<point x="522" y="491" type="line"/>
+			<point x="440" y="570" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 4 values pushed */
+9 5 1 11 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

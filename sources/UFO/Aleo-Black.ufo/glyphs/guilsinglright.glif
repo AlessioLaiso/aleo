@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="2">
+	<advance width="236"/>
+	<unicode hex="203A"/>
+	<note>
+		guilsinglright
+	</note>
+	<outline>
+		<component base="guilsinglleft" xScale="-1" yScale="-1" xOffset="236" yOffset="545"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 4 values pushed */
+19 0 1 11 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

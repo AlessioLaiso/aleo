@@ -1,24 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="product" format="1">
-  <advance width="669"/>
-  <unicode hex="220F"/>
-  <note>
-    product
-  </note>
-  <outline>
-    <contour>
-      <point x="646" y="640" type="line"/>
-      <point x="646" y="716" type="line"/>
-      <point x="25" y="716" type="line"/>
-      <point x="25" y="640" type="line"/>
-      <point x="118" y="640" type="line"/>
-      <point x="118" y="-172" type="line"/>
-      <point x="210" y="-172" type="line"/>
-      <point x="210" y="640" type="line"/>
-      <point x="461" y="640" type="line"/>
-      <point x="461" y="-172" type="line"/>
-      <point x="553" y="-172" type="line"/>
-      <point x="553" y="640" type="line"/>
-    </contour>
-  </outline>
+<glyph name="product" format="2">
+	<advance width="684"/>
+	<unicode hex="220F"/>
+	<note>
+		product
+	</note>
+	<outline>
+		<contour>
+			<point x="31" y="717" type="line"/>
+			<point x="31" y="640" type="line"/>
+			<point x="125" y="640" type="line"/>
+			<point x="125" y="-172" type="line"/>
+			<point x="217" y="-172" type="line"/>
+			<point x="217" y="640" type="line"/>
+			<point x="467" y="640" type="line"/>
+			<point x="467" y="-172" type="line"/>
+			<point x="559" y="-172" type="line"/>
+			<point x="559" y="640" type="line"/>
+			<point x="653" y="640" type="line"/>
+			<point x="653" y="717" type="line"/>
+			<point x="31" y="717" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+0 0 0 11 0 11 10 9 8 7 6 5 4 3 2 1 7 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+73 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+4 2 2 0 0 5 0 0 36 6 1 5 5 11 31 3 1 1 1 16 1 32 3 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+3 1 1 0 1 53 4 2 2 0 0 5 0 0 36 6 1 5 5 11 0 32 3 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 33 values pushed */
+3 1 1 0 1 53 6 1 5 0 0 5 0 0 35 6 1 5 5 0 0 0 36 4 2 2 0 5 0 0 0 33 4 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 50 values pushed */
+0 4 5 2 2 4 42 0 0 2 3 2 0 42 0 3 1 2 3 1 48 0 1 1 51 6 1 5 4 2 5 0 2 35 6 1 5 5 2 0 0 36 0 2 5 2 0 0 33 7 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
 </glyph>

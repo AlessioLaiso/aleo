@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="2">
+	<advance width="326.8"/>
+	<unicode hex="00B2"/>
+	<note>
+		twosuperior
+	</note>
+	<outline>
+		<contour>
+			<point x="74.171" y="450" type="line"/>
+			<point x="300.171" y="450" type="line"/>
+			<point x="301.399" y="460" type="line"/>
+			<point x="119.399" y="460" type="line" smooth="yes"/>
+			<point x="108.399" y="460"/>
+			<point x="97.276" y="459"/>
+			<point x="89.153" y="458" type="curve"/>
+			<point x="227.501" y="583" type="line" smooth="yes"/>
+			<point x="274.781" y="626"/>
+			<point x="316.201" y="662"/>
+			<point x="323.077" y="718" type="curve" smooth="yes"/>
+			<point x="330.69" y="780"/>
+			<point x="289.619" y="812"/>
+			<point x="235.619" y="812" type="curve" smooth="yes"/>
+			<point x="177.619" y="812"/>
+			<point x="133.321" y="777"/>
+			<point x="117.077" y="718" type="curve"/>
+			<point x="120.077" y="718"/>
+			<point x="122.077" y="718"/>
+			<point x="122.077" y="718" type="curve" smooth="yes"/>
+			<point x="126.077" y="718"/>
+			<point x="127.2" y="719"/>
+			<point x="128.691" y="723" type="curve" smooth="yes"/>
+			<point x="142.585" y="771"/>
+			<point x="184.514" y="803"/>
+			<point x="233.514" y="803" type="curve" smooth="yes"/>
+			<point x="282.514" y="803"/>
+			<point x="319.953" y="774"/>
+			<point x="313.077" y="718" type="curve" smooth="yes"/>
+			<point x="307.429" y="672"/>
+			<point x="273.886" y="635"/>
+			<point x="221.115" y="588" type="curve" smooth="yes"/>
+			<point x="78.276" y="459" type="line" smooth="yes"/>
+			<point x="77.153" y="458"/>
+			<point x="74.908" y="456"/>
+			<point x="74.662" y="454" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="290.908" y="456" type="line"/>
+			<point x="301.399" y="460" type="line"/>
+			<point x="307.17" y="507" type="line"/>
+			<point x="302.17" y="507" type="line" smooth="yes"/>
+			<point x="300.17" y="507"/>
+			<point x="298.924" y="505"/>
+			<point x="298.678" y="503" type="curve" smooth="yes"/>
+			<point x="290.908" y="456" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>51</integer>
+				<key>weight</key>
+				<integer>-1</integer>
+				<key>width</key>
+				<integer>51</integer>
+			</dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 4 values pushed */
+5 3 27 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+5 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+44 
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+14 1 17 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+0 1 32 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=two*0.7</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=two*0.7</string>
+		</dict>
+	</lib>
+</glyph>

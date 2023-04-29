@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="2">
+	<advance width="563"/>
+	<unicode hex="0037"/>
+	<note>
+		seven
+	</note>
+	<outline>
+		<contour>
+			<point x="46.137" y="0" type="line"/>
+			<point x="159.137" y="0" type="line" smooth="yes"/>
+			<point x="202.137" y="0"/>
+			<point x="229.961" y="23"/>
+			<point x="246.399" y="51" type="curve" smooth="yes"/>
+			<point x="567.58" y="590" type="line" smooth="yes"/>
+			<point x="576.545" y="606"/>
+			<point x="589.123" y="627"/>
+			<point x="593.666" y="664" type="curve" smooth="yes"/>
+			<point x="601.647" y="729" type="line"/>
+			<point x="89.647" y="729" type="line"/>
+			<point x="77.123" y="627" type="line" smooth="yes"/>
+			<point x="74.79" y="608"/>
+			<point x="90.949" y="593"/>
+			<point x="107.949" y="593" type="curve" smooth="yes"/>
+			<point x="428.949" y="593" type="line"/>
+			<point x="406.37" y="572"/>
+			<point x="387.669" y="550"/>
+			<point x="370.231" y="522" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="69.511" y="565" type="line"/>
+			<point x="122.511" y="565" type="line"/>
+			<point x="131.106" y="635" type="line"/>
+			<point x="78.106" y="635" type="line"/>
+		</contour>
+		<contour>
+			<point x="184.65" y="615" type="line"/>
+			<point x="72.949" y="593" type="line"/>
+			<point x="62.389" y="507" type="line"/>
+			<point x="118.389" y="507" type="line" smooth="yes"/>
+			<point x="141.389" y="507"/>
+			<point x="153.231" y="522"/>
+			<point x="161.178" y="546" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 12 values pushed */
+0 0 0 20 0 20 15 13 9 7 4 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 20 values pushed */
+0 1 1 2 0 0 36 3 1 2 2 11 31 0 0 0 12 0 32 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 0 1 0 53 3 1 2 1 1 2 0 0 35 3 1 2 2 1 1 0 36 0 1 2 1 1 0 33 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

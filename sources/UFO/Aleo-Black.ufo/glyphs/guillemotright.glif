@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+	<advance width="506"/>
+	<unicode hex="00BB"/>
+	<note>
+		guillemotright
+	</note>
+	<outline>
+		<component base="guillemotleft" xScale="-1" yScale="-1" xOffset="506" yOffset="545"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+43 24 19 0 2 11 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

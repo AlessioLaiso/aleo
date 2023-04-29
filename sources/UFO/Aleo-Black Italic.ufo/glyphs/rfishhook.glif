@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rfishhook" format="2">
+	<advance width="413"/>
+	<unicode hex="027E"/>
+	<outline>
+		<contour>
+			<point x="71.137" y="0" type="line"/>
+			<point x="226.137" y="0" type="line"/>
+			<point x="267.147" y="334" type="line" smooth="yes"/>
+			<point x="274.146" y="391"/>
+			<point x="298.339" y="417"/>
+			<point x="342.339" y="417" type="curve" smooth="yes"/>
+			<point x="355.339" y="417"/>
+			<point x="368.725" y="412"/>
+			<point x="377.725" y="412" type="curve" smooth="yes"/>
+			<point x="392.725" y="412"/>
+			<point x="406.339" y="417"/>
+			<point x="415.163" y="440" type="curve" smooth="yes"/>
+			<point x="440.266" y="506" type="line"/>
+			<point x="406.108" y="521"/>
+			<point x="379.845" y="527"/>
+			<point x="340.845" y="527" type="curve" smooth="yes"/>
+			<point x="199.845" y="527"/>
+			<point x="125.408" y="442"/>
+			<point x="110.06" y="317" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="206.137" y="0" type="line"/>
+			<point x="303.137" y="0" type="line"/>
+			<point x="311.855" y="71" type="line" smooth="yes"/>
+			<point x="314.679" y="94"/>
+			<point x="300.907" y="104"/>
+			<point x="277.521" y="109" type="curve" smooth="yes"/>
+			<point x="234.626" y="118" type="line"/>
+		</contour>
+		<contour>
+			<point x="-5.863" y="0" type="line"/>
+			<point x="91.137" y="0" type="line"/>
+			<point x="91.626" y="118" type="line"/>
+			<point x="46.521" y="109" type="line" smooth="yes"/>
+			<point x="21.907" y="104"/>
+			<point x="5.679" y="94"/>
+			<point x="2.855" y="71" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>r</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>r</string>
+		</dict>
+	</lib>
+</glyph>

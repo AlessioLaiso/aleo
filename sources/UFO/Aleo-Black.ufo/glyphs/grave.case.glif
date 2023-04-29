@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.case" format="2">
+	<advance width="330"/>
+	<note>
+		grave.case
+	</note>
+	<outline>
+		<contour>
+			<point x="-59" y="899" type="line"/>
+			<point x="91" y="790" type="line" smooth="yes"/>
+			<point x="107.896" y="778.736"/>
+			<point x="118.836" y="776"/>
+			<point x="141" y="776" type="curve" smooth="yes"/>
+			<point x="264" y="776" type="line"/>
+			<point x="173" y="875" type="line" smooth="yes"/>
+			<point x="156.873" y="893.815"/>
+			<point x="140.259" y="899"/>
+			<point x="112" y="899" type="curve" smooth="yes"/>
+			<point x="-59" y="899" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+1 0 8 6 0 13 1 13 3 7 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 11 values pushed */
+2 1 0 1 0 52 0 1 1 43 2 
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

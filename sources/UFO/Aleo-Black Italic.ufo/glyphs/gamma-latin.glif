@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma-latin" format="2">
+	<advance width="577"/>
+	<unicode hex="0263"/>
+	<outline>
+		<contour>
+			<point x="235.159" y="-179" type="curve"/>
+			<point x="335.159" y="-179"/>
+			<point x="393.894" y="-116"/>
+			<point x="404.454" y="-30" type="curve" smooth="yes"/>
+			<point x="409.856" y="14"/>
+			<point x="403.54" y="44"/>
+			<point x="378.03" y="105" type="curve" smooth="yes"/>
+			<point x="356.292" y="156" type="line"/>
+			<point x="596.863" y="519" type="line"/>
+			<point x="463.863" y="519" type="line" smooth="yes"/>
+			<point x="443.863" y="519"/>
+			<point x="429.389" y="507"/>
+			<point x="419.547" y="492" type="curve"/>
+			<point x="310.341" y="303" type="line" smooth="yes"/>
+			<point x="307.85" y="299"/>
+			<point x="296.394" y="279"/>
+			<point x="295.026" y="276" type="curve"/>
+			<point x="293.131" y="285"/>
+			<point x="290.236" y="294"/>
+			<point x="287.341" y="303" type="curve" smooth="yes"/>
+			<point x="224.547" y="492" type="line"/>
+			<point x="217.389" y="507"/>
+			<point x="195.863" y="519"/>
+			<point x="176.863" y="519" type="curve" smooth="yes"/>
+			<point x="43.863" y="519" type="line"/>
+			<point x="195.415" y="157" type="line"/>
+			<point x="163.03" y="105" type="line" smooth="yes"/>
+			<point x="126.785" y="46"/>
+			<point x="106.242" y="9"/>
+			<point x="101.331" y="-31" type="curve" smooth="yes"/>
+			<point x="90.894" y="-116"/>
+			<point x="136.159" y="-179"/>
+		</contour>
+		<contour>
+			<point x="249.174" y="-73" type="curve"/>
+			<point x="232.174" y="-73"/>
+			<point x="227.384" y="-55"/>
+			<point x="229.84" y="-35" type="curve" smooth="yes"/>
+			<point x="231.927" y="-18"/>
+			<point x="239.242" y="9"/>
+			<point x="257.558" y="36" type="curve" smooth="yes"/>
+			<point x="262.417" y="43" type="line"/>
+			<point x="263.803" y="38" type="line" smooth="yes"/>
+			<point x="271.488" y="11"/>
+			<point x="277.787" y="-11"/>
+			<point x="274.717" y="-36" type="curve" smooth="yes"/>
+			<point x="271.648" y="-61"/>
+			<point x="263.174" y="-73"/>
+		</contour>
+		<contour>
+			<point x="397.197" y="481" type="line"/>
+			<point x="471.197" y="481" type="line"/>
+			<point x="475.863" y="519" type="line"/>
+			<point x="401.863" y="519" type="line"/>
+		</contour>
+		<contour>
+			<point x="168.197" y="481" type="line"/>
+			<point x="242.197" y="481" type="line"/>
+			<point x="246.863" y="519" type="line"/>
+			<point x="172.863" y="519" type="line"/>
+		</contour>
+		<contour>
+			<point x="437.863" y="519" type="line"/>
+			<point x="340.863" y="519" type="line"/>
+			<point x="332.145" y="448" type="line" smooth="yes"/>
+			<point x="329.321" y="425"/>
+			<point x="343.093" y="415"/>
+			<point x="366.479" y="410" type="curve" smooth="yes"/>
+			<point x="409.374" y="401" type="line"/>
+		</contour>
+		<contour>
+			<point x="598.863" y="519" type="line"/>
+			<point x="501.863" y="519" type="line"/>
+			<point x="501.374" y="401" type="line"/>
+			<point x="546.479" y="410" type="line" smooth="yes"/>
+			<point x="571.093" y="415"/>
+			<point x="587.321" y="425"/>
+			<point x="590.145" y="448" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="138.863" y="519" type="line"/>
+			<point x="41.863" y="519" type="line"/>
+			<point x="33.145" y="448" type="line" smooth="yes"/>
+			<point x="30.321" y="425"/>
+			<point x="44.093" y="415"/>
+			<point x="67.479" y="410" type="curve" smooth="yes"/>
+			<point x="110.374" y="401" type="line"/>
+		</contour>
+		<contour>
+			<point x="299.863" y="519" type="line"/>
+			<point x="202.863" y="519" type="line"/>
+			<point x="202.374" y="401" type="line"/>
+			<point x="247.479" y="410" type="line" smooth="yes"/>
+			<point x="272.093" y="415"/>
+			<point x="288.321" y="425"/>
+			<point x="291.145" y="448" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>v</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+		</dict>
+	</lib>
+</glyph>

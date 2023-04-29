@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tretroflexhook" format="2">
+	<advance width="378"/>
+	<unicode hex="0288"/>
+	<outline>
+		<contour>
+			<point x="209.159" y="-179" type="curve" smooth="yes"/>
+			<point x="255.545" y="-179"/>
+			<point x="270.853" y="-174.041"/>
+			<point x="317.737" y="-158" type="curve"/>
+			<point x="313.227" y="-97" type="line"/>
+			<point x="309.507" y="-73"/>
+			<point x="294.665" y="-69"/>
+			<point x="282.665" y="-69" type="curve" smooth="yes"/>
+			<point x="277.332" y="-69"/>
+			<point x="271.416" y="-69.667"/>
+			<point x="264.92" y="-71" type="curve" smooth="yes"/>
+			<point x="258.423" y="-72.333"/>
+			<point x="251.174" y="-73"/>
+			<point x="243.174" y="-73" type="curve" smooth="yes"/>
+			<point x="219.174" y="-73"/>
+			<point x="207.893" y="-59"/>
+			<point x="213.296" y="-15" type="curve" smooth="yes"/>
+			<point x="265.725" y="412" type="line"/>
+			<point x="393.725" y="412" type="line"/>
+			<point x="406.74" y="518" type="line"/>
+			<point x="278.74" y="518" type="line"/>
+			<point x="297.28" y="669" type="line"/>
+			<point x="216.28" y="669" type="line" smooth="yes"/>
+			<point x="197.613" y="669"/>
+			<point x="185.298" y="661"/>
+			<point x="179.333" y="645" type="curve" smooth="yes"/>
+			<point x="132.863" y="519" type="line"/>
+			<point x="48.898" y="503" type="line"/>
+			<point x="41.408" y="442" type="line" smooth="yes"/>
+			<point x="38.952" y="422"/>
+			<point x="50.725" y="412"/>
+			<point x="66.725" y="412" type="curve" smooth="yes"/>
+			<point x="110.725" y="412" type="line"/>
+			<point x="59.769" y="-3" type="line" smooth="yes"/>
+			<point x="48.312" y="-96.31"/>
+			<point x="96.723" y="-179"/>
+		</contour>
+	</outline>
+</glyph>

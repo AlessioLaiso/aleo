@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="copyright" format="2">
+	<advance width="775"/>
+	<unicode hex="00A9"/>
+	<note>
+		copyright
+	</note>
+	<outline>
+		<contour>
+			<point x="194.831" y="364" type="curve" smooth="yes"/>
+			<point x="187.832" y="307"/>
+			<point x="200.079" y="252"/>
+			<point x="233.168" y="212" type="curve" smooth="yes"/>
+			<point x="261.993" y="178"/>
+			<point x="309.169" y="155"/>
+			<point x="376.169" y="155" type="curve" smooth="yes"/>
+			<point x="441.169" y="155"/>
+			<point x="496.87" y="177"/>
+			<point x="535.518" y="223" type="curve"/>
+			<point x="491.903" y="275" type="line" smooth="yes"/>
+			<point x="487.517" y="280"/>
+			<point x="482.885" y="283"/>
+			<point x="476.885" y="283" type="curve" smooth="yes"/>
+			<point x="468.885" y="283"/>
+			<point x="460.272" y="278"/>
+			<point x="454.78" y="274" type="curve" smooth="yes"/>
+			<point x="435.061" y="260"/>
+			<point x="418.693" y="257"/>
+			<point x="399.693" y="257" type="curve" smooth="yes"/>
+			<point x="342.693" y="257"/>
+			<point x="314.096" y="301"/>
+			<point x="322.077" y="366" type="curve" smooth="yes"/>
+			<point x="330.18" y="432"/>
+			<point x="371.337" y="474"/>
+			<point x="436.337" y="474" type="curve" smooth="yes"/>
+			<point x="444.337" y="474"/>
+			<point x="466.337" y="474"/>
+			<point x="485.969" y="471" type="curve"/>
+			<point x="489.636" y="452" type="line" smooth="yes"/>
+			<point x="492.549" y="435"/>
+			<point x="497.321" y="425"/>
+			<point x="514.321" y="425" type="curve" smooth="yes"/>
+			<point x="555.321" y="425" type="line"/>
+			<point x="570.178" y="546" type="line"/>
+			<point x="538.897" y="560"/>
+			<point x="499.107" y="578"/>
+			<point x="443.107" y="578" type="curve" smooth="yes"/>
+			<point x="380.107" y="578"/>
+			<point x="320.283" y="555"/>
+			<point x="275.617" y="517" type="curve" smooth="yes"/>
+			<point x="229.828" y="478"/>
+			<point x="202.444" y="426"/>
+		</contour>
+		<contour>
+			<point x="354.278" y="-7" type="curve" smooth="yes"/>
+			<point x="557.278" y="-7"/>
+			<point x="747.292" y="156"/>
+			<point x="772.954" y="365" type="curve" smooth="yes"/>
+			<point x="798.247" y="571"/>
+			<point x="650.63" y="737"/>
+			<point x="445.63" y="737" type="curve" smooth="yes"/>
+			<point x="240.63" y="737"/>
+			<point x="53.002" y="569"/>
+			<point x="27.954" y="365" type="curve" smooth="yes"/>
+			<point x="2.906" y="161"/>
+			<point x="150.278" y="-7"/>
+		</contour>
+		<contour>
+			<point x="362.873" y="63" type="curve" smooth="yes"/>
+			<point x="200.124" y="63"/>
+			<point x="90.35" y="197.199"/>
+			<point x="110.954" y="365" type="curve" smooth="yes"/>
+			<point x="131.595" y="533.108"/>
+			<point x="275.174" y="669"/>
+			<point x="437.28" y="669" type="curve" smooth="yes"/>
+			<point x="599.28" y="669"/>
+			<point x="712.827" y="535"/>
+			<point x="691.954" y="365" type="curve" smooth="yes"/>
+			<point x="670.958" y="194"/>
+			<point x="524.873" y="63"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 26 values pushed */
+1 0 88 86 76 74 64 62 50 48 38 36 30 28 25 23 18 16 8 6 0 41 1 41 11 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 72 values pushed */
+20 1 4 2 4 1 1 5 2 30 0 3 4 0 4 3 0 50 10 1 0 5 4 0 5 48 0 2 0 4 3 2 4 1 0 38 0 5 0 1 8 5 1 1 0 38 0 9 9 6 1 0 36 0 6 6 17 31 0 8 8 7 1 0 36 0 7 7 18 7 32 9 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 79 values pushed */
+20 1 4 2 4 1 1 5 2 30 0 3 4 0 4 3 0 50 10 1 0 5 4 0 5 48 0 6 0 9 2 6 9 1 0 38 0 2 0 4 3 2 4 1 0 38 0 5 0 1 8 5 1 1 0 38 0 8 7 7 8 1 0 35 0 8 8 7 1 0 36 0 7 8 7 1 0 33 9 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

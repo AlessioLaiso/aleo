@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="2">
+	<advance width="341.3"/>
+	<unicode hex="00B2"/>
+	<note>
+		twosuperior
+	</note>
+	<outline>
+		<contour>
+			<point x="52.79" y="450" type="line"/>
+			<point x="331.79" y="450" type="line"/>
+			<point x="344.437" y="553" type="line"/>
+			<point x="290.437" y="553" type="line" smooth="yes"/>
+			<point x="271.437" y="553"/>
+			<point x="248.823" y="548"/>
+			<point x="223.841" y="540" type="curve"/>
+			<point x="276.858" y="589" type="line" smooth="yes"/>
+			<point x="319.646" y="628"/>
+			<point x="355.312" y="666"/>
+			<point x="361.697" y="718" type="curve" smooth="yes"/>
+			<point x="369.678" y="783"/>
+			<point x="327.817" y="833"/>
+			<point x="246.817" y="833" type="curve" smooth="yes"/>
+			<point x="172.817" y="833"/>
+			<point x="108.906" y="793"/>
+			<point x="88.206" y="714" type="curve"/>
+			<point x="141.978" y="704"/>
+			<point x="154.732" y="702"/>
+			<point x="163.732" y="702" type="curve" smooth="yes"/>
+			<point x="182.732" y="702"/>
+			<point x="191.592" y="709"/>
+			<point x="207.293" y="731" type="curve" smooth="yes"/>
+			<point x="211.03" y="737"/>
+			<point x="222.398" y="740"/>
+			<point x="228.398" y="740" type="curve" smooth="yes"/>
+			<point x="247.398" y="740"/>
+			<point x="246.17" y="730"/>
+			<point x="244.206" y="714" type="curve" smooth="yes"/>
+			<point x="240.645" y="685"/>
+			<point x="225.452" y="659"/>
+			<point x="190.646" y="628" type="curve" smooth="yes"/>
+			<point x="81.736" y="531" type="line"/>
+			<point x="67.263" y="519"/>
+			<point x="59.298" y="503"/>
+			<point x="57.333" y="487" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="263.859" y="532" type="line"/>
+			<point x="344.437" y="553" type="line"/>
+			<point x="348.858" y="589" type="line"/>
+			<point x="307.858" y="589" type="line" smooth="yes"/>
+			<point x="291.858" y="589"/>
+			<point x="283.507" y="578"/>
+			<point x="277.42" y="561" type="curve" smooth="yes"/>
+			<point x="263.859" y="532" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>51</integer>
+				<key>weight</key>
+				<integer>-45</integer>
+				<key>width</key>
+				<integer>51</integer>
+			</dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 16 values pushed */
+1 0 40 38 34 32 20 19 16 13 0 46 1 46 6 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+24 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 43 values pushed */
+42 1 4 3 11 1 2 1 2 30 0 4 3 1 3 4 1 50 5 1 0 0 3 4 0 3 1 0 38 0 2 2 1 1 0 36 0 1 1 20 2 32 5 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 52 values pushed */
+42 1 4 3 11 1 2 1 2 30 0 4 3 1 3 4 1 50 5 1 0 0 3 4 0 3 1 0 38 0 1 2 2 1 1 0 35 0 1 1 2 0 0 36 0 2 1 2 0 0 33 6 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=two*0.7</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=two*0.7</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="2">
+	<advance width="866"/>
+	<unicode hex="0077"/>
+	<anchor x="433" y="490" name="top"/>
+	<anchor x="433" y="0" name="bottom"/>
+	<note>
+		w
+	</note>
+	<outline>
+		<contour>
+			<point x="260" y="0" type="line"/>
+			<point x="265" y="0" type="line" smooth="yes"/>
+			<point x="268" y="0"/>
+			<point x="269" y="2"/>
+			<point x="270" y="5" type="curve"/>
+			<point x="429" y="461" type="line" smooth="yes"/>
+			<point x="431" y="466"/>
+			<point x="433" y="471"/>
+			<point x="434" y="475" type="curve"/>
+			<point x="435" y="471"/>
+			<point x="436" y="466"/>
+			<point x="438" y="461" type="curve" smooth="yes"/>
+			<point x="595" y="5" type="line" smooth="yes"/>
+			<point x="596" y="2"/>
+			<point x="598" y="0"/>
+			<point x="601" y="0" type="curve" smooth="yes"/>
+			<point x="606" y="0" type="line"/>
+			<point x="774" y="490" type="line"/>
+			<point x="767" y="490" type="line" smooth="yes"/>
+			<point x="764" y="490"/>
+			<point x="760" y="488"/>
+			<point x="758" y="483" type="curve" smooth="yes"/>
+			<point x="608" y="34" type="line" smooth="yes"/>
+			<point x="606" y="27"/>
+			<point x="604" y="20"/>
+			<point x="602" y="14" type="curve"/>
+			<point x="600" y="20"/>
+			<point x="597" y="27"/>
+			<point x="595" y="34" type="curve" smooth="yes"/>
+			<point x="440" y="488" type="line" smooth="yes"/>
+			<point x="439" y="491"/>
+			<point x="438" y="493"/>
+			<point x="435" y="493" type="curve" smooth="yes"/>
+			<point x="432" y="493" type="line" smooth="yes"/>
+			<point x="430" y="493"/>
+			<point x="428" y="491"/>
+			<point x="427" y="488" type="curve" smooth="yes"/>
+			<point x="271" y="34" type="line" smooth="yes"/>
+			<point x="269" y="27"/>
+			<point x="266" y="21"/>
+			<point x="265" y="13" type="curve"/>
+			<point x="264" y="16"/>
+			<point x="260" y="27"/>
+			<point x="258" y="34" type="curve" smooth="yes"/>
+			<point x="108" y="483" type="line" smooth="yes"/>
+			<point x="107" y="486"/>
+			<point x="105" y="490"/>
+			<point x="103" y="490" type="curve" smooth="yes"/>
+			<point x="92" y="490" type="line"/>
+		</contour>
+		<contour>
+			<point x="98" y="482" type="line"/>
+			<point x="114" y="482" type="line"/>
+			<point x="114" y="490" type="line"/>
+			<point x="98" y="490" type="line"/>
+		</contour>
+		<contour>
+			<point x="754" y="482" type="line"/>
+			<point x="770" y="482" type="line"/>
+			<point x="770" y="490" type="line"/>
+			<point x="754" y="490" type="line"/>
+		</contour>
+		<component base="SerifSpurLeft" xOffset="107" yOffset="490"/>
+		<component base="SerifSpurRight" xOffset="103" yOffset="490"/>
+		<component base="SerifSpurLeft" xOffset="763" yOffset="490"/>
+		<component base="SerifSpurRight" xOffset="759" yOffset="490"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+14 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+14 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+26 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+26 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+28 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+28 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+40 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+40 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>v</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+		</dict>
+	</lib>
+</glyph>

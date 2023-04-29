@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaafrican" format="2">
+	<advance width="276"/>
+	<unicode hex="0196"/>
+	<outline>
+		<contour>
+			<point x="197.181" y="-6" type="curve" smooth="yes"/>
+			<point x="215.181" y="-6"/>
+			<point x="231.549" y="-3"/>
+			<point x="232.041" y="1" type="curve" smooth="yes"/>
+			<point x="232.409" y="4" type="line"/>
+			<point x="202.409" y="4" type="line" smooth="yes"/>
+			<point x="131.409" y="4"/>
+			<point x="99.32" y="44"/>
+			<point x="108.775" y="121" type="curve" smooth="yes"/>
+			<point x="179.867" y="700" type="line"/>
+			<point x="167.867" y="700" type="line"/>
+			<point x="96.775" y="121" type="line" smooth="yes"/>
+			<point x="86.706" y="39"/>
+			<point x="123.181" y="-6"/>
+		</contour>
+		<contour>
+			<point x="170.867" y="700" type="line"/>
+			<point x="85.867" y="700" type="line"/>
+			<point x="85.253" y="695" type="line" smooth="yes"/>
+			<point x="84.885" y="692"/>
+			<point x="88.639" y="690"/>
+			<point x="91.639" y="690" type="curve" smooth="yes"/>
+			<point x="168.394" y="688" type="line"/>
+		</contour>
+	</outline>
+</glyph>

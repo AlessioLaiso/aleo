@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Bhook" format="2">
+	<advance width="834"/>
+	<unicode hex="0181"/>
+	<anchor x="492" y="749" name="top"/>
+	<anchor x="492" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="246" y="0" type="line"/>
+			<point x="537" y="0" type="line" smooth="yes"/>
+			<point x="703" y="0"/>
+			<point x="810" y="87"/>
+			<point x="810" y="220" type="curve" smooth="yes"/>
+			<point x="810" y="301"/>
+			<point x="765" y="354"/>
+			<point x="669" y="377" type="curve"/>
+			<point x="752" y="407"/>
+			<point x="793" y="462"/>
+			<point x="793" y="532" type="curve" smooth="yes"/>
+			<point x="793" y="678"/>
+			<point x="682" y="729"/>
+			<point x="514" y="729" type="curve" smooth="yes"/>
+			<point x="246" y="729" type="line"/>
+		</contour>
+		<contour>
+			<point x="415" y="128" type="line"/>
+			<point x="415" y="309" type="line"/>
+			<point x="533" y="309" type="line" smooth="yes"/>
+			<point x="612" y="309"/>
+			<point x="643" y="281"/>
+			<point x="643" y="223" type="curve" smooth="yes"/>
+			<point x="643" y="169"/>
+			<point x="615" y="128"/>
+			<point x="534" y="128" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="415" y="422" type="line"/>
+			<point x="415" y="602" type="line"/>
+			<point x="514" y="602" type="line" smooth="yes"/>
+			<point x="589" y="602"/>
+			<point x="624" y="581"/>
+			<point x="624" y="512" type="curve" smooth="yes"/>
+			<point x="624" y="441"/>
+			<point x="580" y="422"/>
+			<point x="503" y="422" type="curve" smooth="yes"/>
+		</contour>
+		<component base="SerifBottomLeft" xOffset="246"/>
+		<component base="hookleft_caps_part"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>B</string>
+		</dict>
+	</lib>
+</glyph>

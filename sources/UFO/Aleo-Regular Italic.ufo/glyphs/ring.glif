@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+	<advance width="281"/>
+	<unicode hex="02DA"/>
+	<note>
+		ring
+	</note>
+	<outline>
+		<contour>
+			<point x="89.666" y="658" type="curve"/>
+			<point x="89.666" y="658" type="line"/>
+			<point x="82.913" y="603"/>
+			<point x="124.37" y="566"/>
+			<point x="178.37" y="566" type="curve" smooth="yes"/>
+			<point x="233.37" y="566"/>
+			<point x="283.913" y="603"/>
+			<point x="290.666" y="658" type="curve" smooth="yes"/>
+			<point x="297.542" y="714"/>
+			<point x="256.085" y="751"/>
+			<point x="201.085" y="751" type="curve" smooth="yes"/>
+			<point x="147.085" y="751"/>
+			<point x="96.42" y="713"/>
+		</contour>
+		<contour>
+			<point x="139.666" y="658" type="curve"/>
+			<point x="139.666" y="658" type="line"/>
+			<point x="143.227" y="687"/>
+			<point x="164.806" y="708"/>
+			<point x="196.806" y="708" type="curve" smooth="yes"/>
+			<point x="225.806" y="708"/>
+			<point x="244.227" y="687"/>
+			<point x="240.666" y="658" type="curve" smooth="yes"/>
+			<point x="237.106" y="629"/>
+			<point x="213.527" y="608"/>
+			<point x="184.527" y="608" type="curve" smooth="yes"/>
+			<point x="152.527" y="608"/>
+			<point x="136.106" y="629"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+30 28 24 22 16 14 6 4 4 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+28 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+0 2 0 1 2 1 1 0 37 0 3 3 0 1 0 36 0 0 0 13 3 32 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 33 values pushed */
+0 0 0 3 2 0 3 1 0 38 0 2 1 1 2 1 0 35 0 2 2 1 1 0 36 0 1 2 1 1 0 33 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

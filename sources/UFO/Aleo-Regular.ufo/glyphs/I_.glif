@@ -1,52 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="I" format="1">
-  <advance width="353"/>
-  <unicode hex="0049"/>
-  <note>
-    I
-  </note>
-  <outline>
-    <contour>
-      <point x="224" y="644" type="line"/>
-      <point x="282" y="655" type="line" smooth="yes"/>
-      <point x="292" y="657"/>
-      <point x="297" y="664"/>
-      <point x="297" y="674" type="curve" smooth="yes"/>
-      <point x="297" y="716" type="line"/>
-      <point x="56" y="716" type="line"/>
-      <point x="56" y="674" type="line" smooth="yes"/>
-      <point x="56" y="664"/>
-      <point x="60" y="658"/>
-      <point x="68" y="656" type="curve" smooth="yes"/>
-      <point x="76" y="654"/>
-      <point x="96" y="650"/>
-      <point x="128" y="644" type="curve"/>
-      <point x="128" y="73" type="line"/>
-      <point x="70" y="62" type="line" smooth="yes"/>
-      <point x="60" y="60"/>
-      <point x="56" y="53"/>
-      <point x="56" y="43" type="curve" smooth="yes"/>
-      <point x="56" y="0" type="line"/>
-      <point x="297" y="0" type="line"/>
-      <point x="297" y="43" type="line" smooth="yes"/>
-      <point x="297" y="53"/>
-      <point x="293" y="59"/>
-      <point x="285" y="61" type="curve" smooth="yes"/>
-      <point x="277" y="63"/>
-      <point x="256" y="67"/>
-      <point x="224" y="73" type="curve"/>
-    </contour>
-    <contour>
-      <point x="175" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="296" y="10" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="175" y="716" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="42" y="716" type="move" name="topleft"/>
-    </contour>
-  </outline>
+<glyph name="I" format="2">
+	<advance width="308"/>
+	<unicode hex="0049"/>
+	<anchor x="148" y="2" name="ogonek"/>
+	<anchor x="154" y="0" name="bottom"/>
+	<anchor x="154" y="729" name="top"/>
+	<note>
+		I
+	</note>
+	<outline>
+		<contour>
+			<point x="105" y="0" type="line"/>
+			<point x="202" y="0" type="line"/>
+			<point x="202" y="717" type="line"/>
+			<point x="105" y="717" type="line"/>
+		</contour>
+		<component base="SerifBottomLeft" xOffset="105"/>
+		<component base="SerifBottomRight" xOffset="203"/>
+		<component base="SerifSpurLeft" xOffset="105" yOffset="717"/>
+		<component base="SerifSpurRight" xOffset="203" yOffset="717"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+3 2 1 0 2 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+0 1 1 11 31 0 0 0 12 0 32 2 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 14 values pushed */
+0 1 1 0 0 0 36 0 0 0 15 0 32 2 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 1 0 0 1 0 0 35 0 1 1 0 0 0 36 0 0 1 0 0 0 33 3 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
 </glyph>

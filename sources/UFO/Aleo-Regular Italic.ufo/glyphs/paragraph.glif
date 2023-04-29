@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="2">
+	<advance width="752"/>
+	<unicode hex="00B6"/>
+	<note>
+		paragraph
+	</note>
+	<outline>
+		<contour>
+			<point x="215.473" y="-101" type="line"/>
+			<point x="294.473" y="-101" type="line"/>
+			<point x="385.456" y="640" type="line"/>
+			<point x="523.456" y="640" type="line"/>
+			<point x="432.473" y="-101" type="line"/>
+			<point x="511.473" y="-101" type="line"/>
+			<point x="602.456" y="640" type="line"/>
+			<point x="711.456" y="640" type="line"/>
+			<point x="720.911" y="717" type="line"/>
+			<point x="315.911" y="717" type="line"/>
+			<point x="182.911" y="717"/>
+			<point x="81.825" y="643"/>
+			<point x="67.336" y="525" type="curve" smooth="yes"/>
+			<point x="53.584" y="413"/>
+			<point x="136.393" y="330"/>
+			<point x="268.393" y="330" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+0 0 0 19 0 18 10 9 8 7 6 5 4 3 2 1 7 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 29 values pushed */
+0 4 0 1 0 4 1 50 3 1 1 1 51 2 1 0 0 5 1 0 36 6 1 5 5 11 0 32 4 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 39 values pushed */
+0 4 0 1 0 4 1 50 3 1 1 1 51 6 1 5 0 0 5 1 0 35 6 1 5 5 0 0 0 36 2 1 0 5 0 0 0 33 5 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 50 values pushed */
+0 0 2 4 2 0 42 0 4 3 2 4 3 48 0 3 1 2 3 1 48 0 1 1 51 6 1 5 2 2 5 1 0 35 6 1 5 5 2 0 0 36 0 2 5 2 0 0 33 7 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>bracketright</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,87 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ring.case" format="1">
-  <advance width="303"/>
-  <note>
-    ring.case
-  </note>
-  <outline>
-    <contour>
-      <point x="57" y="830" type="curve"/>
-      <point x="58" y="830" type="line"/>
-      <point x="58" y="818"/>
-      <point x="60" y="805"/>
-      <point x="65" y="795" type="curve" smooth="yes"/>
-      <point x="70" y="785"/>
-      <point x="78" y="776"/>
-      <point x="86" y="768" type="curve" smooth="yes"/>
-      <point x="94" y="760"/>
-      <point x="104" y="754"/>
-      <point x="116" y="750" type="curve" smooth="yes"/>
-      <point x="128" y="746"/>
-      <point x="140" y="744"/>
-      <point x="152" y="744" type="curve" smooth="yes"/>
-      <point x="165" y="744"/>
-      <point x="176" y="746"/>
-      <point x="188" y="750" type="curve" smooth="yes"/>
-      <point x="200" y="754"/>
-      <point x="209" y="760"/>
-      <point x="218" y="768" type="curve" smooth="yes"/>
-      <point x="227" y="776"/>
-      <point x="235" y="785"/>
-      <point x="240" y="795" type="curve" smooth="yes"/>
-      <point x="245" y="805"/>
-      <point x="247" y="818"/>
-      <point x="247" y="830" type="curve" smooth="yes"/>
-      <point x="247" y="843"/>
-      <point x="245" y="855"/>
-      <point x="240" y="866" type="curve" smooth="yes"/>
-      <point x="235" y="877"/>
-      <point x="227" y="886"/>
-      <point x="218" y="894" type="curve" smooth="yes"/>
-      <point x="209" y="902"/>
-      <point x="200" y="908"/>
-      <point x="188" y="912" type="curve" smooth="yes"/>
-      <point x="176" y="916"/>
-      <point x="164" y="919"/>
-      <point x="151" y="919" type="curve" smooth="yes"/>
-      <point x="139" y="919"/>
-      <point x="127" y="916"/>
-      <point x="115" y="912" type="curve" smooth="yes"/>
-      <point x="103" y="908"/>
-      <point x="93" y="902"/>
-      <point x="85" y="894" type="curve" smooth="yes"/>
-      <point x="77" y="886"/>
-      <point x="69" y="877"/>
-      <point x="64" y="866" type="curve" smooth="yes"/>
-      <point x="59" y="855"/>
-      <point x="57" y="843"/>
-    </contour>
-    <contour>
-      <point x="102" y="829" type="curve" smooth="yes"/>
-      <point x="102" y="830" type="line" smooth="yes"/>
-      <point x="102" y="845"/>
-      <point x="106" y="856"/>
-      <point x="115" y="866" type="curve" smooth="yes"/>
-      <point x="124" y="876"/>
-      <point x="136" y="880"/>
-      <point x="152" y="880" type="curve" smooth="yes"/>
-      <point x="167" y="880"/>
-      <point x="179" y="876"/>
-      <point x="188" y="866" type="curve" smooth="yes"/>
-      <point x="197" y="856"/>
-      <point x="202" y="845"/>
-      <point x="202" y="830" type="curve" smooth="yes"/>
-      <point x="202" y="816"/>
-      <point x="197" y="804"/>
-      <point x="188" y="794" type="curve" smooth="yes"/>
-      <point x="179" y="784"/>
-      <point x="167" y="779"/>
-      <point x="152" y="779" type="curve" smooth="yes"/>
-      <point x="136" y="779"/>
-      <point x="124" y="783"/>
-      <point x="115" y="793" type="curve" smooth="yes"/>
-      <point x="106" y="803"/>
-      <point x="102" y="815"/>
-    </contour>
-  </outline>
+<glyph name="ring.case" format="2">
+	<advance width="307"/>
+	<note>
+		ring.case
+	</note>
+	<outline>
+		<contour>
+			<point x="59" y="830" type="curve"/>
+			<point x="59" y="830" type="line"/>
+			<point x="59" y="779.596"/>
+			<point x="103.64" y="743"/>
+			<point x="153" y="743" type="curve" smooth="yes"/>
+			<point x="205.518" y="743"/>
+			<point x="249" y="780.006"/>
+			<point x="249" y="830" type="curve" smooth="yes"/>
+			<point x="249" y="881.117"/>
+			<point x="205.534" y="919"/>
+			<point x="153" y="919" type="curve" smooth="yes"/>
+			<point x="103.619" y="919"/>
+			<point x="59" y="881.606"/>
+		</contour>
+		<contour>
+			<point x="104" y="830" type="curve"/>
+			<point x="104" y="830" type="line"/>
+			<point x="104" y="859.333"/>
+			<point x="123.333" y="880"/>
+			<point x="154" y="880" type="curve" smooth="yes"/>
+			<point x="184.667" y="880"/>
+			<point x="204" y="859.333"/>
+			<point x="204" y="830" type="curve" smooth="yes"/>
+			<point x="204" y="800.667"/>
+			<point x="184.667" y="780"/>
+			<point x="154" y="780" type="curve" smooth="yes"/>
+			<point x="123.333" y="780"/>
+			<point x="104" y="800.667"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+30 28 24 22 16 14 6 4 4 7 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 33 values pushed */
+0 0 0 3 2 0 3 1 0 38 0 2 1 1 2 1 0 35 0 2 2 1 1 0 36 0 1 2 1 1 0 33 4 
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
 </glyph>

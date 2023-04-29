@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+	<advance width="295"/>
+	<unicode hex="005B"/>
+	<note>
+		bracketleft
+	</note>
+	<outline>
+		<contour>
+			<point x="189.061" y="-121" type="line"/>
+			<point x="189.429" y="-118" type="line" smooth="yes"/>
+			<point x="189.92" y="-114"/>
+			<point x="188.166" y="-112"/>
+			<point x="183.166" y="-112" type="curve" smooth="yes"/>
+			<point x="64.166" y="-112" type="line"/>
+			<point x="169.024" y="742" type="line"/>
+			<point x="288.024" y="742" type="line" smooth="yes"/>
+			<point x="293.024" y="742"/>
+			<point x="295.269" y="744"/>
+			<point x="295.761" y="748" type="curve" smooth="yes"/>
+			<point x="296.129" y="751" type="line"/>
+			<point x="159.129" y="751" type="line"/>
+			<point x="52.061" y="-121" type="line"/>
+			<point x="189.061" y="-121" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 4 values pushed */
+7 3 0 4 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+7 1 0 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+2 1 5 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+	<advance width="620"/>
+	<unicode hex="00DF"/>
+	<note>
+		germandbls
+	</note>
+	<outline>
+		<contour>
+			<point x="360.892" y="-8" type="curve" smooth="yes"/>
+			<point x="466.892" y="-8"/>
+			<point x="553.627" y="55"/>
+			<point x="566.151" y="157" type="curve" smooth="yes"/>
+			<point x="574.869" y="228"/>
+			<point x="540.78" y="268"/>
+			<point x="493.973" y="294" type="curve" smooth="yes"/>
+			<point x="452.674" y="316"/>
+			<point x="409.007" y="335"/>
+			<point x="413.796" y="374" type="curve" smooth="yes"/>
+			<point x="417.602" y="405"/>
+			<point x="458.549" y="429"/>
+			<point x="495.373" y="452" type="curve" smooth="yes"/>
+			<point x="537.442" y="477"/>
+			<point x="575.108" y="515"/>
+			<point x="581.861" y="570" type="curve" smooth="yes"/>
+			<point x="591.807" y="651"/>
+			<point x="526.138" y="727"/>
+			<point x="402.138" y="727" type="curve" smooth="yes"/>
+			<point x="257.138" y="727"/>
+			<point x="146.965" y="636"/>
+			<point x="129.775" y="496" type="curve" smooth="yes"/>
+			<point x="68.874" y="0" type="line"/>
+			<point x="158.874" y="0" type="line"/>
+			<point x="219.407" y="493" type="line" smooth="yes"/>
+			<point x="232.545" y="600"/>
+			<point x="295.035" y="661"/>
+			<point x="390.035" y="661" type="curve" smooth="yes"/>
+			<point x="466.035" y="661"/>
+			<point x="502.123" y="621"/>
+			<point x="495.861" y="570" type="curve" smooth="yes"/>
+			<point x="490.459" y="526"/>
+			<point x="447.407" y="493"/>
+			<point x="408.337" y="468" type="curve" smooth="yes"/>
+			<point x="364.899" y="440"/>
+			<point x="324.725" y="406"/>
+			<point x="318.585" y="356" type="curve" smooth="yes"/>
+			<point x="311.096" y="295"/>
+			<point x="351.289" y="264"/>
+			<point x="399.711" y="243" type="curve" smooth="yes"/>
+			<point x="445.132" y="222"/>
+			<point x="487.94" y="196"/>
+			<point x="481.432" y="143" type="curve" smooth="yes"/>
+			<point x="475.416" y="94"/>
+			<point x="432.75" y="56"/>
+			<point x="375.75" y="56" type="curve" smooth="yes"/>
+			<point x="333.75" y="56"/>
+			<point x="281.275" y="101"/>
+			<point x="261.275" y="101" type="curve" smooth="yes"/>
+			<point x="249.275" y="101"/>
+			<point x="241.661" y="96"/>
+			<point x="235.679" y="88" type="curve" smooth="yes"/>
+			<point x="210.504" y="54" type="line"/>
+			<point x="246.084" y="18"/>
+			<point x="295.892" y="-8"/>
+		</contour>
+		<contour>
+			<point x="-3.126" y="0" type="line"/>
+			<point x="98.874" y="0" type="line"/>
+			<point x="97.451" y="78" type="line"/>
+			<point x="20.487" y="62" type="line" smooth="yes"/>
+			<point x="9.241" y="60"/>
+			<point x="3.382" y="53"/>
+			<point x="1.908" y="41" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+1 0 67 66 61 59 37 35 32 30 25 23 0 72 1 72 7 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+30 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 42 values pushed */
+27 1 1 3 1 30 0 2 4 3 4 2 3 50 0 4 4 0 1 0 36 6 1 0 0 17 31 0 3 3 1 1 0 36 5 1 1 1 18 1 32 6 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 46 values pushed */
+27 1 5 3 1 30 0 2 4 3 4 2 3 50 0 4 4 0 1 0 36 6 1 0 0 17 31 0 5 5 12 31 0 3 3 1 1 0 36 0 1 1 18 1 32 7 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 44 values pushed */
+27 1 5 3 1 30 0 2 4 3 4 2 3 50 6 1 0 0 4 2 0 4 1 0 38 0 5 5 15 31 0 3 3 1 1 0 36 0 1 1 21 1 32 6 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 56 values pushed */
+27 1 5 3 1 30 0 2 4 3 4 2 3 50 0 5 3 1 3 5 1 50 6 1 0 0 4 2 0 4 1 0 38 0 3 5 1 3 1 0 35 0 3 3 1 1 0 36 0 1 3 1 1 0 33 7 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+	<advance width="1110"/>
+	<unicode hex="0057"/>
+	<anchor x="555" y="700" name="top"/>
+	<anchor x="555" y="0" name="bottom"/>
+	<note>
+		W
+	</note>
+	<outline>
+		<contour>
+			<point x="307" y="0" type="line"/>
+			<point x="317" y="0" type="line"/>
+			<point x="550" y="672" type="line" smooth="yes"/>
+			<point x="552" y="679"/>
+			<point x="554" y="684"/>
+			<point x="555" y="688" type="curve"/>
+			<point x="556" y="684"/>
+			<point x="557" y="679"/>
+			<point x="559" y="672" type="curve" smooth="yes"/>
+			<point x="792" y="0" type="line"/>
+			<point x="802" y="0" type="line"/>
+			<point x="1024" y="700" type="line"/>
+			<point x="1016" y="700" type="line" smooth="yes"/>
+			<point x="1013" y="700"/>
+			<point x="1010" y="698"/>
+			<point x="1009" y="695" type="curve" smooth="yes"/>
+			<point x="805" y="42" type="line"/>
+			<point x="802" y="34"/>
+			<point x="799" y="25"/>
+			<point x="797" y="15" type="curve"/>
+			<point x="796" y="24"/>
+			<point x="793" y="33"/>
+			<point x="790" y="42" type="curve" smooth="yes"/>
+			<point x="562" y="695" type="line"/>
+			<point x="561" y="698"/>
+			<point x="559" y="700"/>
+			<point x="556" y="700" type="curve" smooth="yes"/>
+			<point x="553" y="700" type="line" smooth="yes"/>
+			<point x="550" y="700"/>
+			<point x="548" y="698"/>
+			<point x="547" y="695" type="curve" smooth="yes"/>
+			<point x="320" y="42" type="line" smooth="yes"/>
+			<point x="319" y="38"/>
+			<point x="313" y="18"/>
+			<point x="312" y="15" type="curve"/>
+			<point x="311" y="19"/>
+			<point x="309" y="29"/>
+			<point x="305" y="42" type="curve" smooth="yes"/>
+			<point x="100" y="695" type="line" smooth="yes"/>
+			<point x="99" y="698"/>
+			<point x="97" y="700"/>
+			<point x="94" y="700" type="curve" smooth="yes"/>
+			<point x="85" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="88" y="700" type="line"/>
+			<point x="88" y="692" type="line"/>
+			<point x="105" y="692" type="line"/>
+			<point x="105" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="1004" y="700" type="line"/>
+			<point x="1004" y="691" type="line"/>
+			<point x="1020" y="691" type="line"/>
+			<point x="1020" y="700" type="line"/>
+		</contour>
+		<component base="SerifSpurLeft" xOffset="98" yOffset="700"/>
+		<component base="SerifSpurRight" xOffset="94" yOffset="700"/>
+		<component base="SerifSpurLeft" xOffset="1016" yOffset="700"/>
+		<component base="SerifSpurRight" xOffset="1012" yOffset="700"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+13 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+13 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+24 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+24 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+26 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+26 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+33 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+33 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+		</dict>
+	</lib>
+</glyph>

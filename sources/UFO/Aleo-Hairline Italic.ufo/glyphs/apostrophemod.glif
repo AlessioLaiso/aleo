@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="2">
+	<advance width="198"/>
+	<unicode hex="02BC"/>
+	<outline>
+		<contour>
+			<point x="161.323" y="720" type="line"/>
+			<point x="159.2" y="719"/>
+			<point x="158.077" y="718"/>
+			<point x="157.832" y="716" type="curve" smooth="yes"/>
+			<point x="157.709" y="715"/>
+			<point x="158.586" y="714"/>
+			<point x="159.218" y="711" type="curve" smooth="yes"/>
+			<point x="166.13" y="694"/>
+			<point x="169.411" y="680"/>
+			<point x="166.833" y="659" type="curve" smooth="yes"/>
+			<point x="162.781" y="626"/>
+			<point x="142.729" y="593"/>
+			<point x="108.818" y="553" type="curve" smooth="yes"/>
+			<point x="107.695" y="552"/>
+			<point x="107.572" y="551"/>
+			<point x="107.572" y="551" type="curve"/>
+			<point x="107.449" y="550"/>
+			<point x="107.327" y="549"/>
+			<point x="108.204" y="548" type="curve" smooth="yes"/>
+			<point x="109.958" y="546" type="line"/>
+			<point x="143.133" y="580"/>
+			<point x="174.413" y="623"/>
+			<point x="179.938" y="668" type="curve" smooth="yes"/>
+			<point x="182.271" y="687"/>
+			<point x="180.604" y="706"/>
+			<point x="171.937" y="725" type="curve"/>
+			<point x="161.323" y="720" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>quoteright</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>quoteright</string>
+		</dict>
+	</lib>
+</glyph>

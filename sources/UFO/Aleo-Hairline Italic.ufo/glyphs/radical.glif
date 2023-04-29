@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="2">
+	<advance width="552"/>
+	<unicode hex="221A"/>
+	<note>
+		radical
+	</note>
+	<outline>
+		<contour>
+			<point x="274.918" y="0" type="line"/>
+			<point x="283.918" y="0" type="line"/>
+			<point x="670.881" y="863" type="line"/>
+			<point x="666.881" y="863" type="line" smooth="yes"/>
+			<point x="662.881" y="863"/>
+			<point x="659.635" y="861"/>
+			<point x="657.021" y="856" type="curve" smooth="yes"/>
+			<point x="288.092" y="34" type="line" smooth="yes"/>
+			<point x="283.987" y="25"/>
+			<point x="282.251" y="19"/>
+			<point x="280.882" y="16" type="curve"/>
+			<point x="280.251" y="19"/>
+			<point x="279.987" y="25"/>
+			<point x="277.092" y="34" type="curve" smooth="yes"/>
+			<point x="188.997" y="359" type="line" smooth="yes"/>
+			<point x="187.489" y="363"/>
+			<point x="186.524" y="366"/>
+			<point x="179.857" y="366" type="curve" smooth="yes"/>
+			<point x="31.857" y="366" type="line"/>
+			<point x="31.489" y="363" type="line" smooth="yes"/>
+			<point x="30.997" y="359"/>
+			<point x="33.085" y="357"/>
+			<point x="37.752" y="357" type="curve" smooth="yes"/>
+			<point x="177.752" y="357" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+7 1 2 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

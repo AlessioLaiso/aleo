@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+	<advance width="198"/>
+	<unicode hex="00B7"/>
+	<note>
+		periodcentered
+	</note>
+	<outline>
+		<contour>
+			<point x="69" y="295" type="curve"/>
+			<point x="69" y="295" type="line"/>
+			<point x="69" y="280"/>
+			<point x="83" y="266"/>
+			<point x="98" y="266" type="curve" smooth="yes"/>
+			<point x="115" y="266"/>
+			<point x="129" y="280"/>
+			<point x="129" y="295" type="curve" smooth="yes"/>
+			<point x="129" y="312"/>
+			<point x="115" y="326"/>
+			<point x="98" y="326" type="curve" smooth="yes"/>
+			<point x="83" y="326"/>
+			<point x="69" y="312"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+6 0 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+3 9 3 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

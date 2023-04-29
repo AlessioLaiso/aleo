@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icaron" format="2">
+	<advance width="229"/>
+	<unicode hex="01D0"/>
+	<anchor x="85.163" y="2" name="ogonek"/>
+	<anchor x="88.918" y="0" name="bottom"/>
+	<anchor x="149.082" y="490" name="top"/>
+	<outline>
+		<contour>
+			<point x="82.918" y="0" type="line"/>
+			<point x="94.918" y="0" type="line"/>
+			<point x="155.082" y="490" type="line"/>
+			<point x="143.082" y="490" type="line"/>
+		</contour>
+		<contour>
+			<point x="91.918" y="0" type="line"/>
+			<point x="176.918" y="0" type="line"/>
+			<point x="177.532" y="5" type="line" smooth="yes"/>
+			<point x="177.9" y="8"/>
+			<point x="174.146" y="10"/>
+			<point x="171.146" y="10" type="curve" smooth="yes"/>
+			<point x="94.391" y="12" type="line"/>
+		</contour>
+		<contour>
+			<point x="146.082" y="490" type="line"/>
+			<point x="61.082" y="490" type="line"/>
+			<point x="60.468" y="485" type="line" smooth="yes"/>
+			<point x="60.1" y="482"/>
+			<point x="63.854" y="480"/>
+			<point x="66.854" y="480" type="curve" smooth="yes"/>
+			<point x="143.609" y="478" type="line"/>
+		</contour>
+		<contour>
+			<point x="284.867" y="700" type="line"/>
+			<point x="275.867" y="700" type="line" smooth="yes"/>
+			<point x="271.867" y="700"/>
+			<point x="268.499" y="697"/>
+			<point x="267.376" y="696" type="curve" smooth="yes"/>
+			<point x="161.975" y="595" type="line"/>
+			<point x="81.376" y="696" type="line" smooth="yes"/>
+			<point x="78.744" y="699"/>
+			<point x="76.867" y="700"/>
+			<point x="73.867" y="700" type="curve" smooth="yes"/>
+			<point x="64.867" y="700" type="line"/>
+			<point x="156.747" y="585" type="line"/>
+			<point x="164.747" y="585" type="line"/>
+		</contour>
+	</outline>
+</glyph>

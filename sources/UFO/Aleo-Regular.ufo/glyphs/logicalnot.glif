@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="logicalnot" format="1">
-  <advance width="573"/>
-  <unicode hex="00AC"/>
-  <note>
-    logicalnot
-  </note>
-  <outline>
-    <contour>
-      <point x="503" y="370" type="line"/>
-      <point x="73" y="370" type="line"/>
-      <point x="73" y="302" type="line"/>
-      <point x="427" y="302" type="line"/>
-      <point x="427" y="158" type="line"/>
-      <point x="503" y="158" type="line"/>
-    </contour>
-  </outline>
+<glyph name="logicalnot" format="2">
+	<advance width="573"/>
+	<unicode hex="00AC"/>
+	<note>
+		logicalnot
+	</note>
+	<outline>
+		<contour>
+			<point x="73" y="302" type="line"/>
+			<point x="428" y="302" type="line"/>
+			<point x="428" y="158" type="line"/>
+			<point x="503" y="158" type="line"/>
+			<point x="503" y="370" type="line"/>
+			<point x="73" y="370" type="line"/>
+			<point x="73" y="302" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 8 values pushed */
+5 4 3 2 1 0 3 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+9 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 29 values pushed */
+0 1 2 2 1 41 0 0 2 2 0 0 0 35 0 0 0 2 0 0 36 0 2 0 2 0 0 33 4 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 28 values pushed */
+0 1 2 1 53 0 0 2 2 0 0 0 35 0 0 0 2 0 0 36 0 2 0 2 0 0 33 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
 </glyph>

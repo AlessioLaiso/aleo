@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wgrave" format="1">
-  <advance width="1092"/>
-  <unicode hex="1E80"/>
-  <outline>
-    <component base="W"/>
-    <component base="gravecomb" xOffset="407" yOffset="210"/>
-  </outline>
+<glyph name="Wgrave" format="2">
+	<advance width="1118"/>
+	<unicode hex="1E80"/>
+	<outline>
+		<component base="W"/>
+		<component base="gravecomb" xOffset="370" yOffset="210"/>
+	</outline>
 </glyph>

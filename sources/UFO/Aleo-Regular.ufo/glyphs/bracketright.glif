@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bracketright" format="1">
-  <advance width="324"/>
-  <unicode hex="005D"/>
-  <note>
-    bracketright
-  </note>
-  <outline>
-    <contour>
-      <point x="51" y="-109" type="curve"/>
-      <point x="52" y="-110" type="line"/>
-      <point x="52" y="-144" type="line"/>
-      <point x="236" y="-144" type="line"/>
-      <point x="236" y="766" type="line"/>
-      <point x="52" y="766" type="line"/>
-      <point x="52" y="732" type="line" smooth="yes"/>
-      <point x="52" y="726"/>
-      <point x="55" y="719"/>
-      <point x="59" y="715" type="curve" smooth="yes"/>
-      <point x="63" y="711"/>
-      <point x="69" y="708"/>
-      <point x="77" y="708" type="curve" smooth="yes"/>
-      <point x="161" y="708" type="line"/>
-      <point x="161" y="-86" type="line"/>
-      <point x="77" y="-86" type="line" smooth="yes"/>
-      <point x="69" y="-86"/>
-      <point x="63" y="-88"/>
-      <point x="59" y="-92" type="curve" smooth="yes"/>
-      <point x="55" y="-96"/>
-      <point x="51" y="-103"/>
-    </contour>
-  </outline>
+<glyph name="bracketright" format="2">
+	<advance width="323"/>
+	<unicode hex="005D"/>
+	<note>
+		bracketright
+	</note>
+	<outline>
+		<contour>
+			<point x="51" y="-145" type="line"/>
+			<point x="235" y="-145" type="line"/>
+			<point x="235" y="767" type="line"/>
+			<point x="51" y="767" type="line"/>
+			<point x="51" y="732" type="line" smooth="yes"/>
+			<point x="51" y="719"/>
+			<point x="61" y="708"/>
+			<point x="76" y="708" type="curve" smooth="yes"/>
+			<point x="160" y="708" type="line"/>
+			<point x="160" y="-86" type="line"/>
+			<point x="76" y="-86" type="line" smooth="yes"/>
+			<point x="61" y="-86"/>
+			<point x="51" y="-97"/>
+			<point x="51" y="-110" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+13 12 11 10 7 5 4 2 4 7 
+CALL[ ]	/* CallFunction */
+NPUSHB[ ]	/* 33 values pushed */
+0 2 0 1 0 2 1 1 0 38 0 0 3 3 0 1 0 35 0 0 0 3 0 0 36 0 3 0 3 0 0 33 4 
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
 </glyph>

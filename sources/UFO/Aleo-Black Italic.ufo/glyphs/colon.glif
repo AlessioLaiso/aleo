@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="2">
+	<advance width="226"/>
+	<unicode hex="003A"/>
+	<note>
+		colon
+	</note>
+	<outline>
+		<contour>
+			<point x="2.837" y="79" type="curve"/>
+			<point x="2.837" y="79" type="line"/>
+			<point x="-3.179" y="30"/>
+			<point x="31.278" y="-7"/>
+			<point x="80.278" y="-7" type="curve" smooth="yes"/>
+			<point x="131.278" y="-7"/>
+			<point x="172.821" y="30"/>
+			<point x="178.837" y="79" type="curve" smooth="yes"/>
+			<point x="184.731" y="127"/>
+			<point x="151.274" y="164"/>
+			<point x="101.274" y="164" type="curve" smooth="yes"/>
+			<point x="52.274" y="164"/>
+			<point x="8.731" y="127"/>
+		</contour>
+		<contour>
+			<point x="44.707" y="420" type="curve"/>
+			<point x="44.707" y="420" type="line"/>
+			<point x="38.813" y="372"/>
+			<point x="73.27" y="335"/>
+			<point x="122.27" y="335" type="curve" smooth="yes"/>
+			<point x="172.27" y="335"/>
+			<point x="214.813" y="372"/>
+			<point x="220.707" y="420" type="curve" smooth="yes"/>
+			<point x="226.478" y="467"/>
+			<point x="193.266" y="506"/>
+			<point x="143.266" y="506" type="curve" smooth="yes"/>
+			<point x="94.266" y="506"/>
+			<point x="50.478" y="467"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+36 34 26 24 16 14 6 4 4 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+37 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 26 values pushed */
+0 3 3 2 1 0 36 0 2 2 14 31 0 0 0 1 1 0 36 0 1 1 18 1 32 4 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+0 2 0 3 0 2 3 1 0 38 0 0 0 1 1 0 36 0 1 1 18 1 32 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 33 values pushed */
+0 2 0 3 0 2 3 1 0 38 0 0 1 1 0 1 0 35 0 0 0 1 1 0 36 0 1 0 1 1 0 33 4 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>period</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>period</string>
+		</dict>
+	</lib>
+</glyph>

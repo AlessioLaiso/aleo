@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SerifBottomLeft" format="2">
+	<advance width="200"/>
+	<outline>
+		<contour>
+			<point x="-103.126" y="0" type="line"/>
+			<point x="-1.126" y="0" type="line"/>
+			<point x="-2.549" y="78" type="line"/>
+			<point x="-79.513" y="62" type="line" smooth="yes"/>
+			<point x="-90.759" y="60"/>
+			<point x="-96.618" y="53"/>
+			<point x="-98.092" y="41" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

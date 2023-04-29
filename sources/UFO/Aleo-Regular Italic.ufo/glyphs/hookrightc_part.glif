@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookrightc_part" format="2">
+	<advance width="213"/>
+	<outline>
+		<contour>
+			<point x="101.004" y="449" type="line"/>
+			<point x="112.669" y="544" type="line" smooth="yes"/>
+			<point x="118.931" y="595"/>
+			<point x="138.106" y="629"/>
+			<point x="183.106" y="629" type="curve" smooth="yes"/>
+			<point x="194.106" y="629"/>
+			<point x="202.983" y="628"/>
+			<point x="210.737" y="626" type="curve" smooth="yes"/>
+			<point x="218.369" y="623"/>
+			<point x="224.246" y="622"/>
+			<point x="228.246" y="622" type="curve" smooth="yes"/>
+			<point x="236.246" y="622"/>
+			<point x="245.492" y="624"/>
+			<point x="251.456" y="640" type="curve" smooth="yes"/>
+			<point x="265.122" y="678" type="line"/>
+			<point x="237.718" y="691"/>
+			<point x="212.332" y="696"/>
+			<point x="185.332" y="696" type="curve" smooth="yes"/>
+			<point x="92.332" y="696"/>
+			<point x="45.983" y="628"/>
+			<point x="35.178" y="540" type="curve" smooth="yes"/>
+			<point x="27.688" y="479" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

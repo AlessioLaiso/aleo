@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Phook" format="2">
+	<advance width="815"/>
+	<unicode hex="01A4"/>
+	<outline>
+		<contour>
+			<point x="246" y="0" type="line"/>
+			<point x="415" y="0" type="line"/>
+			<point x="415" y="244" type="line"/>
+			<point x="503" y="244" type="line" smooth="yes"/>
+			<point x="679" y="244"/>
+			<point x="796" y="323"/>
+			<point x="796" y="491" type="curve" smooth="yes"/>
+			<point x="796" y="649"/>
+			<point x="678" y="729"/>
+			<point x="503" y="729" type="curve" smooth="yes"/>
+			<point x="246" y="729" type="line"/>
+		</contour>
+		<contour>
+			<point x="415" y="371" type="line"/>
+			<point x="415" y="602" type="line"/>
+			<point x="503" y="602" type="line" smooth="yes"/>
+			<point x="584" y="602"/>
+			<point x="627" y="561"/>
+			<point x="627" y="491" type="curve" smooth="yes"/>
+			<point x="627" y="415"/>
+			<point x="591" y="371"/>
+			<point x="503" y="371" type="curve" smooth="yes"/>
+		</contour>
+		<component base="SerifBottomLeft" xOffset="246"/>
+		<component base="SerifBottomRight" xOffset="415"/>
+		<component base="hookleft_caps_part"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Bhook</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>P</string>
+		</dict>
+	</lib>
+</glyph>

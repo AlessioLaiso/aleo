@@ -17,6 +17,13 @@ Documentation can be found at https://github.com/AlessioLaiso/aleo/
 
 ChangeLog
 
+29 April 2023 (Alessio Laiso) Aleo Version 2.0
+- 18 styles, from thin to black
+- Variable font versions
+- Enhanced design & spacing
+- Vietnamese support
+- Pan-African Latin support
+
 19 March 2018 (Alessio Laiso) Aleo Version 1.31
 - Released Aleo for Google Fonts
 - Minor tweaks to ascent/decent metrics

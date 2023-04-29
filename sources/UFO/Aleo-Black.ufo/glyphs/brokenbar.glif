@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+	<advance width="276"/>
+	<unicode hex="00A6"/>
+	<note>
+		brokenbar
+	</note>
+	<outline>
+		<contour>
+			<point x="78" y="369" type="line"/>
+			<point x="198" y="369" type="line"/>
+			<point x="198" y="779" type="line"/>
+			<point x="78" y="779" type="line"/>
+			<point x="78" y="369" type="line"/>
+		</contour>
+		<contour>
+			<point x="78" y="-165" type="line"/>
+			<point x="198" y="-165" type="line"/>
+			<point x="198" y="245" type="line"/>
+			<point x="78" y="245" type="line"/>
+			<point x="78" y="-165" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+7 6 5 4 3 2 1 0 4 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+54 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 1 2 0 1 0 0 38 0 2 2 3 0 0 36 0 3 3 16 3 32 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 33 values pushed */
+0 0 0 1 2 0 1 0 0 38 0 2 3 3 2 0 0 35 0 2 2 3 0 0 36 0 3 2 3 0 0 33 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

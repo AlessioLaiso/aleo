@@ -1,60 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotesinglbase" format="1">
-  <advance width="208"/>
-  <unicode hex="201A"/>
-  <note>
-    quotesinglbase
-  </note>
-  <outline>
-    <contour>
-      <point x="136" y="121" type="curve"/>
-      <point x="136" y="120" type="line"/>
-      <point x="81" y="98" type="line"/>
-      <point x="72" y="94"/>
-      <point x="68" y="89"/>
-      <point x="68" y="81" type="curve" smooth="yes"/>
-      <point x="68" y="77"/>
-      <point x="69" y="74"/>
-      <point x="71" y="70" type="curve"/>
-      <point x="79" y="58"/>
-      <point x="84" y="46"/>
-      <point x="87" y="34" type="curve" smooth="yes"/>
-      <point x="90" y="22"/>
-      <point x="92" y="12"/>
-      <point x="92" y="2" type="curve" smooth="yes"/>
-      <point x="92" y="-8"/>
-      <point x="91" y="-18"/>
-      <point x="89" y="-27" type="curve" smooth="yes"/>
-      <point x="87" y="-36"/>
-      <point x="83" y="-44"/>
-      <point x="79" y="-52" type="curve" smooth="yes"/>
-      <point x="75" y="-60"/>
-      <point x="70" y="-68"/>
-      <point x="65" y="-76" type="curve" smooth="yes"/>
-      <point x="60" y="-84"/>
-      <point x="56" y="-91"/>
-      <point x="50" y="-97" type="curve" smooth="yes"/>
-      <point x="46" y="-101"/>
-      <point x="45" y="-105"/>
-      <point x="45" y="-109" type="curve" smooth="yes"/>
-      <point x="45" y="-111"/>
-      <point x="46" y="-113"/>
-      <point x="47" y="-115" type="curve" smooth="yes"/>
-      <point x="48" y="-117"/>
-      <point x="49" y="-118"/>
-      <point x="51" y="-120" type="curve"/>
-      <point x="79" y="-138" type="line"/>
-      <point x="105" y="-115"/>
-      <point x="126" y="-90"/>
-      <point x="141" y="-62" type="curve" smooth="yes"/>
-      <point x="156" y="-34"/>
-      <point x="163" y="-5"/>
-      <point x="163" y="25" type="curve" smooth="yes"/>
-      <point x="163" y="41"/>
-      <point x="161" y="57"/>
-      <point x="157" y="73" type="curve" smooth="yes"/>
-      <point x="153" y="89"/>
-      <point x="146" y="105"/>
-    </contour>
-  </outline>
+<glyph name="quotesinglbase" format="2">
+	<advance width="208"/>
+	<unicode hex="201A"/>
+	<note>
+		quotesinglbase
+	</note>
+	<outline>
+		<contour>
+			<point x="81" y="99" type="line"/>
+			<point x="72.333" y="95"/>
+			<point x="68" y="89"/>
+			<point x="68" y="81" type="curve" smooth="yes"/>
+			<point x="68" y="77.667"/>
+			<point x="69" y="74"/>
+			<point x="71" y="70" type="curve" smooth="yes"/>
+			<point x="87" y="44.667"/>
+			<point x="92" y="22.333"/>
+			<point x="92" y="1" type="curve" smooth="yes"/>
+			<point x="92" y="-36.739"/>
+			<point x="71.412" y="-71.235"/>
+			<point x="50" y="-98" type="curve" smooth="yes"/>
+			<point x="46.667" y="-101.333"/>
+			<point x="45" y="-105.333"/>
+			<point x="45" y="-110" type="curve" smooth="yes"/>
+			<point x="45" y="-114"/>
+			<point x="46.667" y="-118.333"/>
+			<point x="52" y="-121" type="curve" smooth="yes"/>
+			<point x="79" y="-138" type="line"/>
+			<point x="132.333" y="-92.667"/>
+			<point x="163" y="-36.333"/>
+			<point x="163" y="25" type="curve" smooth="yes"/>
+			<point x="163" y="57"/>
+			<point x="154.667" y="89"/>
+			<point x="136" y="121" type="curve"/>
+			<point x="81" y="99" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 4 values pushed */
+0 6 1 11 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>comma</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>comma</string>
+		</dict>
+	</lib>
 </glyph>

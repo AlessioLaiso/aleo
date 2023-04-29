@@ -1,62 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="E" format="1">
-  <advance width="615"/>
-  <unicode hex="0045"/>
-  <note>
-    E
-  </note>
-  <outline>
-    <contour>
-      <point x="570" y="716" type="line"/>
-      <point x="56" y="716" type="line"/>
-      <point x="56" y="674" type="line" smooth="yes"/>
-      <point x="56" y="664"/>
-      <point x="61" y="657"/>
-      <point x="71" y="655" type="curve"/>
-      <point x="77" y="653"/>
-      <point x="96" y="649"/>
-      <point x="128" y="643" type="curve"/>
-      <point x="128" y="72" type="line"/>
-      <point x="71" y="61" type="line" smooth="yes"/>
-      <point x="61" y="59"/>
-      <point x="56" y="52"/>
-      <point x="56" y="42" type="curve" smooth="yes"/>
-      <point x="56" y="0" type="line"/>
-      <point x="570" y="0" type="line"/>
-      <point x="570" y="166" type="line"/>
-      <point x="522" y="166" type="line" smooth="yes"/>
-      <point x="510" y="166"/>
-      <point x="502" y="162"/>
-      <point x="500" y="150" type="curve"/>
-      <point x="500" y="147"/>
-      <point x="498" y="122"/>
-      <point x="494" y="78" type="curve"/>
-      <point x="226" y="78" type="line"/>
-      <point x="226" y="323" type="line"/>
-      <point x="490" y="323" type="line"/>
-      <point x="490" y="399" type="line"/>
-      <point x="226" y="399" type="line"/>
-      <point x="226" y="637" type="line"/>
-      <point x="494" y="637" type="line"/>
-      <point x="498" y="589"/>
-      <point x="501" y="563"/>
-      <point x="501" y="560" type="curve"/>
-      <point x="503" y="548"/>
-      <point x="510" y="543"/>
-      <point x="522" y="543" type="curve" smooth="yes"/>
-      <point x="570" y="543" type="line"/>
-    </contour>
-    <contour>
-      <point x="316" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="550" y="10" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="316" y="716" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="42" y="716" type="move" name="topleft"/>
-    </contour>
-  </outline>
+<glyph name="E" format="2">
+	<advance width="592"/>
+	<unicode hex="0045"/>
+	<anchor x="395" y="3" name="ogonek"/>
+	<anchor x="323" y="0" name="bottom"/>
+	<anchor x="301" y="716" name="top"/>
+	<note>
+		E
+	</note>
+	<outline>
+		<contour>
+			<point x="105" y="0" type="line"/>
+			<point x="547" y="0" type="line"/>
+			<point x="547" y="79" type="line"/>
+			<point x="203" y="79" type="line"/>
+			<point x="203" y="323" type="line"/>
+			<point x="467" y="323" type="line"/>
+			<point x="467" y="399" type="line"/>
+			<point x="203" y="399" type="line"/>
+			<point x="203" y="638" type="line"/>
+			<point x="547" y="638" type="line"/>
+			<point x="547" y="717" type="line"/>
+			<point x="105" y="717" type="line"/>
+		</contour>
+		<component base="SerifUpLeftCaps" xOffset="547" yOffset="79"/>
+		<component base="SerifUpRightCaps" xScale="-1" yScale="-1" xOffset="547" yOffset="638"/>
+		<component base="SerifSpurLeft" xOffset="105" yOffset="717"/>
+		<component base="SerifBottomLeft" xOffset="105"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+0 0 0 11 0 11 10 9 8 7 6 5 4 3 2 1 7 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 37 values pushed */
+0 1 0 2 3 1 2 0 0 38 0 0 0 5 0 0 36 6 1 5 5 11 31 0 3 3 4 0 0 36 0 4 4 12 4 32 5 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 35 values pushed */
+6 1 5 0 0 1 5 0 0 0 38 0 1 0 2 3 1 2 0 0 38 0 3 3 4 0 0 36 0 4 4 15 4 32 4 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 44 values pushed */
+6 1 5 0 0 1 5 0 0 0 38 0 1 0 2 3 1 2 0 0 38 0 3 4 4 3 0 0 35 0 3 3 4 0 0 36 0 4 3 4 0 0 33 5 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
 </glyph>

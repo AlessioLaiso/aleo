@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="registered" format="2">
+	<advance width="800"/>
+	<unicode hex="00AE"/>
+	<anchor x="416.329" y="435" name="top"/>
+	<anchor x="362.918" y="0" name="bottom"/>
+	<note>
+		registered
+	</note>
+	<outline>
+		<contour>
+			<point x="216.108" y="140" type="line"/>
+			<point x="329.108" y="140" type="line"/>
+			<point x="329.722" y="145" type="line" smooth="yes"/>
+			<point x="329.967" y="147"/>
+			<point x="327.213" y="149"/>
+			<point x="325.213" y="149" type="curve" smooth="yes"/>
+			<point x="279.458" y="151" type="line"/>
+			<point x="303.524" y="347" type="line"/>
+			<point x="369.524" y="347" type="line" smooth="yes"/>
+			<point x="382.524" y="347"/>
+			<point x="391.401" y="346"/>
+			<point x="398.173" y="336" type="curve" smooth="yes"/>
+			<point x="532.722" y="145" type="line" smooth="yes"/>
+			<point x="535.23" y="141"/>
+			<point x="538.108" y="140"/>
+			<point x="542.108" y="140" type="curve" smooth="yes"/>
+			<point x="595.108" y="140" type="line"/>
+			<point x="595.722" y="145" type="line" smooth="yes"/>
+			<point x="595.967" y="147"/>
+			<point x="594.213" y="149"/>
+			<point x="592.213" y="149" type="curve" smooth="yes"/>
+			<point x="543.458" y="151" type="line"/>
+			<point x="409.542" y="339" type="line" smooth="yes"/>
+			<point x="407.033" y="343"/>
+			<point x="403.401" y="346"/>
+			<point x="399.647" y="348" type="curve"/>
+			<point x="480.015" y="351"/>
+			<point x="543.418" y="395"/>
+			<point x="552.013" y="465" type="curve" smooth="yes"/>
+			<point x="561.221" y="540"/>
+			<point x="514.519" y="575"/>
+			<point x="422.519" y="575" type="curve" smooth="yes"/>
+			<point x="269.519" y="575" type="line"/>
+			<point x="268.905" y="570" type="line" smooth="yes"/>
+			<point x="268.659" y="568"/>
+			<point x="270.414" y="566"/>
+			<point x="273.414" y="566" type="curve" smooth="yes"/>
+			<point x="318.168" y="564" type="line"/>
+			<point x="267.458" y="151" type="line"/>
+			<point x="222.213" y="149" type="line" smooth="yes"/>
+			<point x="220.213" y="149"/>
+			<point x="216.967" y="147"/>
+			<point x="216.722" y="145" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="304.752" y="357" type="line"/>
+			<point x="330.291" y="565" type="line"/>
+			<point x="421.291" y="565" type="line" smooth="yes"/>
+			<point x="506.291" y="565"/>
+			<point x="548.485" y="534"/>
+			<point x="540.013" y="465" type="curve" smooth="yes"/>
+			<point x="531.663" y="397"/>
+			<point x="472.752" y="357"/>
+			<point x="390.752" y="357" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="369.058" y="-7" type="curve" smooth="yes"/>
+			<point x="566.058" y="-7"/>
+			<point x="745.704" y="153"/>
+			<point x="769.892" y="350" type="curve" smooth="yes"/>
+			<point x="794.081" y="547"/>
+			<point x="653.726" y="707"/>
+			<point x="456.726" y="707" type="curve" smooth="yes"/>
+			<point x="259.726" y="707"/>
+			<point x="80.081" y="547"/>
+			<point x="55.892" y="350" type="curve" smooth="yes"/>
+			<point x="31.704" y="153"/>
+			<point x="172.058" y="-7"/>
+		</contour>
+		<contour>
+			<point x="370.532" y="5" type="curve" smooth="yes"/>
+			<point x="179.532" y="5"/>
+			<point x="43.563" y="160"/>
+			<point x="67.015" y="351" type="curve" smooth="yes"/>
+			<point x="90.344" y="541"/>
+			<point x="264.376" y="696"/>
+			<point x="455.376" y="696" type="curve" smooth="yes"/>
+			<point x="645.376" y="696"/>
+			<point x="781.344" y="541"/>
+			<point x="758.015" y="351" type="curve" smooth="yes"/>
+			<point x="734.563" y="160"/>
+			<point x="560.532" y="5"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 4 values pushed */
+20 3 0 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+47 3 48 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+53 3 75 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+10 3 32 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+58 0 10 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+62 0 10 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+47 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+71 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+10 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+81 
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+5 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+5 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+15 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+15 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+50 1 78 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+71 1 46 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+15 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+25 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+5 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+39 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+46 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+58 
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

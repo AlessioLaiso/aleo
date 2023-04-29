@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dhook" format="2">
+	<advance width="571"/>
+	<unicode hex="0257"/>
+	<anchor x="442" y="254" name="center"/>
+	<anchor x="278" y="737" name="top"/>
+	<anchor x="442" y="561" name="topright"/>
+	<anchor x="278" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="226" y="-7" type="curve" smooth="yes"/>
+			<point x="298" y="-7"/>
+			<point x="352" y="28"/>
+			<point x="396" y="80" type="curve"/>
+			<point x="404" y="19" type="line"/>
+			<point x="407" y="6"/>
+			<point x="415" y="0"/>
+			<point x="428" y="0" type="curve" smooth="yes"/>
+			<point x="481" y="0" type="line"/>
+			<point x="481" y="434" type="line"/>
+			<point x="392" y="461" type="line"/>
+			<point x="392" y="456" type="line"/>
+			<point x="357" y="493"/>
+			<point x="316" y="516"/>
+			<point x="253" y="516" type="curve" smooth="yes"/>
+			<point x="116" y="516"/>
+			<point x="34" y="399"/>
+			<point x="34" y="252" type="curve" smooth="yes"/>
+			<point x="34" y="95"/>
+			<point x="102" y="-7"/>
+		</contour>
+		<contour>
+			<point x="255" y="65" type="curve"/>
+			<point x="166" y="65"/>
+			<point x="126" y="130"/>
+			<point x="126" y="252" type="curve" smooth="yes"/>
+			<point x="126" y="376"/>
+			<point x="178" y="446"/>
+			<point x="273" y="446" type="curve" smooth="yes"/>
+			<point x="321" y="446"/>
+			<point x="359" y="431"/>
+			<point x="392" y="387" type="curve"/>
+			<point x="392" y="142" type="line"/>
+			<point x="355" y="93"/>
+			<point x="314" y="65"/>
+		</contour>
+		<component base="SerifBottomRight" xOffset="481"/>
+		<component base="hookright_lowercase_part" xOffset="392"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>d</string>
+		</dict>
+	</lib>
+</glyph>

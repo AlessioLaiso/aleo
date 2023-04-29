@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+	<advance width="394"/>
+	<unicode hex="005F"/>
+	<note>
+		underscore
+	</note>
+	<outline>
+		<contour>
+			<point x="0" y="-120" type="line"/>
+			<point x="0" y="-131" type="line"/>
+			<point x="394" y="-131" type="line"/>
+			<point x="394" y="-120" type="line"/>
+			<point x="0" y="-120" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+0 1 1 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

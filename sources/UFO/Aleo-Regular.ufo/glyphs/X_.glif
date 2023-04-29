@@ -1,96 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="X" format="1">
-  <advance width="696"/>
-  <unicode hex="0058"/>
-  <note>
-    X
-  </note>
-  <outline>
-    <contour>
-      <point x="681" y="61" type="curve"/>
-      <point x="681" y="62" type="line"/>
-      <point x="675" y="64"/>
-      <point x="653" y="68"/>
-      <point x="615" y="74" type="curve"/>
-      <point x="418" y="373" type="line"/>
-      <point x="605" y="644" type="line"/>
-      <point x="643" y="650"/>
-      <point x="666" y="654"/>
-      <point x="674" y="656" type="curve" smooth="yes"/>
-      <point x="682" y="658"/>
-      <point x="687" y="664"/>
-      <point x="687" y="674" type="curve" smooth="yes"/>
-      <point x="687" y="717" type="line"/>
-      <point x="429" y="717" type="line"/>
-      <point x="429" y="674" type="line" smooth="yes"/>
-      <point x="429" y="664"/>
-      <point x="435" y="658"/>
-      <point x="445" y="656" type="curve" smooth="yes"/>
-      <point x="471" y="651"/>
-      <point x="489" y="646"/>
-      <point x="501" y="644" type="curve"/>
-      <point x="364" y="440" type="line" smooth="yes"/>
-      <point x="359" y="432"/>
-      <point x="355" y="423"/>
-      <point x="353" y="416" type="curve"/>
-      <point x="204" y="646" type="line"/>
-      <point x="226" y="650"/>
-      <point x="242" y="653"/>
-      <point x="252" y="655" type="curve" smooth="yes"/>
-      <point x="262" y="657"/>
-      <point x="268" y="664"/>
-      <point x="268" y="674" type="curve" smooth="yes"/>
-      <point x="268" y="716" type="line"/>
-      <point x="13" y="716" type="line"/>
-      <point x="13" y="674" type="line" smooth="yes"/>
-      <point x="13" y="664"/>
-      <point x="18" y="657"/>
-      <point x="28" y="655" type="curve"/>
-      <point x="34" y="653"/>
-      <point x="56" y="649"/>
-      <point x="94" y="643" type="curve"/>
-      <point x="281" y="368" type="line"/>
-      <point x="83" y="72" type="line"/>
-      <point x="41" y="65"/>
-      <point x="19" y="61"/>
-      <point x="17" y="61" type="curve"/>
-      <point x="7" y="59"/>
-      <point x="1" y="52"/>
-      <point x="1" y="42" type="curve" smooth="yes"/>
-      <point x="1" y="0" type="line"/>
-      <point x="259" y="0" type="line"/>
-      <point x="259" y="42" type="line" smooth="yes"/>
-      <point x="259" y="52"/>
-      <point x="254" y="59"/>
-      <point x="244" y="61" type="curve" smooth="yes"/>
-      <point x="208" y="68"/>
-      <point x="189" y="72"/>
-      <point x="187" y="72" type="curve"/>
-      <point x="338" y="298" type="line" smooth="yes"/>
-      <point x="342" y="304"/>
-      <point x="345" y="311"/>
-      <point x="347" y="318" type="curve"/>
-      <point x="504" y="72" type="line"/>
-      <point x="504" y="72"/>
-      <point x="495" y="71"/>
-      <point x="478" y="67" type="curve" smooth="yes"/>
-      <point x="461" y="63"/>
-      <point x="451" y="61"/>
-      <point x="447" y="61" type="curve"/>
-      <point x="437" y="59"/>
-      <point x="432" y="52"/>
-      <point x="432" y="42" type="curve" smooth="yes"/>
-      <point x="432" y="0" type="line"/>
-      <point x="695" y="0" type="line"/>
-      <point x="695" y="42" type="line" smooth="yes"/>
-      <point x="695" y="52"/>
-      <point x="691" y="59"/>
-    </contour>
-    <contour>
-      <point x="348" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="348" y="716" type="move" name="top"/>
-    </contour>
-  </outline>
+<glyph name="X" format="2">
+	<advance width="716"/>
+	<unicode hex="0058"/>
+	<anchor x="359" y="717" name="top"/>
+	<anchor x="359" y="0" name="bottom"/>
+	<note>
+		X
+	</note>
+	<outline>
+		<contour>
+			<point x="44" y="0" type="line"/>
+			<point x="134" y="0" type="line" smooth="yes"/>
+			<point x="149" y="0"/>
+			<point x="155" y="9"/>
+			<point x="161" y="19" type="curve" smooth="yes"/>
+			<point x="348" y="299" type="line" smooth="yes"/>
+			<point x="351" y="306"/>
+			<point x="354" y="312"/>
+			<point x="357" y="319" type="curve"/>
+			<point x="549" y="19" type="line" smooth="yes"/>
+			<point x="555" y="10"/>
+			<point x="561" y="0"/>
+			<point x="576" y="0" type="curve" smooth="yes"/>
+			<point x="672" y="0" type="line"/>
+			<point x="427" y="373" type="line"/>
+			<point x="664" y="717" type="line"/>
+			<point x="572" y="717" type="line" smooth="yes"/>
+			<point x="561" y="717"/>
+			<point x="556" y="711"/>
+			<point x="549" y="701" type="curve" smooth="yes"/>
+			<point x="373" y="439" type="line" smooth="yes"/>
+			<point x="368" y="431"/>
+			<point x="365" y="423"/>
+			<point x="362" y="416" type="curve"/>
+			<point x="175" y="703" type="line" smooth="yes"/>
+			<point x="169" y="712"/>
+			<point x="164" y="717"/>
+			<point x="151" y="717" type="curve" smooth="yes"/>
+			<point x="54" y="717" type="line"/>
+			<point x="291" y="368" type="line"/>
+		</contour>
+		<contour>
+			<point x="97" y="0" type="line"/>
+			<point x="182" y="0" type="line"/>
+			<point x="182" y="40" type="line"/>
+			<point x="97" y="40" type="line"/>
+		</contour>
+		<contour>
+			<point x="530" y="0" type="line"/>
+			<point x="615" y="0" type="line"/>
+			<point x="615" y="40" type="line"/>
+			<point x="530" y="40" type="line"/>
+		</contour>
+		<contour>
+			<point x="120" y="692" type="line"/>
+			<point x="195" y="692" type="line"/>
+			<point x="195" y="717" type="line"/>
+			<point x="120" y="717" type="line"/>
+		</contour>
+		<contour>
+			<point x="534" y="692" type="line"/>
+			<point x="609" y="692" type="line"/>
+			<point x="609" y="717" type="line"/>
+			<point x="534" y="717" type="line"/>
+		</contour>
+		<component base="SerifSpurLeft" xOffset="96" yOffset="717"/>
+		<component base="SerifSpurRight" xOffset="208" yOffset="717"/>
+		<component base="SerifSpurLeft" xOffset="516" yOffset="717"/>
+		<component base="SerifSpurRight" xOffset="628" yOffset="717"/>
+		<component base="SerifSpurRight" xScale="-1" yScale="-1" xOffset="85"/>
+		<component base="SerifSpurLeft" xScale="-1" yScale="-1" xOffset="197"/>
+		<component base="SerifSpurLeft" xScale="-1" yScale="-1" xOffset="631"/>
+		<component base="SerifSpurRight" xScale="-1" yScale="-1" xOffset="519"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 10 values pushed */
+27 25 17 15 13 11 3 1 4 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 21 values pushed */
+14 0 2 2 0 1 30 1 1 0 0 11 31 3 1 2 2 12 2 32 3 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 23 values pushed */
+14 0 2 2 0 1 30 1 1 0 0 2 1 0 36 3 1 2 2 15 2 32 3 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 33 values pushed */
+14 0 2 2 0 1 30 1 1 0 2 2 0 1 0 35 1 1 0 0 2 1 0 36 3 1 2 0 2 1 0 33 4 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 40 values pushed */
+14 0 2 3 1 1 30 0 1 3 2 1 1 0 35 0 0 0 3 2 0 3 1 0 38 0 1 1 2 1 0 36 0 2 1 2 1 0 33 5 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+		</dict>
+	</lib>
 </glyph>

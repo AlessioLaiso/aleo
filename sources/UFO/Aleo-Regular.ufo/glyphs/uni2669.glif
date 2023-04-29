@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2669" format="1">
-  <advance width="112"/>
-  <unicode hex="2669"/>
-  <note>
-    uni2669
-  </note>
-  <outline>
-    <contour>
-      <point x="58" y="736" type="line"/>
-      <point x="56" y="736" type="line"/>
-      <point x="56" y="-172" type="line"/>
-      <point x="58" y="-172" type="line"/>
-    </contour>
-  </outline>
+<glyph name="uni2669" format="2">
+	<advance width="0"/>
+	<unicode hex="2669"/>
+	<note>
+		uni2669
+	</note>
+	<outline>
+		<contour>
+			<point x="-1" y="-172" type="line"/>
+			<point x="1" y="-172" type="line"/>
+			<point x="1" y="737" type="line"/>
+			<point x="-1" y="737" type="line"/>
+			<point x="-1" y="-172" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+3 2 1 0 2 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+73 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+0 0 0 13 31 0 1 1 16 1 32 2 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+141 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+0 1 0 1 53 0 0 0 13 0 32 2 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 10 values pushed */
+0 0 1 0 52 0 1 1 43 2 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
 </glyph>

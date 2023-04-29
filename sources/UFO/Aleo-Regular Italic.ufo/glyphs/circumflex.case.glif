@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="2">
+	<advance width="307"/>
+	<note>
+		circumflex.case
+	</note>
+	<outline>
+		<contour>
+			<point x="53.787" y="773" type="line"/>
+			<point x="121.787" y="773" type="line" smooth="yes"/>
+			<point x="129.787" y="773"/>
+			<point x="141.155" y="776"/>
+			<point x="146.646" y="780" type="curve" smooth="yes"/>
+			<point x="223.908" y="831" type="line"/>
+			<point x="288.646" y="780" type="line" smooth="yes"/>
+			<point x="295.155" y="776"/>
+			<point x="304.787" y="773"/>
+			<point x="312.787" y="773" type="curve" smooth="yes"/>
+			<point x="379.787" y="773" type="line"/>
+			<point x="273.679" y="878" type="line"/>
+			<point x="185.679" y="878" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 8 values pushed */
+16 15 14 12 2 0 3 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 17 values pushed */
+7 1 0 2 1 30 0 2 0 2 52 1 1 0 0 43 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 21 values pushed */
+7 1 1 2 1 30 0 2 1 2 52 0 1 0 1 52 0 0 0 43 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

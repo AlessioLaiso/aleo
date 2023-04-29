@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="2">
+	<advance width="601"/>
+	<unicode hex="0031"/>
+	<note>
+		one
+	</note>
+	<outline>
+		<contour>
+			<point x="97.874" y="0" type="line"/>
+			<point x="481.874" y="0" type="line"/>
+			<point x="486.908" y="41" type="line" smooth="yes"/>
+			<point x="488.259" y="52"/>
+			<point x="482.996" y="58"/>
+			<point x="472.118" y="59" type="curve" smooth="yes"/>
+			<point x="349.223" y="68" type="line"/>
+			<point x="429.033" y="718" type="line"/>
+			<point x="356.033" y="718" type="line"/>
+			<point x="120.441" y="534" type="line"/>
+			<point x="143.652" y="495" type="line" smooth="yes"/>
+			<point x="147.039" y="490"/>
+			<point x="154.302" y="484"/>
+			<point x="165.302" y="484" type="curve" smooth="yes"/>
+			<point x="170.302" y="484"/>
+			<point x="177.547" y="486"/>
+			<point x="185.284" y="492" type="curve" smooth="yes"/>
+			<point x="326.668" y="601" type="line"/>
+			<point x="323.826" y="586"/>
+			<point x="322.107" y="572"/>
+			<point x="320.265" y="557" type="curve" smooth="yes"/>
+			<point x="260.223" y="68" type="line"/>
+			<point x="122.118" y="59" type="line" smooth="yes"/>
+			<point x="110.996" y="58"/>
+			<point x="104.259" y="52"/>
+			<point x="102.908" y="41" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 12 values pushed */
+18 17 16 15 14 13 9 7 1 0 5 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+95 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 35 values pushed */
+12 4 2 1 2 1 30 0 1 2 0 2 1 0 50 0 2 2 11 31 3 1 0 0 4 0 2 36 0 4 4 12 4 32 5 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+108 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+12 4 2 1 2 1 30 0 2 1 2 52 0 1 0 1 52 3 1 0 0 4 0 2 36 0 4 4 15 4 32 5 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 42 values pushed */
+12 4 2 1 2 1 30 0 2 1 2 52 0 1 0 1 52 3 1 0 4 4 0 0 0 35 3 1 0 0 4 0 2 36 0 4 0 4 0 2 33 6 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 47 values pushed */
+12 4 2 1 2 1 30 0 2 1 2 52 0 1 0 1 52 0 3 0 4 0 3 42 0 0 3 4 0 0 0 35 0 0 0 4 0 2 36 0 4 0 4 0 2 33 7 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

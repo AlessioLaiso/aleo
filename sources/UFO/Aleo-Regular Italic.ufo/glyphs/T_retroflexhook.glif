@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tretroflexhook" format="2">
+	<advance width="599"/>
+	<unicode hex="01AE"/>
+	<anchor x="312.954" y="359" name="center"/>
+	<anchor x="268.874" y="0" name="bottom"/>
+	<anchor x="356.911" y="717" name="top"/>
+	<outline>
+		<contour>
+			<point x="220.874" y="0" type="line"/>
+			<point x="317.874" y="0" type="line"/>
+			<point x="395.842" y="635" type="line"/>
+			<point x="626.842" y="635" type="line"/>
+			<point x="636.911" y="717" type="line"/>
+			<point x="75.911" y="717" type="line"/>
+			<point x="65.842" y="635" type="line"/>
+			<point x="298.842" y="635" type="line"/>
+		</contour>
+		<contour>
+			<point x="349.527" y="-182" type="curve" smooth="yes"/>
+			<point x="377.527" y="-182"/>
+			<point x="393.141" y="-177"/>
+			<point x="407.755" y="-172" type="curve"/>
+			<point x="409.035" y="-129" type="line" smooth="yes"/>
+			<point x="409.736" y="-107"/>
+			<point x="403.754" y="-115"/>
+			<point x="369.754" y="-115" type="curve" smooth="yes"/>
+			<point x="324.754" y="-115"/>
+			<point x="305.473" y="-101"/>
+			<point x="314.436" y="-28" type="curve" smooth="yes"/>
+			<point x="324.013" y="50" type="line"/>
+			<point x="227.013" y="50" type="line"/>
+			<point x="217.068" y="-31" type="line" smooth="yes"/>
+			<point x="203.684" y="-140"/>
+			<point x="264.527" y="-182"/>
+		</contour>
+		<contour>
+			<point x="547.912" y="660" type="line"/>
+			<point x="550.633" y="560" type="line" smooth="yes"/>
+			<point x="551.16" y="548"/>
+			<point x="558.669" y="544"/>
+			<point x="569.669" y="544" type="curve" smooth="yes"/>
+			<point x="615.669" y="544" type="line"/>
+			<point x="626.842" y="635" type="line"/>
+			<point x="547.912" y="660" type="line"/>
+		</contour>
+		<contour>
+			<point x="150.912" y="660" type="line"/>
+			<point x="65.842" y="635" type="line"/>
+			<point x="54.669" y="544" type="line"/>
+			<point x="100.669" y="544" type="line" smooth="yes"/>
+			<point x="111.669" y="544"/>
+			<point x="120.16" y="548"/>
+			<point x="123.633" y="560" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

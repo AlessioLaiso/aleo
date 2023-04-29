@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand" format="2">
+	<advance width="666"/>
+	<unicode hex="0026"/>
+	<note>
+		ampersand
+	</note>
+	<outline>
+		<contour>
+			<point x="203.936" y="-8" type="curve" smooth="yes"/>
+			<point x="313.936" y="-8"/>
+			<point x="409.303" y="52"/>
+			<point x="477.125" y="132" type="curve"/>
+			<point x="591.532" y="5" type="line" smooth="yes"/>
+			<point x="597.918" y="0"/>
+			<point x="600.918" y="0"/>
+			<point x="605.918" y="0" type="curve" smooth="yes"/>
+			<point x="613.918" y="0" type="line"/>
+			<point x="484.23" y="141" type="line"/>
+			<point x="531.229" y="198"/>
+			<point x="560.087" y="262"/>
+			<point x="567.104" y="311" type="curve"/>
+			<point x="563.104" y="311" type="line" smooth="yes"/>
+			<point x="558.104" y="311"/>
+			<point x="556.735" y="308"/>
+			<point x="555.122" y="303" type="curve"/>
+			<point x="544.228" y="255"/>
+			<point x="518.352" y="199"/>
+			<point x="477.09" y="148" type="curve"/>
+			<point x="267.085" y="376" type="line" smooth="yes"/>
+			<point x="209.82" y="439"/>
+			<point x="182.573" y="494"/>
+			<point x="190.063" y="555" type="curve" smooth="yes"/>
+			<point x="200.5" y="640"/>
+			<point x="272.621" y="698"/>
+			<point x="362.621" y="698" type="curve" smooth="yes"/>
+			<point x="446.621" y="698"/>
+			<point x="492.518" y="632"/>
+			<point x="489.624" y="584" type="curve" smooth="yes"/>
+			<point x="489.642" y="576"/>
+			<point x="493.642" y="576"/>
+			<point x="496.642" y="576" type="curve" smooth="yes"/>
+			<point x="499.642" y="576" type="line"/>
+			<point x="508.482" y="648"/>
+			<point x="439.849" y="708"/>
+			<point x="363.849" y="708" type="curve" smooth="yes"/>
+			<point x="267.849" y="708"/>
+			<point x="189.114" y="645"/>
+			<point x="178.063" y="555" type="curve" smooth="yes"/>
+			<point x="170.328" y="492"/>
+			<point x="196.189" y="442"/>
+			<point x="240.681" y="389" type="curve"/>
+			<point x="135.384" y="354"/>
+			<point x="44.561" y="274"/>
+			<point x="32.037" y="172" type="curve" smooth="yes"/>
+			<point x="18.408" y="61"/>
+			<point x="103.936" y="-8"/>
+		</contour>
+		<contour>
+			<point x="205.163" y="2" type="curve" smooth="yes"/>
+			<point x="118.163" y="2"/>
+			<point x="30.776" y="64"/>
+			<point x="44.037" y="172" type="curve"/>
+			<point x="44.037" y="172" type="line"/>
+			<point x="55.701" y="267"/>
+			<point x="143.892" y="350"/>
+			<point x="247.699" y="381" type="curve"/>
+			<point x="469.985" y="139" type="line"/>
+			<point x="407.53" y="62"/>
+			<point x="311.163" y="2"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+44 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+44 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDRP[11100]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

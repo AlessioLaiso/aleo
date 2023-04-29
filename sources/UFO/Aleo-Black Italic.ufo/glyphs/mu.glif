@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="2">
+	<advance width="647"/>
+	<unicode hex="00B5"/>
+	<anchor x="501.506" y="3" name="ogonek"/>
+	<anchor x="337.863" y="519" name="top"/>
+	<anchor x="562.863" y="519" name="topright"/>
+	<anchor x="256.137" y="0" name="bottom"/>
+	<note>
+		mu
+	</note>
+	<outline>
+		<contour>
+			<point x="65.878" y="-165" type="curve" smooth="yes"/>
+			<point x="142.878" y="-165" type="line"/>
+			<point x="155.77" y="-60" type="line" smooth="yes"/>
+			<point x="159.372" y="-30.667"/>
+			<point x="161.582" y="6.333"/>
+			<point x="154.68" y="37" type="curve" smooth="yes"/>
+			<point x="81.863" y="519" type="line"/>
+			<point x="5.491" y="-103" type="line" smooth="yes"/>
+			<point x="0.579" y="-143"/>
+			<point x="23.211" y="-165"/>
+		</contour>
+		<contour>
+			<point x="223.155" y="-8" type="curve" smooth="yes"/>
+			<point x="287.155" y="-8"/>
+			<point x="336.348" y="18"/>
+			<point x="382.013" y="56" type="curve"/>
+			<point x="387.33" y="26" type="line" smooth="yes"/>
+			<point x="390.12" y="8"/>
+			<point x="403.137" y="0"/>
+			<point x="422.137" y="0" type="curve" smooth="yes"/>
+			<point x="518.137" y="0" type="line"/>
+			<point x="581.863" y="519" type="line"/>
+			<point x="426.863" y="519" type="line"/>
+			<point x="381.432" y="149" type="line"/>
+			<point x="350.363" y="124"/>
+			<point x="320.521" y="109"/>
+			<point x="285.521" y="109" type="curve" smooth="yes"/>
+			<point x="240.521" y="109"/>
+			<point x="220.082" y="138"/>
+			<point x="226.466" y="190" type="curve" smooth="yes"/>
+			<point x="266.863" y="519" type="line"/>
+			<point x="111.863" y="519" type="line"/>
+			<point x="71.466" y="190" type="line" smooth="yes"/>
+			<point x="57.469" y="76"/>
+			<point x="111.155" y="-8"/>
+		</contour>
+		<contour>
+			<point x="498.137" y="0" type="line"/>
+			<point x="595.137" y="0" type="line"/>
+			<point x="603.855" y="71" type="line" smooth="yes"/>
+			<point x="606.679" y="94"/>
+			<point x="592.907" y="104"/>
+			<point x="569.521" y="109" type="curve" smooth="yes"/>
+			<point x="526.626" y="118" type="line"/>
+		</contour>
+		<contour>
+			<point x="131.863" y="519" type="line"/>
+			<point x="34.863" y="519" type="line"/>
+			<point x="26.145" y="448" type="line" smooth="yes"/>
+			<point x="23.321" y="425"/>
+			<point x="37.093" y="415"/>
+			<point x="60.479" y="410" type="curve" smooth="yes"/>
+			<point x="103.374" y="401" type="line"/>
+		</contour>
+		<contour>
+			<point x="446.863" y="519" type="line"/>
+			<point x="349.863" y="519" type="line"/>
+			<point x="341.145" y="448" type="line" smooth="yes"/>
+			<point x="338.321" y="425"/>
+			<point x="352.093" y="415"/>
+			<point x="375.479" y="410" type="curve" smooth="yes"/>
+			<point x="418.374" y="401" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+0 0 0 32 0 32 29 27 21 19 12 10 9 8 5 3 7 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+22 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 38 values pushed */
+7 1 0 1 23 15 2 2 0 2 30 6 5 2 1 1 14 31 0 0 0 2 1 0 36 3 1 2 2 12 31 0 4 4 16 4 32 5 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+45 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 42 values pushed */
+7 1 0 1 23 15 2 3 0 2 30 6 5 2 1 1 14 31 0 0 0 3 1 0 36 0 3 3 12 31 0 2 2 12 31 0 4 4 16 4 32 6 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+54 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 40 values pushed */
+7 1 0 1 23 15 2 3 0 2 30 0 0 0 3 2 0 3 1 0 38 6 5 2 1 1 14 31 0 2 2 12 31 0 4 4 16 4 32 5 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 42 values pushed */
+7 1 0 1 23 15 2 3 0 2 30 0 0 0 3 2 0 3 1 0 38 0 2 2 12 31 0 4 4 1 0 0 36 6 5 2 1 1 14 4 32 5 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 50 values pushed */
+7 1 0 1 23 15 2 3 0 2 30 0 0 0 3 2 0 3 1 0 38 6 5 2 1 0 2 4 1 2 1 0 38 6 5 2 1 1 4 1 0 36 0 4 1 4 1 0 33 5 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 56 values pushed */
+7 1 0 5 23 15 2 3 0 2 30 6 1 5 0 4 5 0 0 35 0 0 0 3 2 0 3 1 0 38 0 1 0 2 4 1 2 1 0 38 6 1 5 5 4 1 0 36 0 4 5 4 1 0 33 6 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>u</string>
+		</dict>
+	</lib>
+</glyph>

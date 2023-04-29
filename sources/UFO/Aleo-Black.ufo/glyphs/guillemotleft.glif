@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+	<advance width="506"/>
+	<unicode hex="00AB"/>
+	<note>
+		guillemotleft
+	</note>
+	<outline>
+		<contour>
+			<point x="186" y="62" type="line"/>
+			<point x="237" y="85" type="line" smooth="yes"/>
+			<point x="253" y="91.667"/>
+			<point x="261" y="102.667"/>
+			<point x="261" y="116" type="curve" smooth="yes"/>
+			<point x="261" y="124"/>
+			<point x="258.333" y="132.333"/>
+			<point x="253" y="141" type="curve" smooth="yes"/>
+			<point x="193" y="249" type="line" smooth="yes"/>
+			<point x="187" y="259"/>
+			<point x="181" y="266.667"/>
+			<point x="175" y="272" type="curve"/>
+			<point x="181.667" y="278"/>
+			<point x="187.667" y="286"/>
+			<point x="193" y="296" type="curve" smooth="yes"/>
+			<point x="253" y="403" type="line" smooth="yes"/>
+			<point x="258.333" y="412.333"/>
+			<point x="261" y="421"/>
+			<point x="261" y="429" type="curve" smooth="yes"/>
+			<point x="261" y="442.333"/>
+			<point x="253" y="453.333"/>
+			<point x="237" y="460" type="curve" smooth="yes"/>
+			<point x="186" y="483" type="line"/>
+			<point x="55" y="282" type="line"/>
+			<point x="55" y="263" type="line"/>
+			<point x="186" y="62" type="line"/>
+		</contour>
+		<contour>
+			<point x="366" y="62" type="line"/>
+			<point x="417" y="85" type="line" smooth="yes"/>
+			<point x="433" y="91.667"/>
+			<point x="441" y="102.667"/>
+			<point x="441" y="116" type="curve" smooth="yes"/>
+			<point x="441" y="124"/>
+			<point x="438.333" y="132.333"/>
+			<point x="433" y="141" type="curve" smooth="yes"/>
+			<point x="373" y="249" type="line" smooth="yes"/>
+			<point x="367" y="259"/>
+			<point x="361" y="266.667"/>
+			<point x="355" y="272" type="curve"/>
+			<point x="361.667" y="278"/>
+			<point x="367.667" y="286"/>
+			<point x="373" y="296" type="curve" smooth="yes"/>
+			<point x="433" y="403" type="line" smooth="yes"/>
+			<point x="438.333" y="412.333"/>
+			<point x="441" y="421"/>
+			<point x="441" y="429" type="curve" smooth="yes"/>
+			<point x="441" y="442.333"/>
+			<point x="433" y="453.333"/>
+			<point x="417" y="460" type="curve" smooth="yes"/>
+			<point x="366" y="483" type="line"/>
+			<point x="235" y="282" type="line"/>
+			<point x="235" y="263" type="line"/>
+			<point x="366" y="62" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+23 41 2 20 2 11 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

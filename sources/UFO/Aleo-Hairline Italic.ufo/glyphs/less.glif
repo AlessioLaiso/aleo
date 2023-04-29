@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+	<advance width="501"/>
+	<unicode hex="003C"/>
+	<note>
+		less
+	</note>
+	<outline>
+		<contour>
+			<point x="44.682" y="332" type="line"/>
+			<point x="386.844" y="146" type="line"/>
+			<point x="387.581" y="152" type="line" smooth="yes"/>
+			<point x="387.949" y="155"/>
+			<point x="385.441" y="159"/>
+			<point x="379.809" y="162" type="curve" smooth="yes"/>
+			<point x="77.823" y="325" type="line" smooth="yes"/>
+			<point x="70.314" y="329"/>
+			<point x="63.682" y="332"/>
+			<point x="56.051" y="335" type="curve"/>
+			<point x="64.419" y="338"/>
+			<point x="71.787" y="341"/>
+			<point x="80.278" y="345" type="curve" smooth="yes"/>
+			<point x="422.292" y="508" type="line" smooth="yes"/>
+			<point x="428.661" y="511"/>
+			<point x="432.152" y="515"/>
+			<point x="432.643" y="519" type="curve" smooth="yes"/>
+			<point x="433.257" y="524" type="line"/>
+			<point x="45.419" y="338" type="line"/>
+			<point x="44.682" y="332" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 4 values pushed */
+8 3 0 4 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+1 15 3 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

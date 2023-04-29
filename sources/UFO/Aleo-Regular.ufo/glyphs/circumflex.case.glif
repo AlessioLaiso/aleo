@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflex.case" format="1">
-  <advance width="446"/>
-  <note>
-    circumflex.case
-  </note>
-  <outline>
-    <contour>
-      <point x="319" y="772" type="curve" smooth="yes"/>
-      <point x="386" y="773" type="line"/>
-      <point x="268" y="878" type="line"/>
-      <point x="180" y="878" type="line"/>
-      <point x="60" y="773" type="line"/>
-      <point x="128" y="773" type="line" smooth="yes"/>
-      <point x="132" y="773"/>
-      <point x="137" y="773"/>
-      <point x="141" y="774" type="curve" smooth="yes"/>
-      <point x="145" y="775"/>
-      <point x="149" y="777"/>
-      <point x="152" y="779" type="curve" smooth="yes"/>
-      <point x="218" y="826" type="line"/>
-      <point x="220" y="826"/>
-      <point x="222" y="828"/>
-      <point x="224" y="830" type="curve"/>
-      <point x="226" y="828"/>
-      <point x="228" y="828"/>
-      <point x="230" y="826" type="curve"/>
-      <point x="294" y="778" type="line"/>
-      <point x="297" y="776"/>
-      <point x="302" y="775"/>
-      <point x="306" y="774" type="curve" smooth="yes"/>
-      <point x="310" y="773"/>
-      <point x="315" y="772"/>
-    </contour>
-  </outline>
+<glyph name="circumflex.case" format="2">
+	<advance width="307"/>
+	<note>
+		circumflex.case
+	</note>
+	<outline>
+		<contour>
+			<point x="-10" y="773" type="line"/>
+			<point x="58" y="773" type="line" smooth="yes"/>
+			<point x="66" y="773"/>
+			<point x="77" y="776"/>
+			<point x="82" y="780" type="curve" smooth="yes"/>
+			<point x="153" y="831" type="line"/>
+			<point x="224" y="780" type="line" smooth="yes"/>
+			<point x="231" y="776"/>
+			<point x="241" y="773"/>
+			<point x="249" y="773" type="curve" smooth="yes"/>
+			<point x="316" y="773" type="line"/>
+			<point x="197" y="878" type="line"/>
+			<point x="109" y="878" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 8 values pushed */
+16 15 14 12 2 0 3 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 17 values pushed */
+7 1 0 2 1 30 0 2 0 2 52 1 1 0 0 43 3 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 21 values pushed */
+7 1 1 2 1 30 0 2 1 2 52 0 1 0 1 52 0 0 0 43 4 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
 </glyph>

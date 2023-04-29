@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+	<advance width="355.8"/>
+	<unicode hex="00B9"/>
+	<note>
+		onesuperior
+	</note>
+	<outline>
+		<contour>
+			<point x="112.327" y="450" type="line"/>
+			<point x="318.327" y="450" type="line"/>
+			<point x="321.765" y="478" type="line" smooth="yes"/>
+			<point x="322.87" y="487"/>
+			<point x="318.607" y="493"/>
+			<point x="309.73" y="494" type="curve" smooth="yes"/>
+			<point x="259.466" y="500" type="line"/>
+			<point x="298.757" y="820" type="line"/>
+			<point x="242.757" y="820" type="line"/>
+			<point x="117.97" y="724" type="line"/>
+			<point x="135.409" y="695" type="line" smooth="yes"/>
+			<point x="139.55" y="688"/>
+			<point x="151.936" y="683"/>
+			<point x="166.164" y="693" type="curve" smooth="yes"/>
+			<point x="221.321" y="735" type="line"/>
+			<point x="220.216" y="726"/>
+			<point x="218.111" y="717"/>
+			<point x="217.006" y="708" type="curve" smooth="yes"/>
+			<point x="191.466" y="500" type="line"/>
+			<point x="131.73" y="494" type="line" smooth="yes"/>
+			<point x="120.607" y="493"/>
+			<point x="116.625" y="485"/>
+			<point x="115.765" y="478" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>51</integer>
+				<key>weight</key>
+				<integer>-24</integer>
+				<key>width</key>
+				<integer>51</integer>
+			</dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 12 values pushed */
+15 14 13 12 11 10 7 5 1 0 5 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+36 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 33 values pushed */
+9 3 2 3 1 2 1 30 0 2 1 2 52 0 1 0 1 52 0 4 4 0 0 0 36 3 1 0 0 14 4 32 5 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+232 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 43 values pushed */
+9 3 2 3 1 2 1 30 0 2 1 2 52 0 1 0 1 52 3 1 0 4 4 0 0 0 35 3 1 0 0 4 0 2 36 0 4 0 4 0 2 33 6 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 48 values pushed */
+9 3 2 3 1 2 1 30 0 2 1 2 52 0 1 0 1 52 0 3 0 4 0 3 42 0 0 3 4 0 0 0 35 0 0 0 4 0 2 36 0 4 0 4 0 2 33 7 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=one*0.7</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=one*0.7</string>
+		</dict>
+	</lib>
+</glyph>

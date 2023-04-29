@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="2">
+	<advance width="216"/>
+	<unicode hex="0060"/>
+	<note>
+		grave
+	</note>
+	<outline>
+		<contour>
+			<point x="106.849" y="708" type="line"/>
+			<point x="192.501" y="583" type="line" smooth="yes"/>
+			<point x="194.133" y="580"/>
+			<point x="197.01" y="579"/>
+			<point x="200.01" y="579" type="curve" smooth="yes"/>
+			<point x="207.01" y="579" type="line"/>
+			<point x="139.499" y="697" type="line"/>
+			<point x="135.604" y="706"/>
+			<point x="131.849" y="708"/>
+			<point x="119.849" y="708" type="curve" smooth="yes"/>
+			<point x="106.849" y="708" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+4 8 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

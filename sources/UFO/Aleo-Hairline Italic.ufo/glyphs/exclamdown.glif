@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+	<advance width="241"/>
+	<unicode hex="00A1"/>
+	<note>
+		exclamdown
+	</note>
+	<outline>
+		<contour>
+			<point x="77.817" y="-180" type="line"/>
+			<point x="112.073" y="99" type="line" smooth="yes"/>
+			<point x="115.511" y="127"/>
+			<point x="127.754" y="243"/>
+			<point x="130.684" y="275" type="curve"/>
+			<point x="122.684" y="275" type="line"/>
+			<point x="117.018" y="237"/>
+			<point x="102.248" y="133"/>
+			<point x="98.073" y="99" type="curve" smooth="yes"/>
+			<point x="63.817" y="-180" type="line"/>
+			<point x="77.817" y="-180" type="line"/>
+		</contour>
+		<contour>
+			<point x="116.135" y="466" type="curve"/>
+			<point x="116.135" y="466" type="line"/>
+			<point x="114.048" y="449"/>
+			<point x="127.083" y="433"/>
+			<point x="144.083" y="433" type="curve" smooth="yes"/>
+			<point x="163.083" y="433"/>
+			<point x="179.048" y="449"/>
+			<point x="181.135" y="466" type="curve" smooth="yes"/>
+			<point x="183.468" y="485"/>
+			<point x="171.064" y="498"/>
+			<point x="152.064" y="498" type="curve" smooth="yes"/>
+			<point x="135.064" y="498"/>
+			<point x="118.468" y="485"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+20 14 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+17 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+17 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+23 
+MDRP[11100]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>exclam</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>exclam</string>
+		</dict>
+	</lib>
+</glyph>

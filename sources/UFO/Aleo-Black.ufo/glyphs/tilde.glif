@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+	<advance width="395"/>
+	<unicode hex="02DC"/>
+	<note>
+		tilde
+	</note>
+	<outline>
+		<contour>
+			<point x="249" y="694" type="curve"/>
+			<point x="249" y="694" type="line"/>
+			<point x="226" y="694"/>
+			<point x="182" y="731"/>
+			<point x="140" y="731" type="curve" smooth="yes"/>
+			<point x="74" y="731"/>
+			<point x="25" y="672"/>
+			<point x="25" y="593" type="curve"/>
+			<point x="120" y="593" type="line"/>
+			<point x="120" y="621"/>
+			<point x="130" y="627"/>
+			<point x="146" y="627" type="curve" smooth="yes"/>
+			<point x="170" y="627"/>
+			<point x="212" y="590"/>
+			<point x="255" y="590" type="curve" smooth="yes"/>
+			<point x="324" y="590"/>
+			<point x="370" y="646"/>
+			<point x="370" y="727" type="curve"/>
+			<point x="276" y="727" type="line"/>
+			<point x="276" y="699"/>
+			<point x="265" y="694"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 18 values pushed */
+1 0 24 22 18 17 15 13 10 8 4 3 0 27 1 27 7 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+58 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 26 values pushed */
+6 1 0 4 1 2 0 2 1 2 37 0 3 3 1 1 0 36 5 1 1 1 11 3 32 3 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+77 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 30 values pushed */
+6 1 0 4 1 2 0 2 1 2 37 0 1 1 11 31 0 3 3 5 1 0 36 0 5 5 11 3 32 4 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+94 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 37 values pushed */
+0 4 3 2 3 4 2 50 6 1 0 0 2 0 2 1 2 37 0 1 1 11 31 0 3 3 5 1 0 36 0 5 5 11 3 32 5 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 51 values pushed */
+0 1 5 0 5 1 0 50 0 4 3 2 3 4 2 50 6 1 0 3 2 0 1 0 35 0 5 0 3 4 5 3 1 0 38 6 1 0 0 2 1 2 36 0 2 0 2 1 2 33 6 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

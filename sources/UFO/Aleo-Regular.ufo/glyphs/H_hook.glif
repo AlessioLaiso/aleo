@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hhook" format="2">
+	<advance width="928"/>
+	<unicode hex="A7AA"/>
+	<anchor x="532" y="361" name="center"/>
+	<anchor x="532" y="717" name="top"/>
+	<anchor x="183" y="717" name="topleft"/>
+	<anchor x="532" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="241" y="0" type="line"/>
+			<point x="339" y="0" type="line"/>
+			<point x="339" y="326" type="line"/>
+			<point x="725" y="326" type="line"/>
+			<point x="725" y="0" type="line"/>
+			<point x="823" y="0" type="line"/>
+			<point x="823" y="717" type="line"/>
+			<point x="725" y="717" type="line"/>
+			<point x="725" y="397" type="line"/>
+			<point x="339" y="397" type="line"/>
+			<point x="339" y="717" type="line"/>
+			<point x="241" y="717" type="line"/>
+		</contour>
+		<component base="SerifBottomLeft" xOffset="241"/>
+		<component base="SerifBottomRight" xOffset="339"/>
+		<component base="SerifSpurRight" xOffset="339" yOffset="717"/>
+		<component base="SerifBottomLeft" xOffset="724"/>
+		<component base="SerifBottomRight" xOffset="823"/>
+		<component base="SerifSpurLeft" xOffset="724" yOffset="717"/>
+		<component base="SerifSpurRight" xOffset="823" yOffset="717"/>
+		<component base="hookleft_caps_part"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Bhook</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

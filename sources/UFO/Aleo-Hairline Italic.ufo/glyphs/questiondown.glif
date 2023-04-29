@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="2">
+	<advance width="377"/>
+	<unicode hex="00BF"/>
+	<note>
+		questiondown
+	</note>
+	<outline>
+		<contour>
+			<point x="217.789" y="284" type="line"/>
+			<point x="209.789" y="284" type="line"/>
+			<point x="196.229" y="198" type="line" smooth="yes"/>
+			<point x="190.932" y="163"/>
+			<point x="141.494" y="135"/>
+			<point x="98.933" y="106" type="curve" smooth="yes"/>
+			<point x="49.758" y="72"/>
+			<point x="7.11" y="26"/>
+			<point x="-1.485" y="-44" type="curve" smooth="yes"/>
+			<point x="-12.29" y="-132"/>
+			<point x="57.08" y="-186"/>
+			<point x="141.08" y="-186" type="curve" smooth="yes"/>
+			<point x="206.08" y="-186"/>
+			<point x="260.763" y="-156"/>
+			<point x="300.429" y="-118" type="curve"/>
+			<point x="297.798" y="-115" type="line" smooth="yes"/>
+			<point x="296.043" y="-113"/>
+			<point x="295.166" y="-112"/>
+			<point x="292.166" y="-112" type="curve" smooth="yes"/>
+			<point x="286.166" y="-112"/>
+			<point x="234.308" y="-176"/>
+			<point x="142.308" y="-176" type="curve" smooth="yes"/>
+			<point x="64.308" y="-176"/>
+			<point x="0.57" y="-125"/>
+			<point x="10.515" y="-44" type="curve" smooth="yes"/>
+			<point x="18.865" y="24"/>
+			<point x="62.39" y="69"/>
+			<point x="111.442" y="102" type="curve" smooth="yes"/>
+			<point x="153.88" y="130"/>
+			<point x="202.441" y="159"/>
+			<point x="207.106" y="197" type="curve" smooth="yes"/>
+			<point x="207.229" y="198"/>
+			<point x="207.229" y="198"/>
+			<point x="207.352" y="199" type="curve"/>
+		</contour>
+		<contour>
+			<point x="248.994" y="530" type="curve" smooth="yes"/>
+			<point x="229.994" y="530"/>
+			<point x="214.152" y="515"/>
+			<point x="212.064" y="498" type="curve" smooth="yes"/>
+			<point x="209.732" y="479"/>
+			<point x="222.013" y="465"/>
+			<point x="241.013" y="465" type="curve" smooth="yes"/>
+			<point x="258.013" y="465"/>
+			<point x="274.732" y="479"/>
+			<point x="277.064" y="498" type="curve" smooth="yes"/>
+			<point x="279.152" y="515"/>
+			<point x="265.994" y="530"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+46 40 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+43 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+43 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+49 
+MDRP[11100]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

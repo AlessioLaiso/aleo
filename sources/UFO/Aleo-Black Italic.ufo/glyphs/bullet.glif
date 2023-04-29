@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+	<advance width="632"/>
+	<unicode hex="2022"/>
+	<note>
+		bullet
+	</note>
+	<outline>
+		<contour>
+			<point x="72.482" y="296" type="curve"/>
+			<point x="72.482" y="296" type="line"/>
+			<point x="56.274" y="164"/>
+			<point x="154.013" y="56"/>
+			<point x="290.013" y="56" type="curve" smooth="yes"/>
+			<point x="427.013" y="56"/>
+			<point x="551.274" y="164"/>
+			<point x="567.482" y="296" type="curve" smooth="yes"/>
+			<point x="583.935" y="430"/>
+			<point x="486.196" y="538"/>
+			<point x="349.196" y="538" type="curve" smooth="yes"/>
+			<point x="214.196" y="538"/>
+			<point x="88.935" y="430"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 6 values pushed */
+16 14 6 4 2 7 
+CALL[ ]	/* CallFunction */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+43 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 14 values pushed */
+0 1 1 0 1 0 36 0 0 0 20 1 32 2 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 0 1 1 0 1 0 35 0 0 0 1 1 0 36 0 1 0 1 1 0 33 3 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 1 value pushed */
+56 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

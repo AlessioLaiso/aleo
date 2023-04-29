@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcircumflexbelow" format="2">
+	<advance width="229"/>
+	<unicode hex="1E3D"/>
+	<anchor x="133.12" y="360" name="center"/>
+	<anchor x="177.323" y="720" name="top"/>
+	<anchor x="268.323" y="720" name="topright"/>
+	<anchor x="66.817" y="-180" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="82.918" y="0" type="line"/>
+			<point x="94.918" y="0" type="line"/>
+			<point x="183.323" y="720" type="line"/>
+			<point x="171.323" y="720" type="line"/>
+		</contour>
+		<contour>
+			<point x="91.918" y="0" type="line"/>
+			<point x="176.918" y="0" type="line"/>
+			<point x="177.532" y="5" type="line" smooth="yes"/>
+			<point x="177.9" y="8"/>
+			<point x="174.146" y="10"/>
+			<point x="171.146" y="10" type="curve" smooth="yes"/>
+			<point x="94.391" y="12" type="line"/>
+		</contour>
+		<contour>
+			<point x="174.323" y="720" type="line"/>
+			<point x="89.323" y="720" type="line"/>
+			<point x="88.709" y="715" type="line" smooth="yes"/>
+			<point x="88.34" y="712"/>
+			<point x="92.095" y="710"/>
+			<point x="95.095" y="710" type="curve" smooth="yes"/>
+			<point x="171.849" y="708" type="line"/>
+		</contour>
+		<contour>
+			<point x="-43.183" y="-180" type="line"/>
+			<point x="-34.183" y="-180" type="line" smooth="yes"/>
+			<point x="-30.183" y="-180"/>
+			<point x="-26.815" y="-177"/>
+			<point x="-25.692" y="-176" type="curve" smooth="yes"/>
+			<point x="79.709" y="-75" type="line"/>
+			<point x="160.308" y="-176" type="line" smooth="yes"/>
+			<point x="162.939" y="-179"/>
+			<point x="164.817" y="-180"/>
+			<point x="167.817" y="-180" type="curve" smooth="yes"/>
+			<point x="176.817" y="-180" type="line"/>
+			<point x="84.937" y="-65" type="line"/>
+			<point x="76.937" y="-65" type="line"/>
+		</contour>
+	</outline>
+</glyph>

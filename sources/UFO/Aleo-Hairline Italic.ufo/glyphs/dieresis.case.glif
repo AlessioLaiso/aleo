@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.case" format="2">
+	<advance width="280"/>
+	<note>
+		dieresis.case
+	</note>
+	<outline>
+		<contour>
+			<point x="138.075" y="832" type="curve"/>
+			<point x="138.075" y="832" type="line"/>
+			<point x="140.039" y="848"/>
+			<point x="128.18" y="860"/>
+			<point x="113.513" y="860" type="curve" smooth="yes"/>
+			<point x="98.846" y="860"/>
+			<point x="84.039" y="848"/>
+			<point x="82.075" y="832" type="curve" smooth="yes"/>
+			<point x="80.437" y="818.667"/>
+			<point x="92.092" y="805"/>
+			<point x="106.759" y="805" type="curve" smooth="yes"/>
+			<point x="121.426" y="805"/>
+			<point x="136.437" y="818.667"/>
+		</contour>
+		<contour>
+			<point x="342.075" y="832" type="curve"/>
+			<point x="342.075" y="832" type="line"/>
+			<point x="344.039" y="848"/>
+			<point x="332.18" y="860"/>
+			<point x="317.513" y="860" type="curve" smooth="yes"/>
+			<point x="302.846" y="860"/>
+			<point x="288.039" y="848"/>
+			<point x="286.075" y="832" type="curve" smooth="yes"/>
+			<point x="284.437" y="818.667"/>
+			<point x="296.092" y="805"/>
+			<point x="310.759" y="805" type="curve" smooth="yes"/>
+			<point x="325.426" y="805"/>
+			<point x="340.437" y="818.667"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 1 value pushed */
+24 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+25 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+24 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+6 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+6 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDRP[11100]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+25 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+12 
+MDRP[11100]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+18 
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+9 3 3 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+3 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+15 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+9 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+21 
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

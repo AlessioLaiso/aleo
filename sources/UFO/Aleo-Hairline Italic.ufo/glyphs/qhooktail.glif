@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qhooktail" format="2">
+	<advance width="535"/>
+	<unicode hex="024B"/>
+	<outline>
+		<contour>
+			<point x="381.796" y="-58" type="line"/>
+			<point x="393.796" y="-58" type="line"/>
+			<point x="457.767" y="463" type="line"/>
+			<point x="418.328" y="492"/>
+			<point x="359.064" y="498"/>
+			<point x="287.064" y="498" type="curve" smooth="yes"/>
+			<point x="146.064" y="498"/>
+			<point x="58.435" y="387"/>
+			<point x="40.877" y="244" type="curve" smooth="yes"/>
+			<point x="19.881" y="73"/>
+			<point x="79.181" y="-6"/>
+			<point x="206.181" y="-6" type="curve" smooth="yes"/>
+			<point x="278.181" y="-6"/>
+			<point x="349.338" y="36"/>
+			<point x="401.565" y="103" type="curve"/>
+		</contour>
+		<contour>
+			<point x="207.409" y="4" type="curve" smooth="yes"/>
+			<point x="86.409" y="4"/>
+			<point x="32.863" y="81"/>
+			<point x="52.877" y="244" type="curve" smooth="yes"/>
+			<point x="69.821" y="382"/>
+			<point x="149.837" y="488"/>
+			<point x="285.837" y="488" type="curve" smooth="yes"/>
+			<point x="354.837" y="488"/>
+			<point x="404.1" y="482"/>
+			<point x="445.276" y="459" type="curve"/>
+			<point x="403.529" y="119" type="line"/>
+			<point x="349.689" y="47"/>
+			<point x="278.409" y="4"/>
+		</contour>
+		<contour>
+			<point x="462.834" y="-188" type="curve"/>
+			<point x="482.834" y="-188"/>
+			<point x="503.952" y="-184.333"/>
+			<point x="526.43" y="-175" type="curve"/>
+			<point x="525.799" y="-172" type="line" smooth="yes"/>
+			<point x="524.957" y="-168"/>
+			<point x="522.623" y="-168"/>
+			<point x="521.29" y="-168" type="curve" smooth="yes"/>
+			<point x="517.29" y="-168"/>
+			<point x="507.799" y="-172"/>
+			<point x="495.43" y="-175" type="curve" smooth="yes"/>
+			<point x="486.185" y="-177"/>
+			<point x="475.939" y="-179"/>
+			<point x="463.939" y="-179" type="curve" smooth="yes"/>
+			<point x="399.939" y="-179"/>
+			<point x="384.956" y="-130"/>
+			<point x="393.796" y="-58" type="curve"/>
+			<point x="381.796" y="-58" type="line"/>
+			<point x="372.156" y="-136.513"/>
+			<point x="392.953" y="-188"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>q</string>
+		</dict>
+	</lib>
+</glyph>

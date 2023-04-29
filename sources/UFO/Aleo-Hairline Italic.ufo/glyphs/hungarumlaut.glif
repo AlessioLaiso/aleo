@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+	<advance width="332"/>
+	<unicode hex="02DD"/>
+	<note>
+		hungarumlaut
+	</note>
+	<outline>
+		<contour>
+			<point x="209.849" y="708" type="line"/>
+			<point x="198.849" y="708"/>
+			<point x="195.604" y="706"/>
+			<point x="187.499" y="697" type="curve" smooth="yes"/>
+			<point x="91.01" y="579" type="line"/>
+			<point x="98.01" y="579" type="line" smooth="yes"/>
+			<point x="102.01" y="579"/>
+			<point x="105.133" y="580"/>
+			<point x="106.501" y="583" type="curve"/>
+			<point x="220.849" y="708" type="line"/>
+			<point x="209.849" y="708" type="line"/>
+		</contour>
+		<contour>
+			<point x="325.849" y="708" type="line"/>
+			<point x="314.849" y="708"/>
+			<point x="312.604" y="706"/>
+			<point x="303.499" y="697" type="curve" smooth="yes"/>
+			<point x="197.01" y="579" type="line"/>
+			<point x="204.01" y="579" type="line" smooth="yes"/>
+			<point x="208.01" y="579"/>
+			<point x="211.133" y="580"/>
+			<point x="212.501" y="583" type="curve"/>
+			<point x="338.849" y="708" type="line"/>
+			<point x="325.849" y="708" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+9 4 3 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+0 4 9 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+13 4 9 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+9 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+19 
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+9 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+9 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

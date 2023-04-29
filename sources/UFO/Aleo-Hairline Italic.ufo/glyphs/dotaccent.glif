@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+	<advance width="142"/>
+	<unicode hex="02D9"/>
+	<note>
+		dotaccent
+	</note>
+	<outline>
+		<contour>
+			<point x="120.114" y="645" type="curve" smooth="yes"/>
+			<point x="135.114" y="645"/>
+			<point x="149.833" y="659"/>
+			<point x="151.429" y="672" type="curve" smooth="yes"/>
+			<point x="153.394" y="688"/>
+			<point x="141.867" y="700"/>
+			<point x="126.867" y="700" type="curve" smooth="yes"/>
+			<point x="111.867" y="700"/>
+			<point x="97.394" y="688"/>
+			<point x="95.429" y="672" type="curve" smooth="yes"/>
+			<point x="93.833" y="659"/>
+			<point x="105.114" y="645"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 3 values pushed */
+0 6 3 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+9 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+9 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+3 
+MDRP[11100]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

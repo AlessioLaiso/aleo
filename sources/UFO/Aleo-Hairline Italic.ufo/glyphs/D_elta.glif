@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+	<advance width="614"/>
+	<unicode hex="2206"/>
+	<note>
+		Delta
+	</note>
+	<outline>
+		<contour>
+			<point x="-20.082" y="0" type="line"/>
+			<point x="573.918" y="0" type="line"/>
+			<point x="367.867" y="700" type="line"/>
+			<point x="357.867" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="-1.854" y="10" type="line"/>
+			<point x="350.324" y="663" type="line" smooth="yes"/>
+			<point x="354.183" y="670"/>
+			<point x="356.92" y="676"/>
+			<point x="360.902" y="684" type="curve"/>
+			<point x="362.92" y="676"/>
+			<point x="364.183" y="670"/>
+			<point x="366.324" y="663" type="curve" smooth="yes"/>
+			<point x="558.146" y="10" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+2 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+2 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 2 values pushed */
+4 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>
